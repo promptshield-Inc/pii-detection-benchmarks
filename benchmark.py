@@ -9,7 +9,7 @@ nl, pt). For each document it outputs:
 
 Use the published results in `results/` for the comparable promptShield
 numbers — those are produced by promptShield's own benchmark harness
-(see https://github.com/agaaliche/promptshield-anonymizer for the
+(see https://github.com/promptshield-Inc/promptshield for the
 companion script that runs the same documents through promptShield).
 
 Usage:

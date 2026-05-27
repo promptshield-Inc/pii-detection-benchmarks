@@ -23,7 +23,7 @@ When evaluating PII detection systems, "more spans found" is the wrong metric. A
 The benchmark is fully reproducible:
 
 - **Presidio side**: clone this repo, `pip install -r requirements.txt`, `python benchmark.py`. Outputs go to `results/`.
-- **promptShield side**: the published numbers in `results/comparison_overlap_2026-05-27.csv` were produced by the script in [github.com/agaaliche/promptshield-anonymizer/scripts/benchmark_presidio.py](https://github.com/agaaliche/promptshield-anonymizer) against the same 14 PDFs (also bundled here under `docs/`). Anyone with a promptShield install can re-run it.
+- **promptShield side**: the published numbers in `results/comparison_overlap_2026-05-27.csv` were produced by the script in [github.com/promptshield-Inc/promptshield/scripts/benchmark_presidio.py](https://github.com/promptshield-Inc/promptshield) against the same 14 PDFs (also bundled here under `docs/`). Anyone with a promptShield install can re-run it.
 
 ## What each system is configured with
 
@@ -61,7 +61,7 @@ PII-anonymization customers most commonly process.
 ## Reproducing the Presidio numbers
 
 ```bash
-git clone https://github.com/agaaliche/pii-detection-benchmarks.git
+git clone https://github.com/promptshield-Inc/pii-detection-benchmarks.git
 cd pii-detection-benchmarks
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
@@ -85,7 +85,7 @@ python benchmark.py --locale en --locale fr
 
 ## Reproducing the promptShield numbers
 
-Install promptShield from [github.com/agaaliche/promptshield-anonymizer](https://github.com/agaaliche/promptshield-anonymizer) and run its `scripts/benchmark_presidio.py` against the same `docs/` folder. The script does the same Presidio comparison from promptShield's side and outputs a comparison CSV.
+Install promptShield from [github.com/promptshield-Inc/promptshield](https://github.com/promptshield-Inc/promptshield) and run its `scripts/benchmark_presidio.py` against the same `docs/` folder. The script does the same Presidio comparison from promptShield's side and outputs a comparison CSV.
 
 The promptShield numbers in `results/comparison_overlap_2026-05-27.csv` were produced this way on commit `c180bbd` (Release v1.0.14).
 
