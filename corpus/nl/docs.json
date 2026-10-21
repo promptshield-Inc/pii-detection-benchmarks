@@ -1,0 +1,998 @@
+[
+ {
+  "id": "nl01_huurovereenkomst",
+  "lang": "nl",
+  "country": [
+   "NL"
+  ],
+  "kind": "contract",
+  "title": "Huurovereenkomst kantoorruimte",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|HUUROVEREENKOMST KANTOORRUIMTE]]"
+    },
+    {
+     "t": "p",
+     "text": "en andere bedrijfsruimte in de zin van [[NEG|artikel 7:230a BW]]"
+    },
+    {
+     "t": "h",
+     "text": "DE ONDERGETEKENDEN:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[OPT|de heer]] [[PER|GERRIT-JAN VAN DER MEULEN]],\ngeboren te [[OPT|Kampen]] op [[DOB|14 maart 1962]],\nzich legitimerend met paspoort nummer [[ID|NXR4K82L1]],\nwonende te [[ADDR|Burgemeester van Roijensingel 27, 8011 CT Zwolle]],\nhierna te noemen: „[[NEG|Verhuurder]]”;"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "2. [[ORG|KROONVOGEL INTERIEURBOUW B.V.]], een besloten vennootschap met beperkte aansprakelijkheid, statutair gevestigd te [[OPT|Harderwijk]] en kantoorhoudende aan de [[ADDR|Industrieweg 14, 3846 BD Harderwijk]], ingeschreven in het handelsregister van de [[OPT|Kamer van Koophandel]] onder nummer [[ID|71534829]], te dezen rechtsgeldig vertegenwoordigd door haar statutair bestuurder [[OPT|mevrouw]] [[PER|ANOUK TER HORST-BLEEKER]], hierna te noemen: „[[NEG|Huurder]]”;"
+    },
+    {
+     "t": "p",
+     "text": "Verhuurder en Huurder hierna gezamenlijk ook te noemen: „Partijen”."
+    },
+    {
+     "t": "h",
+     "text": "OVERWEGENDE DAT:"
+    },
+    {
+     "t": "p",
+     "text": "a. Verhuurder eigenaar is van het bedrijfsverzamelgebouw gelegen aan de [[ADDR|Hanzeweg 82, 8261 SB Kampen]]; b. Huurder in dat gebouw een showroom en tekenkamer wil vestigen voor haar maatwerk in keukens, kasten en winkelinterieurs; c. Partijen de afspraken die zij hierover hebben gemaakt schriftelijk wensen vast te leggen."
+    },
+    {
+     "t": "h",
+     "text": "ZIJN OVEREENGEKOMEN ALS VOLGT:"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Artikel 1]] – Het gehuurde. Verhuurder verhuurt aan Huurder, die huurt, de kantoorruimte op de eerste verdieping van voornoemd gebouw, met een verhuurbaar vloeroppervlak van circa 214 m², alsmede vier parkeerplaatsen op het achterterrein, hierna „het gehuurde”. De [[NEG|opleveringsstaat]] die Partijen op [[DATE|25 september 2026]] gezamenlijk hebben opgemaakt, maakt als bijlage 1 deel uit van deze overeenkomst."
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Artikel 2]] – Duur. De huur gaat in op [[DATE|1 november 2026]] en wordt aangegaan voor een periode van vijf jaar, eindigend op [[DATE|31 oktober 2031]]. Na afloop wordt de huur telkens verlengd met een periode van vijf jaar, tenzij een van Partijen tegen het einde van een huurperiode opzegt met inachtneming van een termijn van ten minste twaalf maanden."
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Artikel 3]] – Huurprijs. De aanvangshuurprijs bedraagt [[NEG|€ 34.500,00]] per jaar, te vermeerderen met btw. Partijen kiezen uitdrukkelijk voor een met btw belaste verhuur. De huurprijs wordt jaarlijks per 1 november aangepast op basis van de [[NEG|consumentenprijsindex]] (CPI), reeks alle huishoudens, zoals gepubliceerd door het [[OPT|Centraal Bureau voor de Statistiek]]."
+    }
+   ],
+   [
+    {
+     "t": "p",
+     "text": "[[NEG|Artikel 4]] – Betaling. Huurder voldoet de huurprijs en het voorschot op de [[NEG|servicekosten]] van € 310,00 per maand bij vooruitbetaling vóór de eerste dag van elke kalendermaand op rekening [[IBAN|NL82 RABO 5748 2567 97]] (BIC [[OPT|RABONL2U]]) ten name van [[PER|G.J. van der Meulen]], onder vermelding van huurcontract [[REF|HK-2026/017]]."
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Artikel 5]] – Zekerheidstelling. Huurder stelt uiterlijk op [[DATE|15 oktober 2026]] een [[NEG|bankgarantie]] ter grootte van drie maanden huur, vermeerderd met btw. Zolang de bankgarantie niet is afgegeven, is Verhuurder gerechtigd de sleutels onder zich te houden."
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Artikel 6]] – Contactpersonen. Voor de dagelijkse gang van zaken treedt namens Huurder op [[PER|Daan Wiersma]], bedrijfsleider, bereikbaar op [[PHONE|0341-728 415]] en via [[EMAIL|d.wiersma@kroonvogel-interieur.nl]]. Verhuurder heeft het beheer van het gebouw opgedragen aan zijn dochter [[PER|Femke van der Meulen]], telefoon [[PHONE|+31 6 2914 0387]]. Meldingen van gebreken worden door Huurder altijd schriftelijk bevestigd."
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Artikel 7]] – Algemene bepalingen. Op deze overeenkomst zijn van toepassing de [[NEG|Algemene Bepalingen]] huurovereenkomst kantoorruimte en andere bedrijfsruimte, waarvan Huurder een exemplaar heeft ontvangen. Bij strijdigheid prevaleert het bepaalde in deze overeenkomst. Geschillen worden voorgelegd aan de bevoegde rechter in het arrondissement [[OPT|Overijssel]]."
+    },
+    {
+     "t": "p",
+     "text": "Aldus overeengekomen en in tweevoud ondertekend te [[OPT|Zwolle]] op [[DATE|2 oktober 2026]], in aanwezigheid van de volgende getuigen:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Samira El Haddouchi]], [[ADDR|Assendorperstraat 115, 8012 DH Zwolle]]\n2. [[PER|Wouter Smit]], [[ADDR|Thomas a Kempisstraat 9, 8021 BH Zwolle]]"
+    },
+    {
+     "t": "space",
+     "h": 14
+    },
+    {
+     "t": "cols",
+     "left": "[[NEG|Verhuurder]]:\n\n\n________________________\n[[PER|G.J.\nvan der Meulen]]",
+     "right": "Huurder:\n[[ORG|Kroonvogel Interieurbouw B.V.]]\n\n________________________\n[[OPT|mevr.]] [[PER|A. ter Horst-Bleeker]], bestuurder"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "nl02_factuur",
+  "lang": "nl",
+  "country": [
+   "NL"
+  ],
+  "kind": "invoice",
+  "title": "Factuur hoveniersbedrijf",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Groenhart Tuinen & Bestrating V.O.F.]]\n[[ADDR|Oude Rijksweg 212\n7722 RL Dalfsen]]\nTel. [[PHONE|0529 - 43 18 72]]  |  Mobiel [[PHONE|+31 6 4128 9053]]\nE-mail [[EMAIL|administratie@groenhart-tuinen.nl]]\nKvK [[ID|80213746]]  |  Btw-id [[ID|NL004128633B91]]"
+    },
+    {
+     "t": "space",
+     "h": 10
+    },
+    {
+     "t": "lines",
+     "text": "[[ORG|Tandartspraktijk Mulder & Van Os]]\nt.a.v. [[OPT|mevrouw]] [[PER|I.C. Mulder-Bosman]]\n[[ADDR|Ruitenbeekweg 3\n7721 BR Dalfsen]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|FACTUUR]]"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Factuurnummer",
+       "Factuurdatum",
+       "Vervaldatum",
+       "Klantnummer",
+       "Uw referentie"
+      ],
+      [
+       "[[REF|2026-0418]]",
+       "[[DATE|30-09-2026]]",
+       "[[DATE|30-10-2026]]",
+       "[[ID|K-1093]]",
+       "[[REF|OHC-2026-07]]"
+      ]
+     ],
+     "widths": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "size": 9
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Geachte [[OPT|mevrouw]] [[PER|Mulder]], conform het onderhoudscontract brengen wij u de werkzaamheden van het derde kwartaal in rekening. De werkzaamheden zijn in augustus en september uitgevoerd door onze hoveniers [[PER|Bart Kok]] en [[PER|Thijs Vos]]."
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Omschrijving",
+       "Aantal",
+       "Eenheid",
+       "Prijs",
+       "Btw",
+       "Bedrag"
+      ],
+      [
+       "[[NEG|Snoeien]] van hagen en heesters, voortuin en parkeerterrein",
+       "14",
+       "uur",
+       "€ 52,50",
+       "21%",
+       "€ 735,00"
+      ],
+      [
+       "Leveren en planten [[NEG|Rosa]] 'Bonica', bodembedekkende [[NEG|rozen]]",
+       "12",
+       "st.",
+       "€ 8,95",
+       "9%",
+       "€ 107,40"
+      ],
+      [
+       "Bemesten [[NEG|gazon]] en border, organische korrelmest",
+       "1",
+       "post",
+       "€ 96,00",
+       "21%",
+       "€ 96,00"
+      ],
+      [
+       "Herstraten [[NEG|betonklinkers]] bij rolstoelingang",
+       "6",
+       "m²",
+       "€ 64,00",
+       "21%",
+       "€ 384,00"
+      ],
+      [
+       "Afvoeren [[NEG|groenafval]] naar erkende verwerker",
+       "2",
+       "m³",
+       "€ 41,50",
+       "21%",
+       "€ 83,00"
+      ],
+      [
+       "Voorrijkosten",
+       "4",
+       "rit",
+       "€ 18,50",
+       "21%",
+       "€ 74,00"
+      ]
+     ],
+     "widths": [
+      4.6,
+      1,
+      1.3,
+      1.3,
+      0.8,
+      1.3
+     ],
+     "size": 9
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Specificatie",
+       "Bedrag"
+      ],
+      [
+       "Subtotaal excl. btw",
+       "€ 1.479,40"
+      ],
+      [
+       "[[NEG|Btw 9%]] over € 107,40",
+       "€ 9,67"
+      ],
+      [
+       "[[NEG|Btw 21%]] over € 1.372,00",
+       "€ 288,12"
+      ],
+      [
+       "Totaal te betalen",
+       "[[NEG|€ 1.777,19]]"
+      ]
+     ],
+     "widths": [
+      3,
+      1.3
+     ],
+     "size": 9
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Wij verzoeken u het totaalbedrag binnen 30 dagen na factuurdatum over te maken op [[IBAN|NL65 SNSB 1899 8282 81]] (BIC [[OPT|SNSBNL2A]]) ten name van [[ORG|Groenhart Tuinen & Bestrating V.O.F.]], onder vermelding van het factuurnummer. Bij betaling na de vervaldatum zijn wij gerechtigd de [[NEG|wettelijke handelsrente]] in rekening te brengen."
+    },
+    {
+     "t": "p",
+     "text": "Vragen over deze factuur? Neem contact op met [[PER|Marieke Groenhart]] via [[PHONE|06-41289053]] of [[EMAIL|marieke@groenhart-tuinen.nl]]. Op al onze aanbiedingen en overeenkomsten zijn onze [[NEG|algemene voorwaarden]] van toepassing, gedeponeerd bij de [[OPT|Kamer van Koophandel]].",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "nl03_rekeningafschrift",
+  "lang": "nl",
+  "country": [
+   "NL"
+  ],
+  "kind": "bank_statement",
+  "title": "Rekeningafschrift september",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[OPT|ASN Bank]]\nPostbus 30502, 2500 GM Den Haag"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Mevr.]] [[PER|J.W.M. DE HAAN]] en/of [[OPT|Dhr.]] [[PER|S.R. RAMDIN]]\n[[ADDR|Vlietlaan 48 bis\n2803 RB Gouda]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|REKENINGAFSCHRIFT]] BETAALREKENING"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Rekeninghouder",
+       "IBAN",
+       "Klantnummer",
+       "Afschrift",
+       "Periode"
+      ],
+      [
+       "[[PER|J.W.M. de Haan]]",
+       "[[IBAN|NL41 ASNB 7490 3816 49]]",
+       "[[ID|5501.842.27]]",
+       "[[REF|2026-09]]",
+       "[[DATE|01-09-2026]] t/m [[DATE|30-09-2026]]"
+      ]
+     ],
+     "widths": [
+      1.5,
+      2.2,
+      1.3,
+      0.9,
+      2.2
+     ],
+     "size": 8
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "p",
+     "text": "Beginsaldo per [[DATE|31-08-2026]]: € 1.243,87. Alle bedragen in euro.",
+     "size": 9
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Datum",
+       "Omschrijving",
+       "Referentie",
+       "Bedrag (€)",
+       "Saldo (€)"
+      ],
+      [
+       "[[DATE|01-09-2026]]",
+       "Huur woning [[ORG|Woonpartners Midden-Holland]]",
+       "[[REF|HUUR-09-55102]]",
+       "-912,40",
+       "331,47"
+      ],
+      [
+       "[[DATE|01-09-2026]]",
+       "Salaris [[ORG|Thuiszorg Groene Hart B.V.]]",
+       "[[REF|SAL-2026-09-0331]]",
+       "+2.874,15",
+       "3.205,62"
+      ],
+      [
+       "[[DATE|02-09-2026]]",
+       "[[OPT|Albert Heijn]] 1427 Gouda",
+       "[[REF|BEA-1427-0902]]",
+       "-63,18",
+       "3.142,44"
+      ],
+      [
+       "[[DATE|02-09-2026]]",
+       "Overboeking [[PER|S.R. Ramdin]] bijdrage huishouden",
+       "[[REF|NOT-8812044]]",
+       "+450,00",
+       "3.592,44"
+      ],
+      [
+       "[[DATE|03-09-2026]]",
+       "[[ORG|Fysiotherapie Kleiweg]]",
+       "[[REF|INC-77310]]",
+       "-38,50",
+       "3.553,94"
+      ],
+      [
+       "[[DATE|04-09-2026]]",
+       "[[OPT|Eneco]] voorschot energie",
+       "[[REF|ENE-4408-2209]]",
+       "-134,00",
+       "3.419,94"
+      ],
+      [
+       "[[DATE|05-09-2026]]",
+       "Tikkie [[PER|Lotte Brouwer]] pizza vrijdag",
+       "[[REF|TK-5Y8Q2M]]",
+       "-17,25",
+       "3.402,69"
+      ],
+      [
+       "[[DATE|06-09-2026]]",
+       "[[OPT|Jumbo]] Goverwelle",
+       "[[REF|BEA-2210-0906]]",
+       "-41,07",
+       "3.361,62"
+      ],
+      [
+       "[[DATE|08-09-2026]]",
+       "[[OPT|Ziggo]] abonnement",
+       "[[REF|ZG-0908-11473]]",
+       "-61,50",
+       "3.300,12"
+      ],
+      [
+       "[[DATE|08-09-2026]]",
+       "[[PER|M. van Leeuwen]] fiets, van [[IBAN|NL96 INGB 7022 5088 44]]",
+       "[[REF|NOT-8830917]]",
+       "+125,00",
+       "3.425,12"
+      ],
+      [
+       "[[DATE|09-09-2026]]",
+       "[[OPT|NS]] reizen op saldo",
+       "[[REF|NS-0909-3381]]",
+       "-24,60",
+       "3.400,52"
+      ],
+      [
+       "[[DATE|10-09-2026]]",
+       "[[ORG|Bakkerij De Korenschoof]]",
+       "[[REF|BEA-0918-1010]]",
+       "-8,95",
+       "3.391,57"
+      ],
+      [
+       "[[DATE|11-09-2026]]",
+       "[[OPT|Gemeente Gouda]] belastingen termijn 6",
+       "[[REF|GEM-2026-114093]]",
+       "-98,31",
+       "3.293,26"
+      ],
+      [
+       "[[DATE|12-09-2026]]",
+       "[[OPT|Bol.com]] bestelling",
+       "[[REF|BOL-6620193]]",
+       "-39,99",
+       "3.253,27"
+      ],
+      [
+       "[[DATE|13-09-2026]]",
+       "Geldautomaat Markt Gouda",
+       "[[REF|GA-1309-0042]]",
+       "-100,00",
+       "3.153,27"
+      ],
+      [
+       "[[DATE|15-09-2026]]",
+       "Kinderopvang [[ORG|De Speelvogel B.V.]]",
+       "[[REF|KO-202609-118]]",
+       "-688,00",
+       "2.465,27"
+      ],
+      [
+       "[[DATE|15-09-2026]]",
+       "[[PER|Joost de Haan]] lening terug",
+       "[[REF|NOT-8857720]]",
+       "-250,00",
+       "2.215,27"
+      ]
+     ],
+     "widths": [
+      1.2,
+      4.2,
+      1.9,
+      1.1,
+      1.1
+     ],
+     "size": 8
+    }
+   ],
+   [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Datum",
+       "Omschrijving",
+       "Referentie",
+       "Bedrag (€)",
+       "Saldo (€)"
+      ],
+      [
+       "[[DATE|16-09-2026]]",
+       "[[OPT|Belastingdienst]] toeslagen",
+       "[[REF|BD-TSL-0926]]",
+       "+316,00",
+       "2.531,27"
+      ],
+      [
+       "[[DATE|17-09-2026]]",
+       "[[OPT|Kruidvat]] Kleiweg",
+       "[[REF|BEA-3341-1709]]",
+       "-12,48",
+       "2.518,79"
+      ],
+      [
+       "[[DATE|19-09-2026]]",
+       "[[ORG|Tandartsenpraktijk Van Wijngaarden]]",
+       "[[REF|TND-26-04471]]",
+       "-76,30",
+       "2.442,49"
+      ],
+      [
+       "[[DATE|19-09-2026]]",
+       "[[OPT|Albert Heijn]] 1427 Gouda",
+       "[[REF|BEA-1427-1909]]",
+       "-88,92",
+       "2.353,57"
+      ],
+      [
+       "[[DATE|20-09-2026]]",
+       "Tikkie [[PER|Fleur Sanders-Oei]] verjaardag",
+       "[[REF|TK-9R3D7A]]",
+       "+22,50",
+       "2.376,07"
+      ],
+      [
+       "[[DATE|22-09-2026]]",
+       "[[OPT|Zilveren Kruis]] premie polis [[ID|392011847]]",
+       "[[REF|ZK-2209-55]]",
+       "-148,25",
+       "2.227,82"
+      ],
+      [
+       "[[DATE|23-09-2026]]",
+       "[[ORG|Autobedrijf Klein Gouda]] APK",
+       "[[REF|AB-26-1187]]",
+       "-312,60",
+       "1.915,22"
+      ],
+      [
+       "[[DATE|24-09-2026]]",
+       "[[OPT|Spotify]]",
+       "[[REF|SP-2409-90]]",
+       "-11,99",
+       "1.903,23"
+      ],
+      [
+       "[[DATE|25-09-2026]]",
+       "[[PER|Kees Visser]] contributie [[PER|Daan]]",
+       "[[REF|NOT-8874105]]",
+       "-60,00",
+       "1.843,23"
+      ],
+      [
+       "[[DATE|26-09-2026]]",
+       "[[OPT|Shell]] Goudse Poort",
+       "[[REF|BEA-7720-2609]]",
+       "-71,33",
+       "1.771,90"
+      ],
+      [
+       "[[DATE|27-09-2026]]",
+       "Naar eigen spaarrekening",
+       "[[REF|SPR-2709]]",
+       "-400,00",
+       "1.371,90"
+      ],
+      [
+       "[[DATE|29-09-2026]]",
+       "[[OPT|HEMA]] Gouda",
+       "[[REF|BEA-5512-2909]]",
+       "-19,95",
+       "1.351,95"
+      ],
+      [
+       "[[DATE|30-09-2026]]",
+       "Kosten betaalpakket september",
+       "[[REF|KST-0926]]",
+       "-3,75",
+       "1.348,20"
+      ]
+     ],
+     "widths": [
+      1.2,
+      4.2,
+      1.9,
+      1.1,
+      1.1
+     ],
+     "size": 8
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Eindsaldo per [[DATE|30-09-2026]]: € 1.348,20. Totaal bij: € 3.787,65; totaal af: € 3.683,32.",
+     "size": 9
+    },
+    {
+     "t": "p",
+     "text": "Controleer dit afschrift. Klopt er iets niet, neem dan binnen 13 maanden contact met ons op. Uw tegoed valt onder het [[NEG|depositogarantiestelsel]]; meer informatie vindt u in het informatieblad voor deposanten. Ingevolge de [[NEG|Wet op het financieel toezicht]] staan wij onder toezicht van [[OPT|De Nederlandsche Bank]] en de [[OPT|AFM]].",
+     "size": 9
+    },
+    {
+     "t": "p",
+     "text": "Heeft u een machtiging voor [[NEG|automatische incasso]] afgegeven en bent u het niet eens met een afschrijving, dan kunt u deze binnen 56 dagen kosteloos laten terugboeken. Een [[NEG|creditrente]] van 0,00 % is over deze periode niet van toepassing.",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "nl04_ontslagbrief_cardiologie",
+  "lang": "nl",
+  "country": [
+   "BE"
+  ],
+  "kind": "medical",
+  "title": "Ontslagbrief cardiologie",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Kliniek Sint-Gerolf vzw]]\nDienst Cardiologie\n[[ADDR|Kortrijksesteenweg 1104, 9051 Sint-Denijs-Westrem]]\nTel. [[PHONE|+32 9 240 61 18]] – secretariaat cardiologie\n[[EMAIL|cardio.secretariaat@sintgerolf.be]]\nOndernemingsnummer [[ID|0456.339.072]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "lines",
+     "text": "Aan [[OPT|Dr.]] [[PER|Pieter-Jan Goossens]]\n[[ORG|Huisartsenpraktijk De Linde]]\n[[ADDR|Kerkstraat 41, 9850 Nevele]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Gent]], [[DATE|8 oktober 2026]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Betreft",
+       "[[PER|VANDENBERGHE Hilde]]"
+      ],
+      [
+       "Geboortedatum",
+       "[[DOB|02/11/1967]]"
+      ],
+      [
+       "Rijksregisternummer",
+       "[[ID|67.11.02-148.15]]"
+      ],
+      [
+       "Ziekenfonds",
+       "[[OPT|CM]] – aansluitingsnummer [[ID|171-0438825-02]]"
+      ],
+      [
+       "Patiëntnummer",
+       "[[ID|SG-2209571]]"
+      ],
+      [
+       "Opname – ontslag",
+       "[[DATE|29/09/2026]] – [[DATE|04/10/2026]]"
+      ]
+     ],
+     "widths": [
+      1.4,
+      3
+     ],
+     "size": 9
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Waarde collega,"
+    },
+    {
+     "t": "p",
+     "text": "Uw patiënte, [[OPT|mevrouw]] [[PER|Hilde Vandenberghe]], werd op [[DATE|29 september]] via de spoedgevallendienst opgenomen op onze afdeling met sinds twee dagen bestaande hartkloppingen en dyspneu bij lichte inspanning. Het ECG toonde [[NEG|voorkamerfibrillatie]] met snelle ventriculaire respons (ca. 140/min)."
+    },
+    {
+     "t": "h",
+     "text": "Voorgeschiedenis"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Arteriële hypertensie]] sinds 2014. [[NEG|Diabetes mellitus type 2]], behandeld met [[NEG|metformine]]. Cholecystectomie in 2009. Geen gekende allergieën. Moeder overleden aan een [[NEG|CVA]] op 71-jarige leeftijd."
+    },
+    {
+     "t": "h",
+     "text": "Onderzoeken"
+    },
+    {
+     "t": "p",
+     "text": "Labo bij opname: [[NEG|HbA1c]] 7,6 %, [[NEG|TSH]] 0,92 mU/l, [[NEG|NT-proBNP]] 1.240 pg/ml, [[NEG|eGFR]] 71 ml/min/1,73 m². Transthoracale echocardiografie, uitgevoerd door [[OPT|Dr.]] [[PER|Marc De Wolf]]: normale linkerventrikelfunctie (EF 56 %), licht gedilateerd linkerpreatrium, geen relevant kleplijden."
+    },
+    {
+     "t": "h",
+     "text": "Beleid en behandeling"
+    },
+    {
+     "t": "p",
+     "text": "Gezien een [[NEG|CHA2DS2-VASc-score]] van 3 werd gestart met [[NEG|apixaban]] 5 mg tweemaal daags. Frequentiecontrole met [[NEG|bisoprolol]] 2,5 mg. Op [[DATE|2 oktober]] werd onder sedatie een elektrische cardioversie uitgevoerd door [[OPT|Prof. dr.]] [[PER|Annelies Van den Broeck-Maes]], met herstel van sinusritme."
+    }
+   ],
+   [
+    {
+     "t": "p",
+     "text": "Medicatie bij ontslag: apixaban 5 mg 2x/dag, bisoprolol 2,5 mg 1x/dag, metformine 850 mg 2x/dag, [[NEG|perindopril]] 5 mg 1x/dag. De [[NEG|acetylsalicylzuur]] die patiënte op eigen initiatief nam, werd gestopt."
+    },
+    {
+     "t": "h",
+     "text": "Opvolging"
+    },
+    {
+     "t": "p",
+     "text": "Controle op de raadpleging cardiologie bij ondergetekende binnen zes weken, met [[NEG|holter]]-registratie vooraf. Wij vragen u de nierfunctie en het bloedbeeld over drie maanden te controleren. Bij herval van klachten mag patiënte rechtstreeks contact opnemen met ons secretariaat."
+    },
+    {
+     "t": "p",
+     "text": "Als contactpersoon gaf patiënte haar dochter op, [[OPT|mevrouw]] [[PER|Sofie Claeys]], [[ADDR|Brugsesteenweg 220 bus 3, 9030 Mariakerke]], gsm [[PHONE|0476 38 21 09]]. Haar echtgenoot, [[OPT|de heer]] [[PER|Dirk Claeys]], werd eveneens op de hoogte gebracht en begeleidt haar naar de volgende raadpleging."
+    },
+    {
+     "t": "p",
+     "text": "Met collegiale groeten,"
+    },
+    {
+     "t": "space",
+     "h": 16
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Dr.]] [[PER|Jeroen Lammens]]\nAdjunct-diensthoofd cardiologie\nRIZIV-nr. [[ID|1-48217-63-470]]"
+    },
+    {
+     "t": "space",
+     "h": 12
+    },
+    {
+     "t": "p",
+     "text": "Kopie: [[OPT|Dr.]] [[PER|Marc De Wolf]]; patiëntendossier. Dit verslag bevat medische gegevens die onder het [[NEG|beroepsgeheim]] vallen en is uitsluitend bestemd voor de geadresseerde.",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "nl05_contractwijziging",
+  "lang": "nl",
+  "country": [
+   "NL"
+  ],
+  "kind": "hr_letter",
+  "title": "Bevestiging vast dienstverband",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Haverkamp Logistiek B.V.]]\n[[ADDR|Transportweg 6\n4004 KG Tiel]]\nT [[PHONE|0344 - 61 72 00]]  |  KvK [[ID|62094418]]"
+    },
+    {
+     "t": "space",
+     "h": 10
+    },
+    {
+     "t": "lines",
+     "text": "Persoonlijk en vertrouwelijk\n[[OPT|Mevrouw]] [[PER|R.E. Bakker]]\n[[ADDR|Zandwijkstraat 33\n4001 NV Tiel]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Tiel]], [[DATE|14 oktober 2026]]\nOnderwerp: bevestiging contractwijziging en vast dienstverband"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Gegevens werknemer",
+       ""
+      ],
+      [
+       "Naam",
+       "[[PER|Bakker, Roos Elisabeth]]"
+      ],
+      [
+       "Personeelsnummer",
+       "[[ID|004817]]"
+      ],
+      [
+       "Geboortedatum",
+       "[[DOB|09-06-1994]]"
+      ],
+      [
+       "Burgerservicenummer",
+       "[[ID|219276857]]"
+      ],
+      [
+       "Functie",
+       "Planner binnenlands transport"
+      ],
+      [
+       "Leidinggevende",
+       "[[PER|Hendrik-Jan Kuipers]]"
+      ]
+     ],
+     "widths": [
+      1.5,
+      3
+     ],
+     "size": 9
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Beste [[PER|Roos]],"
+    },
+    {
+     "t": "p",
+     "text": "Met genoegen bevestigen wij dat je [[NEG|arbeidsovereenkomst voor bepaalde tijd]], die op [[DATE|31 oktober 2026]] afloopt, met ingang van [[DATE|1 november 2026]] wordt omgezet in een arbeidsovereenkomst voor onbepaalde tijd. Je leidinggevende, [[PER|Hendrik-Jan Kuipers]], heeft in het beoordelingsgesprek van [[DATE|22 september]] laten weten zeer tevreden te zijn over je inzet, met name tijdens de vervanging van je collega [[PER|Gijs de Bruijn]] in de zomermaanden."
+    },
+    {
+     "t": "p",
+     "text": "Je bruto maandsalaris wordt per dezelfde datum verhoogd naar € 3.412,00 bij een werkweek van 40 uur (functiegroep E, trede 6 van de [[NEG|cao Beroepsgoederenvervoer]]). Daarnaast ontvang je [[NEG|vakantiegeld]] van 8 % en bouw je 12 [[NEG|ADV-dagen]] per jaar op. Er geldt geen nieuwe [[NEG|proeftijd]]."
+    },
+    {
+     "t": "p",
+     "text": "Je blijft deelnemen aan de [[NEG|pensioenregeling]] van het bedrijfstakpensioenfonds. Overige arbeidsvoorwaarden, waaronder de reiskostenvergoeding en het [[NEG|concurrentiebeding]] uit artikel 9 van je oorspronkelijke arbeidsovereenkomst, blijven ongewijzigd. Ook de lunchregeling in het bedrijfsrestaurant blijft bestaan; onze [[NEG|kok]] houdt rekening met de dieetwensen die je eerder hebt doorgegeven."
+    }
+   ],
+   [
+    {
+     "t": "p",
+     "text": "Wil je beide exemplaren van deze brief ondertekenen en er één vóór [[DATE|28 oktober 2026]] retourneren aan de afdeling HR? Voor vragen kun je terecht bij [[PER|Nadia Ouali]], HR-adviseur, via [[PHONE|0344 - 61 72 14]] of [[EMAIL|n.ouali@haverkamplogistiek.nl]]. Haar collega [[PER|Bas van 't Hof]] neemt waar tijdens haar afwezigheid in de week van [[DATE|19 oktober]]."
+    },
+    {
+     "t": "p",
+     "text": "Wij wensen je veel succes en plezier in je functie en kijken uit naar een voortgezette samenwerking."
+    },
+    {
+     "t": "p",
+     "text": "Met vriendelijke groet,"
+    },
+    {
+     "t": "space",
+     "h": 10
+    },
+    {
+     "t": "cols",
+     "left": "[[ORG|Haverkamp Logistiek B.V.]]\n\n\n______________________\n[[PER|Hendrik-Jan\nKuipers]]\nmanager Planning & Dispatch",
+     "right": "Voor akkoord, werknemer:\n\n\n______________________\n[[PER|R.E. Bakker]]\nDatum: ____________"
+    },
+    {
+     "t": "space",
+     "h": 14
+    },
+    {
+     "t": "p",
+     "text": "Bijlage: gewijzigde arbeidsovereenkomst (2 exemplaren). Kopie: personeelsdossier.",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "nl06_emailwisseling_kortgeding",
+  "lang": "nl",
+  "country": [
+   "NL"
+  ],
+  "kind": "legal_correspondence",
+  "title": "E-mailwisseling kort geding",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "Van: [[PER|Eline van Dijk-Hoogendoorn]] <[[EMAIL|e.vandijk@hooglandvandijk.nl]]>\nAan: [[PER|Marco Verbeek]] <[[EMAIL|m.verbeek@degroeneweide-kaas.nl]]>\nCc: [[PER|Thomas Hoogland]] <[[EMAIL|t.hoogland@hooglandvandijk.nl]]>; [[EMAIL|secretariaat@hooglandvandijk.nl]]\nDatum: [[DATE|donderdag 15 oktober 2026]] 16:42\nOnderwerp: RE: kort geding [[ORG|Duinzicht]] / [[ORG|De Groene Weide]] – [[REF|C/09/671344 / KG ZA 26-812]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Beste [[PER|Marco]],"
+    },
+    {
+     "t": "p",
+     "text": "Zojuist ontvingen wij van de griffie van de [[OPT|Rechtbank Den Haag]] de oproeping voor de mondelinge behandeling van het [[NEG|kort geding]]. De zitting is bepaald op [[DATE|dinsdag 3 november 2026]] om 10.30 uur, ten overstaan van de [[NEG|voorzieningenrechter]] [[OPT|mr.]] [[PER|H.A. Schipper]]."
+    },
+    {
+     "t": "p",
+     "text": "Zoals besproken vordert [[ORG|Vastgoedfonds Duinzicht C.V.]] ontruiming van de bedrijfshal aan de [[ADDR|Zuidweg 17, 2671 MN Naaldwijk]] wegens een vermeende huurachterstand van [[NEG|€ 48.260,00]]. De wederpartij wordt bijgestaan door [[OPT|mr.]] [[PER|Th. Wittebrood]] van [[ORG|Wittebrood & Kalf Advocaten]]. In de dagvaarding wordt als bestuurder van de [[NEG|beherend vennoot]] genoemd: [[PER|VISSER, Johannes Cornelis]], dezelfde persoon die in maart nog schriftelijk uitstel van betaling toezegde."
+    },
+    {
+     "t": "p",
+     "text": "Wij willen ter zitting twee getuigen laten horen over de gemaakte betalingsafspraken:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Ilse Koopmans]], uw financieel controller;\n2. [[PER|Ruud Kaptein]], voormalig bedrijfsleider, [[ADDR|Westlandseweg 140, 2291 PJ Wateringen]], tel. [[PHONE|06 38 77 15 02]]."
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Kun je ons uiterlijk [[DATE|maandag 26 oktober]] de bankafschriften sturen waaruit de betalingen aan Duinzicht blijken, en de e-mail van [[PER|Visser]] van [[DATE|12 maart 2026]]? Wij verwerken die in de [[NEG|conclusie van antwoord]] en de [[NEG|productielijst]]. Een beroep op [[NEG|artikel 7:291 BW]] ligt volgens ons niet voor de hand; het verweer richt zich op de betalingsregeling."
+    },
+    {
+     "t": "p",
+     "text": "Met vriendelijke groet,"
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|mr.]] [[PER|E.W.P. van Dijk-Hoogendoorn]]\nadvocaat\n[[ORG|Hoogland Van Dijk Advocaten N.V.]]\n[[ADDR|Prinsessegracht 23, 2514 AP Den Haag]]\nT [[PHONE|+31 (0)70 345 82 10]]  |  M [[PHONE|06-51 93 40 27]]"
+    }
+   ],
+   [
+    {
+     "t": "p",
+     "text": "-----Oorspronkelijk bericht-----",
+     "size": 9
+    },
+    {
+     "t": "lines",
+     "text": "Van: [[PER|Marco Verbeek]] <[[EMAIL|m.verbeek@degroeneweide-kaas.nl]]>\nAan: [[PER|Eline van Dijk-Hoogendoorn]] <[[EMAIL|e.vandijk@hooglandvandijk.nl]]>\nDatum: [[DATE|woensdag 14 oktober 2026]] 09:15\nOnderwerp: dagvaarding [[ORG|Duinzicht]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Goedemorgen [[PER|Eline]],"
+    },
+    {
+     "t": "p",
+     "text": "Hierbij de dagvaarding die gisteren door deurwaarder [[PER|P. Zwart]] van [[ORG|Gerechtsdeurwaarderskantoor Zwart & Groen]] bij ons is betekend. Ik schrik ervan dat Duinzicht nu ineens [[NEG|ontruiming]] vordert, terwijl [[PER|Hans Visser]] ons in maart nog toezegde dat de achterstand in termijnen mocht worden ingelopen. Dat staat [[NEG|zwart op wit]] in zijn mail."
+    },
+    {
+     "t": "p",
+     "text": "Onze directeur, [[OPT|mevrouw]] [[PER|Wilma de Groot-Akkerman]], is tot [[DATE|20 oktober]] met vakantie; in haar plaats teken ik namens [[ORG|Kaasmakerij De Groene Weide B.V.]] (KvK [[ID|27181945]]). De productie loopt gewoon door: de rijpingskelder ligt vol met [[NEG|Goudse kaas]] en we kunnen de hal echt niet missen."
+    },
+    {
+     "t": "p",
+     "text": "Ik ben vandaag en morgen bereikbaar op [[PHONE|0174 - 62 19 38]]."
+    },
+    {
+     "t": "lines",
+     "text": "Groet,\n[[PER|Marco Verbeek]]\nhoofd financiën\n[[ORG|Kaasmakerij De Groene Weide B.V.]]\n[[ADDR|Middel Broekweg 9, 2675 KB Honselersdijk]]"
+    }
+   ]
+  ]
+ }
+]

@@ -1,0 +1,1024 @@
+[
+ {
+  "id": "pt01_contrato_reforma",
+  "lang": "pt",
+  "country": [
+   "BR"
+  ],
+  "kind": "contract",
+  "title": "Contrato de prestação de serviços de reforma predial",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|CONTRATO DE PRESTAÇÃO DE SERVIÇOS]] DE REFORMA E MANUTENÇÃO PREDIAL"
+    },
+    {
+     "t": "p",
+     "text": "Pelo presente instrumento particular, as partes abaixo qualificadas têm entre si justo e contratado o seguinte:"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|CONTRATANTE]]: [[PER|VALQUÍRIA DOS ANJOS MOTTA]], brasileira, casada, empresária, portadora da Cédula de Identidade RG nº [[ID|32.418.507-6]] SSP/SP, inscrita no CPF/MF sob o nº [[ID|615.974.365-18]], residente e domiciliada na [[ADDR|Rua Desembargador Feliciano Brandão, 412, apto. 71, Vila Mariana, São Paulo/SP, CEP 04117-030]], e-mail [[EMAIL|valquiria.motta@uol.com.br]], telefone [[PHONE|(11) 98417-2265]];"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|CONTRATADA]]: [[ORG|SERRA ALTA ENGENHARIA E MANUTENÇÃO PREDIAL LTDA.]], pessoa jurídica de direito privado, inscrita no CNPJ sob o nº [[ID|33.967.966/0001-51]], com sede na [[ADDR|Avenida Professor Francisco Morato, 2.318, sala 14, Butantã, São Paulo/SP, CEP 05512-300]], neste ato representada por seu sócio-administrador, [[OPT|Sr.]] [[PER|OTÁVIO HENRIQUE BRANCO LEÃO]], brasileiro, engenheiro civil, CREA-SP nº [[ID|5063184720]], CPF nº [[ID|444.287.746-72]]."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|CLÁUSULA PRIMEIRA]] – DO OBJETO"
+    },
+    {
+     "t": "p",
+     "text": "1.1. O presente contrato tem por objeto a execução, pela CONTRATADA, de serviços de [[NEG|impermeabilização]] da laje de cobertura, troca da [[NEG|tubulação hidráulica]] e pintura das fachadas do imóvel situado à [[ADDR|Rua Doutor Mário Cardim, 88, Vila Mariana, São Paulo/SP]], de propriedade da CONTRATANTE, conforme memorial descritivo (Anexo I)."
+    },
+    {
+     "t": "p",
+     "text": "1.2. A obra será acompanhada pelo arquiteto [[PER|Raul Pinto Coelho]], indicado pela CONTRATANTE, a quem caberá aprovar cada etapa antes da liberação do pagamento correspondente."
+    },
+    {
+     "t": "h",
+     "text": "CLÁUSULA SEGUNDA – DO PREÇO E DA FORMA DE PAGAMENTO"
+    },
+    {
+     "t": "p",
+     "text": "2.1. Pelos serviços, a CONTRATANTE pagará à CONTRATADA o valor global de [[NEG|R$ 148.600,00]] (cento e quarenta e oito mil e seiscentos reais), em quatro parcelas, mediante medição aprovada, por transferência para a conta da CONTRATADA no [[OPT|Banco Itaú]], agência 0841, conta corrente nº [[ID|31277-4]]."
+    },
+    {
+     "t": "p",
+     "text": "2.2. O atraso no pagamento sujeitará a CONTRATANTE a [[NEG|multa moratória]] de 2% (dois por cento) sobre a parcela em atraso, acrescida de juros de 1% (um por cento) ao mês."
+    },
+    {
+     "t": "h",
+     "text": "CLÁUSULA TERCEIRA – DO PRAZO"
+    },
+    {
+     "t": "p",
+     "text": "3.1. Os serviços terão início em [[DATE|3 de novembro de 2026]] e deverão ser concluídos até [[DATE|26 de fevereiro de 2027]], ressalvados os dias de chuva devidamente registrados no diário de obra."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "CLÁUSULA QUARTA – DA GARANTIA"
+    },
+    {
+     "t": "p",
+     "text": "4.1. A CONTRATADA responde pela solidez e segurança da obra pelo prazo de cinco anos, nos termos do [[NEG|art. 618 do Código Civil]], obrigando-se a reparar, sem ônus para a CONTRATANTE, qualquer infiltração surgida nesse período."
+    },
+    {
+     "t": "h",
+     "text": "CLÁUSULA QUINTA – DA RESCISÃO"
+    },
+    {
+     "t": "p",
+     "text": "5.1. O descumprimento de qualquer cláusula autoriza a parte inocente a rescindir o contrato, mediante notificação por escrito, aplicando-se [[NEG|cláusula penal]] equivalente a 10% (dez por cento) do valor global."
+    },
+    {
+     "t": "p",
+     "text": "5.2. As comunicações destinadas à CONTRATADA deverão ser enviadas aos cuidados da [[OPT|Sra.]] [[PER|Lívia Rocha Damasceno]], gerente de contratos, pelo e-mail [[EMAIL|contratos@serraaltaengenharia.com.br]], com cópia ao engenheiro responsável."
+    },
+    {
+     "t": "h",
+     "text": "CLÁUSULA SEXTA – DO FORO"
+    },
+    {
+     "t": "p",
+     "text": "6.1. Fica eleito o [[OPT|Foro da Comarca de São Paulo]] para dirimir quaisquer dúvidas oriundas deste contrato, com renúncia a qualquer outro, por mais privilegiado que seja."
+    },
+    {
+     "t": "p",
+     "text": "E, por estarem assim justas e contratadas, as partes assinam o presente em duas vias de igual teor e forma, na presença das testemunhas abaixo."
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|São Paulo]], [[DATE|19 de outubro de 2026]]."
+    },
+    {
+     "t": "space",
+     "h": 14
+    },
+    {
+     "t": "cols",
+     "left": "______________________________\n[[PER|VALQUÍRIA DOS ANJOS\nMOTTA]]\n[[NEG|CONTRATANTE]]",
+     "right": "______________________________\n[[ORG|SERRA ALTA ENGENHARIA E\nMANUTENÇÃO PREDIAL LTDA.]]\np.p. [[PER|Otávio Henrique Branco Leão]]"
+    },
+    {
+     "t": "space",
+     "h": 14
+    },
+    {
+     "t": "lines",
+     "text": "TESTEMUNHAS:\n1. [[PER|Gilberto Saraiva Cunha]] – CPF [[ID|556.940.263-22]]\n2. [[PER|Rosa Maria de Freitas Bastos]] – CPF [[ID|270.605.158-28]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pt02_fatura_grafica",
+  "lang": "pt",
+  "country": [
+   "PT"
+  ],
+  "kind": "invoice",
+  "title": "Fatura de artes gráficas",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Lusoprint – Artes Gráficas do Cávado, Lda.]]\n[[ADDR|Rua do Raio, 214\n4710-923 Braga]]\nTel. [[PHONE|253 618 402]] · [[EMAIL|geral@lusoprint-cavado.pt]]\nNIPC [[ID|502556285]] · Capital social: 50.000,00 €\nMatriculada na [[OPT|Conservatória do Registo Comercial de Braga]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|FATURA]] N.º [[REF|FT 2026/1184]]"
+    },
+    {
+     "t": "cols",
+     "left": "Exmos. Senhores\n[[ORG|Quinta da Lameira – Vinhos de Basto, S.A.]]\nA/C [[OPT|Eng.ª]] [[PER|Beatriz Corte-Real]]\n[[ADDR|Lugar da Lameira, s/n\n4860-212 Cabeceiras de Basto]]\nNIF [[ID|541419293]]",
+     "right": "Data de emissão: [[DATE|12/10/2026]]\nData de vencimento: [[DATE|11/11/2026]]\nV/ Encomenda: [[REF|EC-5512]]\nN.º de cliente: [[ID|C-00731]]\nGuia de remessa: [[REF|GR 2026/0977]]\nATCUD: [[REF|JFK83X2M-1184]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Encomenda efetuada pela [[OPT|Sr.ª]] [[PER|Sónia Pereira Raposo]] (Departamento de Marketing) em [[DATE|29/09/2026]]; artes finais aprovadas por correio eletrónico a [[DATE|2 de outubro]]."
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Ref.",
+       "Descrição",
+       "Qtd.",
+       "Preço unit.",
+       "IVA",
+       "Total"
+      ],
+      [
+       "RT-750",
+       "[[NEG|Rótulos autocolantes]] 90×120 mm, papel vergé, 4 cores – [[NEG|Vinho Verde]] [[NEG|Loureiro]] 2025",
+       "24 000",
+       "0,0615 €",
+       "23%",
+       "[[NEG|1.476,00 €]]"
+      ],
+      [
+       "CT-060",
+       "[[NEG|Contrarrótulos]] 60×90 mm, 1 cor",
+       "24 000",
+       "0,0280 €",
+       "23%",
+       "672,00 €"
+      ],
+      [
+       "CX-6G",
+       "Caixas de cartão canelado para 6 garrafas, impressão a 2 cores",
+       "4 000",
+       "0,8450 €",
+       "23%",
+       "3.380,00 €"
+      ],
+      [
+       "ACB-01",
+       "Acabamento: [[NEG|verniz localizado]] e estampagem a quente (ouro)",
+       "1",
+       "410,00 €",
+       "23%",
+       "410,00 €"
+      ],
+      [
+       "PRV-02",
+       "Provas de cor e cliché de [[NEG|serigrafia]]",
+       "1",
+       "95,00 €",
+       "23%",
+       "95,00 €"
+      ]
+     ],
+     "size": 8,
+     "widths": [
+      1.1,
+      4.4,
+      1,
+      1.2,
+      0.7,
+      1.2
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "Total ilíquido: 6.033,00 €\nDesconto comercial: 0,00 €\n[[NEG|IVA à taxa normal (23%)]]: 1.387,59 €\nTotal a pagar: [[NEG|7.420,59 €]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Condições de pagamento: 30 dias a contar da data da fatura, por transferência bancária para a conta na [[OPT|Caixa Geral de Depósitos]] com o IBAN [[IBAN|PT50 0035 0412 0027 8641 9309 1]] (BIC/SWIFT: [[OPT|CGDIPTPL]]), indicando o número da fatura no descritivo. Após o vencimento, são devidos juros de mora à taxa legal em vigor para transações comerciais."
+    },
+    {
+     "t": "p",
+     "text": "Para qualquer esclarecimento, contacte o nosso responsável comercial, [[PER|Joaquim Lobo Ferreira]], pelo telemóvel [[PHONE|+351 936 214 870]] ou pelo e-mail [[EMAIL|joaquim.ferreira@lusoprint-cavado.pt]]."
+    },
+    {
+     "t": "lines",
+     "text": "Os bens foram colocados à disposição do adquirente na data da guia de remessa.\nProcessado por programa certificado n.º 2817/AT · Emitido por: [[PER|M. F. Antunes]]\nOriginal"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pt03_extrato_bancario",
+  "lang": "pt",
+  "country": [
+   "PT"
+  ],
+  "kind": "bank_statement",
+  "title": "Extrato de conta à ordem",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[OPT|Banco BPI, S.A.]]\n[[NEG|EXTRATO COMBINADO]] – Conta à Ordem\nPeríodo: [[DATE|01/09/2026]] a [[DATE|30/09/2026]] · Extrato n.º [[REF|2026/09]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "cols",
+     "left": "Titulares:\n[[PER|HENRIQUE MANUEL SÁ-NOGUEIRA VALENTE]]\n[[PER|TERESA CRISTINA LIMA VALENTE]]\n[[ADDR|Avenida da República, 1182, 3.º Esq.\n4430-192 Vila Nova de Gaia]]",
+     "right": "N.º de conta: [[ID|52917380416]]\nIBAN: [[IBAN|PT50 0010 0000 5291 7380 4162 2]]\nBIC: [[OPT|BBPIPTPL]]\nNIF 1.º titular: [[ID|134045718]]\nNIF 2.º titular: [[ID|204584957]]"
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "p",
+     "text": "Gestora de cliente: [[PER|Patrícia Lemos Barreto]] – Balcão Gaia República, linha direta [[PHONE|223 741 590]]. Saldo inicial em [[DATE|31/08/2026]]: 4.218,37 €.",
+     "size": 9
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Data",
+       "Descrição",
+       "Referência",
+       "Montante (€)",
+       "Saldo (€)"
+      ],
+      [
+       "[[DATE|01/09/2026]]",
+       "DD [[OPT|EDP COMERCIAL]] ELETRICIDADE",
+       "[[REF|2026090112874]]",
+       "-68,42",
+       "4.149,95"
+      ],
+      [
+       "[[DATE|02/09/2026]]",
+       "COMPRA [[OPT|CONTINENTE]] GAIA SHOPPING",
+       "[[REF|7741029]]",
+       "-94,17",
+       "4.055,78"
+      ],
+      [
+       "[[DATE|02/09/2026]]",
+       "MB WAY P/ [[PER|Ana Sofia Raposo]]",
+       "[[REF|MBW 4410273]]",
+       "-25,00",
+       "4.030,78"
+      ],
+      [
+       "[[DATE|03/09/2026]]",
+       "DD [[OPT|MEO]] SERVIÇOS COMUNICAÇÕES",
+       "[[REF|2026090300417]]",
+       "-54,99",
+       "3.975,79"
+      ],
+      [
+       "[[DATE|04/09/2026]]",
+       "TRF P/ [[PER|Miguel Ângelo Tavares]] RENDA GARAGEM",
+       "[[REF|TRF0904A882]]",
+       "-90,00",
+       "3.885,79"
+      ],
+      [
+       "[[DATE|05/09/2026]]",
+       "LEV ATM GAIA AV REPÚBLICA",
+       "[[REF|0452]]",
+       "-60,00",
+       "3.825,79"
+      ],
+      [
+       "[[DATE|06/09/2026]]",
+       "COMPRA [[OPT|PINGO DOCE]] CANIDELO",
+       "[[REF|8810345]]",
+       "-37,86",
+       "3.787,93"
+      ],
+      [
+       "[[DATE|08/09/2026]]",
+       "PAG SERV 21734 [[OPT|ÁGUAS DE GAIA]]",
+       "[[REF|284118902]]",
+       "-31,20",
+       "3.756,73"
+      ],
+      [
+       "[[DATE|09/09/2026]]",
+       "TRF DE [[PER|TERESA C L VALENTE]]",
+       "[[REF|TRF0909C114]]",
+       "+350,00",
+       "4.106,73"
+      ],
+      [
+       "[[DATE|10/09/2026]]",
+       "COMPRA [[OPT|WELLS]] GAIA",
+       "[[REF|7746620]]",
+       "-18,45",
+       "4.088,28"
+      ],
+      [
+       "[[DATE|11/09/2026]]",
+       "DD [[ORG|COLÉGIO DOS PLÁTANOS, LDA]] PROPINA",
+       "[[REF|2026091100093]]",
+       "-385,00",
+       "3.703,28"
+      ],
+      [
+       "[[DATE|12/09/2026]]",
+       "MB WAY DE [[PER|Duarte Moreira Lobo]]",
+       "[[REF|MBW 4418820]]",
+       "+40,00",
+       "3.743,28"
+      ],
+      [
+       "[[DATE|13/09/2026]]",
+       "COMPRA [[OPT|GALP]] VILAR DO PARAÍSO",
+       "[[REF|7759012]]",
+       "-62,30",
+       "3.680,98"
+      ],
+      [
+       "[[DATE|15/09/2026]]",
+       "PAG ESTADO [[NEG|IUC]] 2026",
+       "[[REF|1626 0918 4473 302]]",
+       "-112,00",
+       "3.568,98"
+      ],
+      [
+       "[[DATE|15/09/2026]]",
+       "TRF P/ [[PER|Inês Carvalhais Rosa]] EXPLICAÇÕES",
+       "[[REF|TRF1509B551]]",
+       "-120,00",
+       "3.448,98"
+      ],
+      [
+       "[[DATE|16/09/2026]]",
+       "COMPRA [[OPT|IKEA]] MATOSINHOS",
+       "[[REF|7766104]]",
+       "-149,90",
+       "3.299,08"
+      ],
+      [
+       "[[DATE|17/09/2026]]",
+       "LEV ATM PORTO TRINDADE",
+       "[[REF|0981]]",
+       "-40,00",
+       "3.259,08"
+      ]
+     ],
+     "size": 7.5,
+     "widths": [
+      1.1,
+      4.2,
+      1.8,
+      1.1,
+      1.1
+     ]
+    }
+   ],
+   [
+    {
+     "t": "lines",
+     "text": "[[NEG|EXTRATO COMBINADO]] – Conta n.º [[ID|52917380416]] – continuação"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Data",
+       "Descrição",
+       "Referência",
+       "Montante (€)",
+       "Saldo (€)"
+      ],
+      [
+       "[[DATE|18/09/2026]]",
+       "DD [[OPT|FIDELIDADE]] SEGURO AUTOMÓVEL",
+       "[[REF|2026091800771]]",
+       "-46,73",
+       "3.212,35"
+      ],
+      [
+       "[[DATE|19/09/2026]]",
+       "COMPRA [[OPT|CONTINENTE]] GAIA SHOPPING",
+       "[[REF|7781550]]",
+       "-121,48",
+       "3.090,87"
+      ],
+      [
+       "[[DATE|21/09/2026]]",
+       "MB WAY P/ [[PER|Francisco Xavier Godinho]]",
+       "[[REF|MBW 4426095]]",
+       "-15,50",
+       "3.075,37"
+      ],
+      [
+       "[[DATE|22/09/2026]]",
+       "TRF DE [[PER|Rodrigo Pereira da Silva Mota]] JANTAR",
+       "[[REF|TRF2209D020]]",
+       "+32,50",
+       "3.107,87"
+      ],
+      [
+       "[[DATE|23/09/2026]]",
+       "COMPRA [[OPT|FNAC]] NORTESHOPPING",
+       "[[REF|7790333]]",
+       "-59,99",
+       "3.047,88"
+      ],
+      [
+       "[[DATE|24/09/2026]]",
+       "PRESTAÇÃO [[NEG|CRÉDITO HABITAÇÃO]]",
+       "[[REF|CH 0410577812]]",
+       "-612,84",
+       "2.435,04"
+      ],
+      [
+       "[[DATE|25/09/2026]]",
+       "TRF P/ [[PER|Leonor Bastos Pinto]] AULAS PIANO",
+       "[[REF|TRF2509A417]]",
+       "-80,00",
+       "2.355,04"
+      ],
+      [
+       "[[DATE|26/09/2026]]",
+       "COMPRA [[OPT|PINGO DOCE]] CANIDELO",
+       "[[REF|8823771]]",
+       "-52,14",
+       "2.302,90"
+      ],
+      [
+       "[[DATE|28/09/2026]]",
+       "TRF DE [[ORG|TECNIMAIA - EQUIPAMENTOS INDUSTRIAIS LDA]] ORDENADO",
+       "[[REF|TRF2809S006]]",
+       "+1.947,62",
+       "4.250,52"
+      ],
+      [
+       "[[DATE|28/09/2026]]",
+       "TRF DE [[OPT|INSTITUTO DA SEGURANÇA SOCIAL]] ABONO",
+       "[[REF|TRF2809P310]]",
+       "+42,30",
+       "4.292,82"
+      ],
+      [
+       "[[DATE|29/09/2026]]",
+       "COMISSÃO MANUTENÇÃO CONTA + [[NEG|IMPOSTO DO SELO]]",
+       "[[REF|COM0929]]",
+       "-5,41",
+       "4.287,41"
+      ],
+      [
+       "[[DATE|29/09/2026]]",
+       "MB WAY P/ [[PER|Ana Sofia Raposo]]",
+       "[[REF|MBW 4433187]]",
+       "-12,00",
+       "4.275,41"
+      ],
+      [
+       "[[DATE|30/09/2026]]",
+       "TRF P/ [[PER|HENRIQUE M S N VALENTE]] POUPANÇA",
+       "[[REF|TRF3009A008]]",
+       "-300,00",
+       "3.975,41"
+      ]
+     ],
+     "size": 7.5,
+     "widths": [
+      1.1,
+      4.2,
+      1.8,
+      1.1,
+      1.1
+     ]
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Resumo do período",
+       "Valor (€)"
+      ],
+      [
+       "Saldo inicial",
+       "4.218,37"
+      ],
+      [
+       "Total de débitos",
+       "-2.655,38"
+      ],
+      [
+       "Total de créditos",
+       "+2.412,42"
+      ],
+      [
+       "[[NEG|Saldo disponível]] em [[DATE|30/09/2026]]",
+       "3.975,41"
+      ]
+     ],
+     "size": 8,
+     "widths": [
+      3,
+      1.2
+     ]
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Movimentos com cartão de débito associado à conta: cartão n.º [[ID|4176 8803 1952 2290]], titular [[PER|Henrique Valente]]. A comissão de manutenção foi cobrada nos termos do [[NEG|Preçário]] em vigor; o [[NEG|imposto do selo]] incide à taxa de 4%. Para reclamações, dirija-se ao seu balcão ou utilize o Livro de Reclamações eletrónico.",
+     "size": 9
+    },
+    {
+     "t": "p",
+     "text": "Este extrato considera-se aprovado se não for apresentada reclamação no prazo de 60 dias a contar da data da sua emissão. Os depósitos estão abrangidos pelo [[OPT|Fundo de Garantia de Depósitos]] até ao limite de 100.000 € por depositante.",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pt04_relatorio_cardiologia",
+  "lang": "pt",
+  "country": [
+   "BR"
+  ],
+  "kind": "medical",
+  "title": "Relatório médico de cardiologia",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Clínica Coração do Vale S/S Ltda.]]\nCardiologia · Clínica Médica · Métodos Diagnósticos\n[[ADDR|Rua Visconde do Rio Branco, 731, Centro\nTaubaté/SP – CEP 12020-040]]\nTel. [[PHONE|(12) 3632-7148]] · [[EMAIL|atendimento@coracaodovale.med.br]]\nCNPJ [[ID|01.000.816/0001-88]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|RELATÓRIO MÉDICO]]"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Identificação",
+       ""
+      ],
+      [
+       "Paciente",
+       "[[PER|EDVALDO CORDEIRO MENDES]]"
+      ],
+      [
+       "Data de nascimento",
+       "[[DOB|14/03/1961]] (65 anos)"
+      ],
+      [
+       "Prontuário",
+       "[[ID|CV-0048217]]"
+      ],
+      [
+       "Cartão Nacional de Saúde (CNS)",
+       "[[ID|708 2045 6613 0921]]"
+      ],
+      [
+       "Convênio",
+       "[[OPT|Unimed Taubaté]] – carteirinha [[ID|0 865 004127391 006]]"
+      ],
+      [
+       "CPF",
+       "[[ID|236.495.124-08]]"
+      ],
+      [
+       "Endereço",
+       "[[ADDR|Rua Coronel Jordão, 1.204, Jardim das Nações, Taubaté/SP, CEP 12030-150]]"
+      ],
+      [
+       "Data da consulta",
+       "[[DATE|07/10/2026]]"
+      ],
+      [
+       "Médico assistente",
+       "[[OPT|Dr.]] [[PER|Fábio Luís Guerra Amaral]] – CRM-SP [[ID|118.427]]"
+      ]
+     ],
+     "size": 8.5,
+     "widths": [
+      1.6,
+      4
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "h",
+     "text": "História clínica"
+    },
+    {
+     "t": "p",
+     "text": "Paciente encaminhado pelo [[OPT|Dr.]] [[PER|Marcos Vinícius de Lacerda]], clínico geral da [[OPT|UBS Vila São José]], com queixa de dispneia aos médios esforços e edema de membros inferiores há cerca de dois meses. Esteve internado no [[OPT|Hospital Regional do Vale do Paraíba]] de [[DATE|12/09/2026]] a [[DATE|18/09/2026]] por [[NEG|insuficiência cardíaca descompensada]], com boa resposta à diureticoterapia venosa."
+    },
+    {
+     "t": "h",
+     "text": "Antecedentes"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Hipertensão arterial sistêmica]] há 20 anos, [[NEG|diabetes mellitus tipo 2]] desde 2014 e [[NEG|fibrilação atrial]] permanente. Ex-tabagista (30 maços-ano), parou em 2019. Nega etilismo. Mora com a esposa, [[OPT|D.]] [[PER|Iracema Leite Mendes]], que o acompanha nas consultas e controla a medicação."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "Exames complementares"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Exame",
+       "Resultado",
+       "Referência"
+      ],
+      [
+       "[[NEG|Ecocardiograma transtorácico]]",
+       "FEVE 34% (Simpson), AE 48 mm",
+       "FEVE ≥ 52%"
+      ],
+      [
+       "[[NEG|NT-proBNP]]",
+       "2.140 pg/mL",
+       "< 125 pg/mL"
+      ],
+      [
+       "[[NEG|HbA1c]]",
+       "7,8%",
+       "< 7,0%"
+      ],
+      [
+       "[[NEG|Creatinina]]",
+       "1,4 mg/dL (TFGe 52)",
+       "0,7–1,3 mg/dL"
+      ],
+      [
+       "[[NEG|Potássio]]",
+       "4,9 mEq/L",
+       "3,5–5,1 mEq/L"
+      ],
+      [
+       "[[NEG|LDL-colesterol]]",
+       "96 mg/dL",
+       "< 70 mg/dL"
+      ]
+     ],
+     "size": 8.5,
+     "widths": [
+      2.4,
+      2.4,
+      1.6
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "h",
+     "text": "Conduta"
+    },
+    {
+     "t": "p",
+     "text": "Mantido [[NEG|Carvedilol 25 mg]] de 12/12 h e [[NEG|Rivaroxabana 15 mg]] uma vez ao dia, dose ajustada à função renal. Iniciado [[NEG|Sacubitril/Valsartana 49/51 mg]] em substituição ao enalapril, respeitado intervalo de 36 horas, e [[NEG|Dapagliflozina 10 mg]]. [[NEG|Furosemida 40 mg]] pela manhã. Orientada dieta hipossódica, restrição hídrica de 1,5 L/dia e pesagem diária; evitar [[NEG|leite integral]] e embutidos. Retorno em 30 dias com novo potássio e creatinina, ou antes se houver ganho de peso superior a 2 kg em três dias."
+    },
+    {
+     "t": "p",
+     "text": "O caso foi discutido com a [[OPT|Dra.]] [[PER|Helena Rosa Vasconcellos]], eletrofisiologista, que sugere avaliação para [[NEG|cardiodesfibrilador implantável]] caso a fração de ejeção permaneça abaixo de 35% após três meses de terapia otimizada."
+    },
+    {
+     "t": "lines",
+     "text": "Contato de emergência: [[PER|Josiane Cordeiro Mendes]] (filha) – [[PHONE|(12) 99731-4058]] – [[EMAIL|josi.cmendes@gmail.com]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Taubaté]], [[DATE|7 de outubro de 2026]]."
+    },
+    {
+     "t": "space",
+     "h": 14
+    },
+    {
+     "t": "cols",
+     "left": "______________________________\n[[OPT|Dr.]] [[PER|Fábio Luís Guerra\nAmaral]]\nCardiologista – CRM-SP [[ID|118.427]]\nRQE nº [[ID|47.315]]",
+     "right": "Ciente:\n______________________________\n[[PER|Edvaldo Cordeiro Mendes]]\nPaciente"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pt05_carta_promocao",
+  "lang": "pt",
+  "country": [
+   "PT"
+  ],
+  "kind": "hr_letter",
+  "title": "Carta de alteração de funções e retribuição",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Atlântico Norte Logística, S.A.]]\n[[ADDR|Rua Engenheiro Ferreira Dias, 924\n4100-246 Porto]]\nNIPC [[ID|542539764]] · Capital social: 1.250.000,00 €\nTel. [[PHONE|226 157 340]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Exma. Senhora]]\n[[PER|Marta Isabel\nRaposo Leite]]\n[[ADDR|Rua de Santa Catarina, 1407, 2.º Dto.\n4000-457 Porto]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "N/ Ref.ª: [[REF|RH/2026/0412]]\n[[OPT|Porto]], [[DATE|16 de outubro de 2026]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "h",
+     "text": "Assunto: Alteração de funções e de retribuição – [[NEG|contrato de trabalho sem termo]]"
+    },
+    {
+     "t": "p",
+     "text": "Cara [[PER|Marta Leite]],"
+    },
+    {
+     "t": "p",
+     "text": "Na sequência da avaliação de desempenho relativa ao ano de 2025 e da proposta apresentada pela sua chefia direta, o [[OPT|Eng.º]] [[PER|Rui Castelo-Branco]], informamos que o Conselho de Administração deliberou a sua nomeação para o cargo de Coordenadora de Planeamento de Transportes, com efeitos a partir de [[DATE|1 de novembro de 2026]]. Manterá o local de trabalho no armazém de Leça do Balio, com deslocações regulares ao polo de [[OPT|Castelo Branco]]."
+    },
+    {
+     "t": "p",
+     "text": "A alteração não implica novo [[NEG|período experimental]] e respeita o disposto no [[NEG|artigo 120.º do Código do Trabalho]]. As restantes cláusulas do contrato celebrado em [[DATE|3 de março de 2021]] mantêm-se inalteradas."
+    },
+    {
+     "t": "h",
+     "text": "Identificação da trabalhadora"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Campo",
+       "Dados"
+      ],
+      [
+       "Nome",
+       "[[PER|LEITE, Marta Isabel Raposo]]"
+      ],
+      [
+       "N.º de colaboradora",
+       "[[ID|ANL-03318]]"
+      ],
+      [
+       "Data de nascimento",
+       "[[DOB|22/07/1988]]"
+      ],
+      [
+       "Cartão de Cidadão",
+       "[[ID|14582093 6 ZY2]]"
+      ],
+      [
+       "NIF",
+       "[[ID|227484070]]"
+      ],
+      [
+       "NISS",
+       "[[ID|13875149881]]"
+      ],
+      [
+       "Categoria anterior",
+       "Técnica Superior de Logística (nível 5)"
+      ],
+      [
+       "Nova categoria",
+       "Coordenadora de Planeamento (nível 7)"
+      ]
+     ],
+     "size": 8.5,
+     "widths": [
+      1.6,
+      4
+     ]
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "Condições remuneratórias"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Componente",
+       "Atual",
+       "A partir de 01/11/2026"
+      ],
+      [
+       "Retribuição base mensal",
+       "1.840,00 €",
+       "[[NEG|2.310,00 €]]"
+      ],
+      [
+       "[[NEG|Subsídio de refeição]] (cartão)",
+       "10,20 €/dia",
+       "10,20 €/dia"
+      ],
+      [
+       "[[NEG|Isenção de horário de trabalho]]",
+       "—",
+       "25% da retribuição base"
+      ],
+      [
+       "Prémio anual de objetivos",
+       "até 8%",
+       "até 12%"
+      ]
+     ],
+     "size": 8.5,
+     "widths": [
+      2.6,
+      1.4,
+      2
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "A retribuição continuará a ser paga por transferência para a conta habitual, com o IBAN [[IBAN|PT50 0036 0219 9910 0348 2711 6]], até ao último dia útil de cada mês. Os subsídios de férias e de Natal acompanham a nova retribuição base. Mantém-se o [[NEG|seguro de saúde]] de grupo, que passa a abranger, sem custo adicional, o seu filho [[PER|Tomás Leite Barros]] (nascido a [[DOB|5 de abril de 2019]]), conforme o seu pedido de [[DATE|2 de setembro]]."
+    },
+    {
+     "t": "p",
+     "text": "Para formalizar a alteração, pedimos que devolva um exemplar desta carta assinado até [[DATE|30 de outubro de 2026]]. Qualquer dúvida poderá ser esclarecida junto da Direção de Pessoas, através da [[OPT|Dr.ª]] [[PER|Cláudia Brito Coelho]] (extensão 2214, telefone direto [[PHONE|+351 226 157 362]], [[EMAIL|claudia.coelho@atlanticonorte.pt]]), ou do endereço geral [[EMAIL|pessoas@atlanticonorte.pt]]. A sua ficha na [[NEG|Medicina do Trabalho]] será atualizada pela [[OPT|Sr.ª]] [[PER|Graça Pinto Lobo]], do mesmo departamento."
+    },
+    {
+     "t": "p",
+     "text": "Com os melhores cumprimentos,"
+    },
+    {
+     "t": "space",
+     "h": 10
+    },
+    {
+     "t": "cols",
+     "left": "Pelo Conselho de Administração\n______________________________\n[[PER|Nuno Gonçalo de Sousa Meireles]]\nAdministrador Executivo",
+     "right": "Tomei conhecimento e aceito,\n______________________________\n[[PER|Marta Isabel Raposo Leite]]\nData: ____/____/______"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pt06_emails_contencioso",
+  "lang": "pt",
+  "country": [
+   "BR"
+  ],
+  "kind": "legal",
+  "title": "Troca de e-mails sobre contestação",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "De: [[PER|Augusto Mendonça de Albuquerque]] <[[EMAIL|augusto.albuquerque@apm.adv.br]]>\nPara: [[PER|Cecília Navarro Prado]] <[[EMAIL|cecilia.prado@montanhesa.com.br]]>\nCc: [[PER|Thiago R. Bezerra]] <[[EMAIL|thiago.bezerra@apm.adv.br]]>; [[PER|Bruna Weiss Antunes]] <[[EMAIL|bruna.antunes@montanhesa.com.br]]>\nData: [[DATE|qua., 14 de out. de 2026]] 17:42\nAssunto: Processo nº [[REF|1047386-22.2026.8.26.0100]] – contestação"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Prezada [[PER|Cecília]],"
+    },
+    {
+     "t": "p",
+     "text": "Conforme conversamos por telefone, a [[ORG|Distribuidora Grande Minas Comércio Atacadista Ltda.]] ajuizou ação de indenização contra a [[ORG|Cervejaria Montanhesa Indústria e Comércio de Bebidas S.A.]] perante a [[OPT|2ª Vara Empresarial e de Conflitos Relacionados à Arbitragem do Foro Central da Comarca de São Paulo]], alegando rescisão imotivada do contrato de distribuição exclusiva e pleiteando [[NEG|lucros cessantes]] e [[NEG|danos morais]] no valor total de [[NEG|R$ 2.340.000,00]]."
+    },
+    {
+     "t": "p",
+     "text": "A citação foi juntada aos autos em [[DATE|8 de outubro]], de modo que o prazo de [[NEG|15 dias úteis]] para contestação vence em [[DATE|29/10/2026]]. A autora também requereu [[NEG|tutela de urgência]], com base no [[NEG|art. 300 do CPC]], para obrigar a [[ORG|Montanhesa]] a manter o fornecimento durante o processo; o pedido ainda não foi apreciado pelo juízo."
+    },
+    {
+     "t": "p",
+     "text": "Para a defesa, precisaremos: (i) das notificações enviadas à distribuidora em 2025, inclusive as assinadas pelo diretor comercial, [[OPT|Sr.]] [[PER|Henrique Tavares Bueno]]; (ii) dos relatórios de vendas que demonstram o descumprimento das metas mínimas previstas na [[NEG|cláusula 7.2]]; e (iii) dos e-mails trocados com o sócio da autora, [[OPT|Sr.]] [[PER|Walter Klein Junqueira]], sobre o [[NEG|grande]] volume de devoluções no segundo semestre."
+    },
+    {
+     "t": "p",
+     "text": "Sugiro também ouvirmos o ex-gerente regional [[PER|Leandro Fonseca]], que acompanhou as visitas aos pontos de venda de [[OPT|Juiz de Fora]] e [[OPT|Uberlândia]]. Se ele concordar em depor, peço que nos passe o telefone dele."
+    },
+    {
+     "t": "p",
+     "text": "Atenciosamente,"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Augusto Mendonça de Albuquerque]]\nOAB/SP [[ID|214.598]]\n[[ORG|Albuquerque, Paiva & Mattos Sociedade de Advogados]]\n[[ADDR|Rua Joaquim Floriano, 1.120, 9º andar, Itaim Bibi\nSão Paulo/SP – CEP 04534-004]]\nTel.: [[PHONE|+55 11 3061-4482]]"
+    }
+   ],
+   [
+    {
+     "t": "lines",
+     "text": "De: [[PER|Cecília Navarro Prado]] <[[EMAIL|cecilia.prado@montanhesa.com.br]]>\nPara: [[PER|Augusto Mendonça de Albuquerque]] <[[EMAIL|augusto.albuquerque@apm.adv.br]]>\nCc: [[PER|Thiago R. Bezerra]] <[[EMAIL|thiago.bezerra@apm.adv.br]]>\nData: [[DATE|qui., 15 de out. de 2026]] 09:15\nAssunto: RE: Processo nº [[REF|1047386-22.2026.8.26.0100]] – contestação"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "[[OPT|Dr.]] [[PER|Augusto]], bom dia."
+    },
+    {
+     "t": "p",
+     "text": "Seguem em anexo as notificações e as planilhas de [[NEG|sell-out]] de 2025. A [[PER|Bruna]] está reunindo os e-mails com o [[PER|Walter]]; devem sair até amanhã. O [[PER|Leandro]] aceitou conversar: o celular dele é [[PHONE|(31) 98842-0617]] e o e-mail pessoal, [[EMAIL|leandro.fonseca77@hotmail.com]]. Ele pediu que o contato seja feito depois das 18h."
+    },
+    {
+     "t": "p",
+     "text": "Sobre a [[NEG|tutela de urgência]]: o fornecimento foi suspenso em [[DATE|30 de junho]], após três boletos vencidos. A última nota fiscal emitida para a autora foi a de nº [[REF|000.184.552]], no valor de [[NEG|R$ 186.420,00]], que até hoje não foi paga. A distribuidora tem CNPJ [[ID|51.272.373/0001-52]] e sede na [[ADDR|Avenida Barão Homem de Melo, 3.090, Estoril, Belo Horizonte/MG, CEP 30494-080]], caso vocês precisem desses dados para a [[NEG|reconvenção]]."
+    },
+    {
+     "t": "p",
+     "text": "Nosso diretor jurídico, [[PER|J. M. Ferraz]], pediu para participar da reunião de alinhamento. Pode ser na sexta, às 14h, por videoconferência? Se preferirem presencial, a [[PER|Bruna]] reserva a sala do escritório de São Paulo."
+    },
+    {
+     "t": "p",
+     "text": "Abraço,"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Cecília Navarro Prado]]\nGerente Jurídica\n[[ORG|Cervejaria Montanhesa Indústria e Comércio de Bebidas S.A.]]\nTel.: [[PHONE|(32) 3215-8870]] | Cel.: [[PHONE|(32) 99104-3381]]"
+    }
+   ]
+  ]
+ }
+]

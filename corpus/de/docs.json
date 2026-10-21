@@ -1,0 +1,232 @@
+[
+{"id": "de01_gewerbemietvertrag", "lang": "de", "country": ["DE"], "kind": "contract",
+ "title": "Gewerbemietvertrag", "dense": false,
+ "pages": [
+  [
+   {"t":"h","text":"[[NEG|GEWERBEMIETVERTRAG]]"},
+   {"t":"p","text":"zwischen"},
+   {"t":"lines","text":"[[OPT|Herrn]] [[PER|JOACHIM FRIEDRICH VON ALTENBURG]]\n[[ADDR|Kastanienallee 41\n14052 Berlin]]\ngeboren am [[DOB|14.02.1961]]\nSteuerliche Identifikationsnummer: [[ID|57936182504]]\nausgewiesen durch Personalausweis Nr. [[ID|LZ6311T47]]\n– nachstehend [[NEG|Vermieter]] genannt –"},
+   {"t":"space","h":6},
+   {"t":"p","text":"und"},
+   {"t":"lines","text":"[[ORG|Havelstein Logistik GmbH]]\n[[ADDR|Am Borsigturm 112\n13507 Berlin]]\neingetragen im Handelsregister des [[OPT|Amtsgerichts Charlottenburg]] unter [[ID|HRB 238417 B]]\nvertreten durch die Geschäftsführerin [[OPT|Frau]] [[PER|MARIANNE KOCH-BIRKENFELD]]\n– nachstehend [[NEG|Mieterin]] genannt –"},
+   {"t":"space","h":8},
+   {"t":"h","text":"[[NEG|§ 1]] Mietgegenstand"},
+   {"t":"p","text":"(1) Der Vermieter vermietet der Mieterin die im Erdgeschoss und ersten Obergeschoss gelegenen Gewerberäume des Grundstücks [[ADDR|Sellerstraße 17, 13353 Berlin]], bestehend aus einer Lagerhalle mit ca. 640 m² Nutzfläche, zwei Büroräumen, einem Sozialraum sowie vier Stellplätzen im Hof."},
+   {"t":"p","text":"(2) Die Räume werden zur Nutzung als Kommissionierlager mit angeschlossener Verwaltung vermietet. Eine Änderung des Nutzungszwecks bedarf der vorherigen schriftlichen Zustimmung des Vermieters."},
+   {"t":"p","text":"(3) Die Übergabe der Schlüssel erfolgt durch den Hausverwalter [[OPT|Herrn]] [[PER|Thomas Weiß]], der auch nach Mietbeginn erster Ansprechpartner für technische Störungen ist. Über die Übergabe wird ein Protokoll gefertigt, das Bestandteil dieses Vertrages wird."},
+   {"t":"h","text":"[[NEG|§ 2]] Mietzeit"},
+   {"t":"p","text":"Das Mietverhältnis beginnt am [[DATE|1. Januar 2027]] und wird fest bis zum [[DATE|31. Dezember 2031]] abgeschlossen. Die Mieterin erhält eine einmalige Option, das Mietverhältnis um weitere fünf Jahre zu verlängern; die Option ist spätestens neun Monate vor Ablauf schriftlich auszuüben."},
+   {"t":"h","text":"[[NEG|§ 3]] Miete und Nebenkosten"},
+   {"t":"p","text":"(1) Die monatliche [[NEG|Nettokaltmiete]] beträgt [[NEG|4.850,00 EUR]] zuzüglich der gesetzlichen Umsatzsteuer. Für die Betriebskosten leistet die Mieterin eine monatliche Vorauszahlung von 980,00 EUR, über die jährlich abgerechnet wird."},
+   {"t":"p","text":"(2) Die Miete ist monatlich im Voraus, spätestens bis zum dritten Werktag, auf das folgende Konto des Vermieters zu zahlen: IBAN [[IBAN|DE38 3705 0198 1046 7239 18]], [[OPT|Sparkasse KölnBonn]], BIC [[OPT|COLSDE33XXX]]."},
+   {"t":"h","text":"[[NEG|§ 4]] Mietsicherheit"},
+   {"t":"p","text":"Die Mieterin leistet eine [[NEG|Mietsicherheit]] in Höhe von drei Nettokaltmieten in Form einer unbefristeten, selbstschuldnerischen Bankbürgschaft. Die Vorschrift des [[NEG|§ 551 BGB]] findet auf dieses Gewerbemietverhältnis keine Anwendung."}
+  ],
+  [
+   {"t":"h","text":"[[NEG|§ 5]] Instandhaltung und Rückgabe"},
+   {"t":"p","text":"(1) Kleinere Instandhaltungen innerhalb der Mieträume trägt die Mieterin bis zu einem Betrag von 1.500,00 EUR je Einzelfall. Der Winterdienst auf dem Hof obliegt der Mieterin; im [[NEG|Winter]] ist die Zufahrt bis 7:00 Uhr zu räumen und zu streuen."},
+   {"t":"p","text":"(2) Bei Beendigung des Mietverhältnisses sind die Räume besenrein zurückzugeben. Die Wände der Büroräume sind in [[NEG|weiß]] zu streichen, sofern sie während der Mietzeit farbig gestaltet wurden. Die Abnahme erfolgt gemeinsam mit der Objektbetreuerin [[OPT|Frau]] [[PER|Corinna Winter]] von der Hausverwaltung."},
+   {"t":"h","text":"[[NEG|§ 6]] Schlussbestimmungen"},
+   {"t":"p","text":"(1) Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform; dies gilt auch für die Aufhebung dieser [[NEG|Schriftformklausel]]. Mündliche Nebenabreden bestehen nicht."},
+   {"t":"p","text":"(2) Sollte eine Bestimmung dieses Vertrages unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt ([[NEG|salvatorische Klausel]]). Gerichtsstand ist [[OPT|Berlin]]."},
+   {"t":"p","text":"(3) Der Vertrag wurde in Anwesenheit der nachfolgend genannten Zeugen verlesen, von den Parteien genehmigt und eigenhändig unterschrieben."},
+   {"t":"h","text":"Zeugen"},
+   {"t":"lines","text":"1. [[OPT|Dr.]] [[PER|Henrike Sauerbrey]], [[ADDR|Lindenstraße 8, 14467 Potsdam]]\n2. [[PER|Okan Yilmaz]], [[ADDR|Turmstraße 66, 10551 Berlin]]\n3. [[PER|Gisela Rose]], [[ADDR|Am Lietzensee 3, 14057 Berlin]]"},
+   {"t":"space","h":14},
+   {"t":"cols","left":"[[OPT|Berlin]], den [[DATE|18.10.2026]]\n\n\n______________________________\n[[PER|Joachim Friedrich\nvon Altenburg]]\n(Vermieter)","right":"[[OPT|Berlin]], den [[DATE|18.10.2026]]\n\n\n______________________________\n[[ORG|Havelstein Logistik GmbH]]\nvertreten durch [[PER|Marianne Koch-Birkenfeld]]\n(Mieterin)"}
+  ]
+ ]},
+
+{"id": "de02_rechnung_elektro", "lang": "de", "country": ["DE"], "kind": "invoice",
+ "title": "Rechnung Elektroinstallation", "dense": false,
+ "pages": [
+  [
+   {"t":"lines","text":"[[ORG|Elektro Steinhauer GmbH]]\n[[ADDR|Gutenbergstraße 23\n70176 Stuttgart]]\nTel. [[PHONE|0711 6293 4410]] · Fax [[PHONE|0711 6293 4419]]\n[[EMAIL|buchhaltung@elektro-steinhauer.de]]\nUSt-IdNr. [[ID|DE284716503]] · [[OPT|Amtsgericht Stuttgart]] [[ID|HRB 741295]]\nGeschäftsführer: [[OPT|Dipl.-Ing.]] [[PER|Ralf Mühlhäuser]]"},
+   {"t":"space","h":10},
+   {"t":"lines","text":"[[ORG|Bäckerei Lindemann e.K.]]\nz. Hd. [[OPT|Frau]] [[PER|Sabine Lindemann]]\n[[ADDR|Hauptstraße 104\n71638 Ludwigsburg]]"},
+   {"t":"space","h":10},
+   {"t":"h","text":"[[NEG|RECHNUNG]]"},
+   {"t":"table","rows":[["Rechnungsnummer","Rechnungsdatum","Kundennummer","Leistungszeitraum"],["[[REF|RE-2026-01873]]","[[DATE|12.10.2026]]","[[ID|KD-20417]]","[[DATE|29.09.2026]] bis [[DATE|02.10.2026]]"]],"widths":[1,1,1,2],"size":9},
+   {"t":"space","h":6},
+   {"t":"p","text":"Sehr geehrte [[OPT|Frau]] [[PER|Lindemann]],"},
+   {"t":"p","text":"für die Erneuerung der Elektroverteilung in Ihrer Backstube gemäß unserem Angebot [[REF|AN-2026-0612]] vom [[DATE|04.09.2026]] berechnen wir Ihnen folgende Leistungen:"},
+   {"t":"table","rows":[
+     ["Pos.","Beschreibung","Menge","Einheit","Einzelpreis","Gesamt"],
+     ["1","[[NEG|Zählerschrank]] 3-feldig, inkl. APZ-Feld, montiert","1","Stk.","1.186,00 €","1.186,00 €"],
+     ["2","[[NEG|FI-Schutzschalter]] 40 A, Typ B","3","Stk.","214,50 €","643,50 €"],
+     ["3","Leitungsschutzschalter B16, 1-polig","18","Stk.","9,80 €","176,40 €"],
+     ["4","[[NEG|Mantelleitung]] NYM-J 5x2,5 mm²","60","m","3,15 €","189,00 €"],
+     ["5","[[NEG|LED-Panel]] 62x62 cm, 4000 K, Feuchtraum","6","Stk.","74,90 €","449,40 €"],
+     ["6","Arbeitszeit Elektromeister","9","Std.","68,00 €","612,00 €"],
+     ["7","Arbeitszeit Monteur [[PER|K. Arslan]]","11","Std.","52,00 €","572,00 €"],
+     ["8","[[NEG|E-Check]] nach DGUV V3 inkl. Prüfprotokoll","1","psch.","145,00 €","145,00 €"],
+     ["9","Anfahrtspauschale","4","psch.","24,50 €","98,00 €"]
+    ],"widths":[0.5,4,0.8,0.8,1.2,1.2],"size":8},
+   {"t":"space","h":6},
+   {"t":"table","rows":[["","Betrag"],["Nettobetrag","[[NEG|4.071,30 €]]"],["zzgl. 19 % [[NEG|Umsatzsteuer]]","773,55 €"],["Rechnungsbetrag","[[NEG|4.844,85 €]]"]],"widths":[3,1],"size":9},
+   {"t":"space","h":6},
+   {"t":"p","text":"Zahlbar innerhalb von 14 Tagen ohne Abzug bis zum [[DATE|26.10.2026]]. Bitte überweisen Sie den Betrag unter Angabe der Rechnungsnummer auf unser Konto bei der [[OPT|Volksbank Stuttgart eG]]: IBAN [[IBAN|DE83 6009 0100 0582 1944 36]], BIC [[OPT|VOBADESSXXX]]. Bei Zahlung bis zum [[DATE|19.10.2026]] gewähren wir 2 % [[NEG|Skonto]]."},
+   {"t":"p","text":"Ihre Steuernummer laut Auftrag: [[ID|71815/24037]]. Die gelieferten Materialien bleiben bis zur vollständigen Bezahlung unser Eigentum ([[NEG|Eigentumsvorbehalt]])."},
+   {"t":"p","text":"Bei Rückfragen zur Rechnung erreichen Sie unsere Sachbearbeiterin [[PER|Tanja Ebersbach]] unter [[PHONE|+49 711 6293 4412]] oder per E-Mail an [[EMAIL|t.ebersbach@elektro-steinhauer.de]]. Vielen Dank für Ihren Auftrag!"}
+  ]
+ ]},
+
+{"id": "de03_kontoauszug", "lang": "de", "country": ["DE"], "kind": "bank_statement",
+ "title": "Kontoauszug Girokonto", "dense": false,
+ "pages": [
+  [
+   {"t":"lines","text":"[[OPT|Sparkasse Hannover]] · Raschplatz 4 · 30161 Hannover\nBIC [[OPT|SPKHDE2HXXX]]"},
+   {"t":"space","h":8},
+   {"t":"cols","left":"[[OPT|Herrn]]\n[[PER|Benedikt Großmann]]\n[[ADDR|Podbielskistraße 288\n30655 Hannover]]","right":"Kontoauszug Nr. [[REF|9/2026]]\nGiro Komfort\nKontonummer: [[ID|0912847351]]\nIBAN: [[IBAN|DE41 2505 0180 0912 8473 51]]\nKundennummer: [[ID|4407731902]]\nZeitraum: [[DATE|01.09.2026]] bis [[DATE|30.09.2026]]"},
+   {"t":"space","h":8},
+   {"t":"p","text":"[[NEG|Alter Kontostand]] am [[DATE|31.08.2026]]: 2.316,48 EUR"},
+   {"t":"table","rows":[
+     ["Buchung","Vorgang / Empfänger","Verwendungszweck / Referenz","Betrag EUR","Saldo EUR"],
+     ["[[DATE|01.09.2026]]","[[NEG|Gutschrift]] [[ORG|Wolfram Haustechnik GmbH]]","Lohn/Gehalt 08/2026 [[REF|LG-2026-08-0143]]","+3.482,17","5.798,65"],
+     ["[[DATE|01.09.2026]]","[[NEG|Dauerauftrag]] [[PER|Brinkmann, Gerda]]","Miete September [[REF|DA-000417]]","-1.140,00","4.658,65"],
+     ["[[DATE|02.09.2026]]","[[NEG|Lastschrift]] [[OPT|Deutsche Telekom]]","Festnetz/Internet [[REF|EREF 7741902366]]","-49,95","4.608,70"],
+     ["[[DATE|02.09.2026]]","[[NEG|Kartenzahlung]] [[OPT|REWE]]","Hannover-List [[REF|KZ 260902-1184]]","-63,28","4.545,42"],
+     ["[[DATE|03.09.2026]]","Überweisung [[PER|Lukas Hoffmann-Reiter]]","Anteil Ferienwohnung Juist [[REF|UEB 3301877]]","-275,00","4.270,42"],
+     ["[[DATE|04.09.2026]]","[[NEG|Lastschrift]] [[OPT|enercity AG]]","Abschlag Strom/Gas [[REF|EREF 55018832]]","-124,00","4.146,42"],
+     ["[[DATE|05.09.2026]]","[[NEG|Kartenzahlung]] [[OPT|Aral]]","Tankstelle Vahrenwald [[REF|KZ 260905-0092]]","-71,40","4.075,02"],
+     ["[[DATE|07.09.2026]]","Gutschrift [[PER|Weber, Annika]]","Rückzahlung Konzertkarten [[REF|UEB 9928410]]","+89,00","4.164,02"],
+     ["[[DATE|08.09.2026]]","Lastschrift [[ORG|Physiopraxis Neumann GbR]]","Rechnung [[REF|PR-2026-3381]]","-96,50","4.067,52"],
+     ["[[DATE|09.09.2026]]","Kartenzahlung [[OPT|dm-drogerie markt]]","[[REF|KZ 260909-4415]]","-27,85","4.039,67"],
+     ["[[DATE|10.09.2026]]","Lastschrift [[OPT|HUK-COBURG]]","Kfz-Versicherung [[REF|EREF 2026-118734]]","-58,12","3.981,55"],
+     ["[[DATE|11.09.2026]]","Überweisung [[ORG|Fahrradladen Kleefeld UG (haftungsbeschränkt)]]","Rechnung [[REF|FK-0927]] Inspektion","-142,00","3.839,55"],
+     ["[[DATE|12.09.2026]]","Bargeldauszahlung","Geldautomat Lister Meile [[REF|GA 4471]]","-200,00","3.639,55"],
+     ["[[DATE|14.09.2026]]","Kartenzahlung [[OPT|IKEA]]","Hannover-Expo Park [[REF|KZ 260914-7702]]","-186,47","3.453,08"],
+     ["[[DATE|15.09.2026]]","Dauerauftrag [[PER|Marlene Großmann]]","Taschengeld [[REF|DA-000502]]","-60,00","3.393,08"]
+    ],"widths":[1,3.2,3.2,1,1],"size":7}
+  ],
+  [
+   {"t":"lines","text":"Fortsetzung Kontoauszug Nr. [[REF|9/2026]] · IBAN [[IBAN|DE41 2505 0180 0912 8473 51]] · [[PER|Benedikt Großmann]]"},
+   {"t":"space","h":6},
+   {"t":"table","rows":[
+     ["Buchung","Vorgang / Empfänger","Verwendungszweck / Referenz","Betrag EUR","Saldo EUR"],
+     ["[[DATE|16.09.2026]]","Lastschrift [[OPT|Vodafone]]","Mobilfunk [[REF|EREF 8830016452]]","-34,99","3.358,09"],
+     ["[[DATE|17.09.2026]]","Gutschrift [[OPT|Dr.]] [[PER|Felix Ammermann]]","Erstattung Auslagen Vereinsfest [[REF|UEB 4410937]]","+54,30","3.412,39"],
+     ["[[DATE|18.09.2026]]","Kartenzahlung [[OPT|Lidl]]","[[REF|KZ 260918-2287]]","-41,16","3.371,23"],
+     ["[[DATE|19.09.2026]]","Überweisung [[ORG|Steuerkanzlei Hagemeister & Partner mbB]]","Honorar Einkommensteuer 2025 [[REF|HG-26-0411]]","-476,00","2.895,23"],
+     ["[[DATE|21.09.2026]]","Lastschrift [[ORG|Turnverein Hannover-Bothfeld e.V.]]","Mitgliedsbeitrag [[REF|MB-2026-0884]]","-18,00","2.877,23"],
+     ["[[DATE|22.09.2026]]","Kartenzahlung [[OPT|Deutsche Bahn]]","Fahrkarte Hannover-Bremen [[REF|KZ 260922-5510]]","-38,90","2.838,33"],
+     ["[[DATE|23.09.2026]]","Überweisung [[PER|Jana Ostermeier-Kühn]]","Babysitting September [[REF|UEB 5521046]]","-120,00","2.718,33"],
+     ["[[DATE|24.09.2026]]","Lastschrift [[OPT|Netflix]]","Abonnement [[REF|EREF NF-0924-3371]]","-13,99","2.704,34"],
+     ["[[DATE|25.09.2026]]","Gutschrift [[OPT|Finanzamt Hannover-Nord]]","Erstattung ESt 2025 [[REF|StNr-Bezug 2025-0917]]","+612,44","3.316,78"],
+     ["[[DATE|26.09.2026]]","Kartenzahlung [[ORG|Weinhandlung Vogel & Rose OHG]]","Lister Meile [[REF|KZ 260926-0318]]","-58,70","3.258,08"],
+     ["[[DATE|28.09.2026]]","Überweisung [[PER|Schäfer, Malte]]","Kaufpreis Kinderwagen [[REF|UEB 6631209]]","-150,00","3.108,08"],
+     ["[[DATE|29.09.2026]]","Kartenzahlung [[OPT|Edeka]]","[[REF|KZ 260929-9921]]","-52,63","3.055,45"],
+     ["[[DATE|30.09.2026]]","[[NEG|Kontoführungsentgelt]]","Giro Komfort 09/2026","-6,90","3.048,55"],
+     ["[[DATE|30.09.2026]]","[[NEG|Rechnungsabschluss]]","[[NEG|Habenzinsen]] 0,00","0,00","3.048,55"]
+    ],"widths":[1,3.2,3.2,1,1],"size":7},
+   {"t":"space","h":8},
+   {"t":"p","text":"[[NEG|Neuer Kontostand]] am [[DATE|30.09.2026]]: 3.048,55 EUR. Ihr Dispositionskredit beträgt 2.500,00 EUR, der Sollzinssatz für geduldete Überziehungen 11,25 % p. a."},
+   {"t":"p","text":"Bitte prüfen Sie die Buchungen. Einwendungen gegen den Rechnungsabschluss sind innerhalb von sechs Wochen nach Zugang zu erheben. Ihr Berater [[OPT|Herr]] [[PER|Matthias Strohmeyer]] ist unter [[PHONE|0511 3000-4718]] erreichbar.","size":9}
+  ]
+ ]},
+
+{"id": "de04_arztbrief_kardiologie", "lang": "de", "country": ["DE"], "kind": "medical",
+ "title": "Arztbrief Kardiologie", "dense": false,
+ "pages": [
+  [
+   {"t":"lines","text":"[[ORG|Herzzentrum Leipzig-Süd Klinik Dr. Ellenrieder GmbH]]\nKlinik für Kardiologie und Internistische Intensivmedizin\n[[ADDR|Prager Straße 211\n04289 Leipzig]]\nTel. [[PHONE|0341 86 4402-0]] · Fax [[PHONE|0341 86 4402-99]]\n[[EMAIL|kardiologie@hz-leipzig-sued.de]]"},
+   {"t":"space","h":8},
+   {"t":"lines","text":"[[OPT|Frau Dr. med.]]\n[[PER|Ulrike Brandstätter]]\nFachärztin für Allgemeinmedizin\n[[ADDR|Karl-Liebknecht-Straße 58\n04275 Leipzig]]"},
+   {"t":"space","h":6},
+   {"t":"p","text":"[[OPT|Leipzig]], den [[DATE|16.10.2026]]"},
+   {"t":"h","text":"[[NEG|ENTLASSUNGSBERICHT]]"},
+   {"t":"table","rows":[["Patientin","geboren am","Versichertennummer","Patienten-Nr."],["[[PER|Sommer, Hannelore]]","[[DOB|23.06.1948]]","[[ID|M482917365]]","[[ID|PAT-0088123]]"],["Anschrift","Krankenkasse","Aufnahme","Entlassung"],["[[ADDR|Fichtestraße 9, 04275 Leipzig]]","[[OPT|AOK PLUS]]","[[DATE|09.10.2026]]","[[DATE|15.10.2026]]"]],"widths":[2,1,1.3,1],"size":8},
+   {"t":"space","h":6},
+   {"t":"p","text":"Sehr geehrte [[OPT|Frau Kollegin]] [[PER|Brandstätter]],"},
+   {"t":"p","text":"wir berichten über Ihre Patientin [[OPT|Frau]] [[PER|Hannelore Sommer]], die sich vom [[DATE|09.10.2026]] bis [[DATE|15.10.2026]] in unserer stationären Behandlung befand. Die Aufnahme erfolgte über den Rettungsdienst mit seit zwei Stunden bestehendem retrosternalem Druckgefühl."},
+   {"t":"h","text":"Diagnosen"},
+   {"t":"lines","text":"– [[NEG|Nicht-ST-Hebungsinfarkt (NSTEMI)]]\n– [[NEG|koronare Dreigefäßerkrankung]], Z. n. PCI mit DES-Implantation in RIVA\n– [[NEG|Diabetes mellitus Typ 2]], nicht insulinpflichtig\n– [[NEG|arterielle Hypertonie]]\n– [[NEG|Hypercholesterinämie]]"},
+   {"t":"h","text":"Verlauf"},
+   {"t":"p","text":"Bei Aufnahme zeigte sich ein erhöhtes [[NEG|Troponin T]] von 412 ng/l mit dynamischem Anstieg. Die Koronarangiographie am [[DATE|10.10.2026]] durch [[OPT|Herrn Oberarzt Dr.]] [[PER|Pascal Ochs]] ergab eine hochgradige Stenose des RIVA, die erfolgreich mit einem medikamentenfreisetzenden Stent versorgt wurde. Der weitere Verlauf war komplikationslos. Echokardiographisch fand sich eine leicht eingeschränkte linksventrikuläre Funktion (EF 48 %)."},
+   {"t":"p","text":"Laborchemisch: [[NEG|HbA1c]] 7,4 %, [[NEG|LDL-Cholesterin]] 162 mg/dl, [[NEG|Kreatinin]] 1,1 mg/dl, Kalium im Normbereich. Die Patientin berichtet, die Beschwerden hätten bereits im [[NEG|Sommer]] des Vorjahres bei Belastung gelegentlich bestanden."}
+  ],
+  [
+   {"t":"h","text":"Medikation bei Entlassung"},
+   {"t":"table","rows":[["Wirkstoff","Dosis","Schema"],["[[NEG|ASS]]","100 mg","1-0-0"],["[[NEG|Ticagrelor]]","90 mg","1-0-1 für 12 Monate"],["[[NEG|Atorvastatin]]","80 mg","0-0-1"],["[[NEG|Bisoprolol]]","2,5 mg","1-0-0"],["[[NEG|Ramipril]]","5 mg","1-0-0"],["[[NEG|Metformin]]","1000 mg","1-0-1"]],"widths":[2,1,2],"size":9},
+   {"t":"space","h":6},
+   {"t":"h","text":"Procedere"},
+   {"t":"p","text":"Wir empfehlen eine kardiologische Anschlussheilbehandlung, die durch unseren Sozialdienst ([[PER|Bettina Laux]], Tel. [[PHONE|0341 86 4402-317]]) bereits beantragt wurde. Ziel-LDL unter 55 mg/dl; eine Kontrolle der Blutfette in vier bis sechs Wochen ist sinnvoll. Die duale Plättchenhemmung sollte ohne Rücksprache nicht unterbrochen werden."},
+   {"t":"p","text":"Als Kontaktperson hat die Patientin ihre Tochter [[OPT|Frau]] [[PER|Katrin Sommer-Wendt]] angegeben, erreichbar unter [[PHONE|0172 4839106]] oder [[EMAIL|katrin.sommer-wendt@posteo.de]]. Sie wohnt in [[ADDR|Hans-Driesch-Straße 27, 04179 Leipzig]] und wird die Mutter in der ersten Zeit unterstützen."},
+   {"t":"p","text":"Für Rückfragen stehen wir Ihnen gern zur Verfügung."},
+   {"t":"p","text":"Mit freundlichen kollegialen Grüßen"},
+   {"t":"space","h":12},
+   {"t":"cols","left":"[[OPT|Prof. Dr. med.]] [[PER|Georg\nEllenrieder]]\nChefarzt","right":"[[OPT|Dr. med.]] [[PER|Ines Paschke]]\nOberärztin, Station K2"}
+  ]
+ ]},
+
+{"id": "de05_dienstvertrag_aenderung", "lang": "de", "country": ["AT"], "kind": "hr",
+ "title": "Änderung des Dienstvertrages", "dense": false,
+ "pages": [
+  [
+   {"t":"lines","text":"[[ORG|Donauwerk Präzisionsteile GmbH]]\n[[ADDR|Industriestraße 14\n4600 Wels]]\nFirmenbuch: [[ID|FN 418273 k]], [[OPT|Landesgericht Wels]] · UID: [[ID|ATU68291437]]"},
+   {"t":"space","h":10},
+   {"t":"lines","text":"[[OPT|Herrn]] [[OPT|Ing.]]\n[[PER|Florian Aigner]]\n[[ADDR|Wiener Straße 52/3/7\n4020 Linz]]"},
+   {"t":"space","h":6},
+   {"t":"p","text":"[[OPT|Wels]], am [[DATE|20. Oktober 2026]]"},
+   {"t":"h","text":"Änderung Ihres Dienstvertrages – Ernennung zum Teamleiter Qualitätssicherung"},
+   {"t":"table","rows":[["Dienstnehmer","Personalnummer","Sozialversicherungsnummer","Geburtsdatum"],["[[PER|AIGNER Florian]]","[[ID|P-30417]]","[[ID|1237 150389]]","[[DOB|15.03.1989]]"]],"widths":[1.5,1,1.5,1],"size":9},
+   {"t":"space","h":6},
+   {"t":"p","text":"Sehr geehrter [[OPT|Herr]] [[PER|Aigner]],"},
+   {"t":"p","text":"wir freuen uns, Ihnen mitzuteilen, dass Sie mit Wirkung vom [[DATE|1. Jänner 2027]] die Leitung des Teams Qualitätssicherung im Werk Wels übernehmen. In Abstimmung mit Ihrem bisherigen Vorgesetzten, [[OPT|Herrn]] [[PER|Jürgen Pichler]], und der Werksleitung ändern wir Ihren Dienstvertrag vom [[DATE|3. April 2019]] wie folgt:"},
+   {"t":"p","text":"1. Ihre Einstufung erfolgt in die Verwendungsgruppe J des [[NEG|Kollektivvertrages]] für die Angestellten der Metallindustrie. Das Bruttomonatsgehalt beträgt künftig € 4.380,00, vierzehnmal jährlich. [[NEG|Urlaubszuschuss]] und [[NEG|Weihnachtsremuneration]] werden wie bisher mit den Bezügen für Juni und November ausbezahlt."},
+   {"t":"p","text":"2. Zusätzlich erhalten Sie eine [[NEG|Überstundenpauschale]] von monatlich € 420,00 brutto, mit der bis zu zehn Mehr- und Überstunden pro Monat abgegolten sind. Darüber hinausgehende Stunden werden gesondert vergütet."},
+   {"t":"p","text":"3. Für die neue Funktion vereinbaren wir eine [[NEG|Probezeit]] von drei Monaten. Sollte sich die Funktion in dieser Zeit für beide Seiten nicht bewähren, kehren Sie zu den bisherigen Bedingungen auf Ihre frühere Stelle zurück; das [[NEG|Dienstverhältnis]] als solches bleibt davon unberührt."},
+   {"t":"p","text":"4. Ihr direkter Vorgesetzter ist ab diesem Zeitpunkt die Werksleiterin [[OPT|Frau]] [[OPT|Mag.]] [[PER|Elisabeth Huber-Strasser]]. Die Teilnahme an der Führungskräfteausbildung, die sechs Monate [[NEG|lang]] jeweils einen Freitag im Monat umfasst, ist verpflichtend."},
+   {"t":"p","text":"5. Die Bezüge werden weiterhin auf Ihr Gehaltskonto IBAN [[IBAN|AT52 2011 1829 4736 1005]] überwiesen. Alle übrigen Bestimmungen Ihres Dienstvertrages bleiben unverändert."}
+  ],
+  [
+   {"t":"p","text":"Wir ersuchen Sie, das beiliegende Duplikat dieses Schreibens unterfertigt bis [[DATE|6. November 2026]] an die Personalabteilung zu retournieren. Für Fragen steht Ihnen [[OPT|Frau]] [[PER|Doris Lang]] aus der Personalverrechnung zur Verfügung: Tel. [[PHONE|+43 7242 61830-215]], mobil [[PHONE|0664 382 1957]], E-Mail [[EMAIL|d.lang@donauwerk.at]]."},
+   {"t":"p","text":"Wir gratulieren Ihnen herzlich zu dieser Ernennung und freuen uns auf die weitere Zusammenarbeit."},
+   {"t":"p","text":"Mit freundlichen Grüßen"},
+   {"t":"space","h":12},
+   {"t":"cols","left":"______________________________\n[[OPT|Mag.]] [[PER|Elisabeth\nHuber-Strasser]]\nWerksleitung","right":"______________________________\n[[PER|Doris Lang]]\nPersonalverrechnung"},
+   {"t":"space","h":16},
+   {"t":"h","text":"Einverständniserklärung des Dienstnehmers"},
+   {"t":"p","text":"Ich, [[PER|Florian Aigner]], erkläre mich mit den oben angeführten Änderungen meines Dienstvertrages einverstanden."},
+   {"t":"space","h":12},
+   {"t":"lines","text":"[[OPT|Linz]], am ____________________\n\n______________________________\nUnterschrift [[NEG|Dienstnehmer]]"},
+   {"t":"space","h":12},
+   {"t":"p","text":"Ergeht in Kopie an: Personalakt; Betriebsrat, z. Hd. [[PER|M. Wögerbauer]]; [[NEG|Lohnverrechnung]].","size":9}
+  ]
+ ]},
+
+{"id": "de06_anwaltskorrespondenz", "lang": "de", "country": ["DE"], "kind": "legal",
+ "title": "E-Mail-Verkehr Rechtsstreit Lieferverzug", "dense": false,
+ "pages": [
+  [
+   {"t":"lines","text":"Von: [[OPT|Dr.]] [[PER|Konstantin Reißner]] ([[EMAIL|k.reissner@reissner-voss.de]])\nAn: [[PER|Ansgar van der Linden]] ([[EMAIL|a.vanderlinden@rheinfels-spedition.de]])\nCc: [[PER|Svenja Klein]] ([[EMAIL|s.klein@reissner-voss.de]])\nDatum: [[DATE|14.10.2026]], 16:42\nBetreff: [[ORG|Rheinfels Spedition]] ./. [[ORG|Kühnert Fahrzeugbau AG]] – Az. [[REF|8 O 214/26]] [[OPT|LG Düsseldorf]]"},
+   {"t":"space","h":8},
+   {"t":"p","text":"Sehr geehrter [[OPT|Herr]] [[PER|van der Linden]],"},
+   {"t":"p","text":"heute ist die [[NEG|Klageerwiderung]] der Gegenseite eingegangen. Die [[NEG|Beklagte]] bestreitet den Lieferverzug nicht mehr ernsthaft, beruft sich aber darauf, die verspätete Auslieferung der drei Sattelauflieger sei auf einen Zulieferengpass bei Achsbaugruppen zurückzuführen und damit nicht zu vertreten. Zum Beweis benennt sie ihren Einkaufsleiter [[OPT|Herrn]] [[PER|HEIKO BRÜGGEMANN]] als Zeugen."},
+   {"t":"p","text":"Ich halte diese Verteidigung für schwach. Die Beklagte hat die Liefertermine im Vertrag vom [[DATE|2. Februar 2026]] als Fixtermine bestätigt; ein Haftungsausschluss für Zulieferprobleme findet sich in den Vertragsbedingungen nicht. Unser Anspruch auf Ersatz des Verzögerungsschadens aus [[NEG|§ 280 Abs. 1, 2 BGB]] in Verbindung mit [[NEG|§ 286 BGB]] in Höhe von [[NEG|186.400,00 EUR]] bleibt aus meiner Sicht gut begründet."},
+   {"t":"p","text":"Für die [[NEG|Replik]] benötige ich bis Ende nächster Woche die Aufstellung der angemieteten Ersatzfahrzeuge sowie die Korrespondenz Ihres Disponenten [[PER|Dennis Kowalczyk]] mit dem Vertrieb der Gegenseite, insbesondere die E-Mails an [[OPT|Frau]] [[PER|Petra Lehnert-Faust]]. Die [[NEG|Schriftsatzfrist]] läuft am [[DATE|4. November 2026]] ab."},
+   {"t":"p","text":"Mit freundlichen Grüßen"},
+   {"t":"lines","text":"[[OPT|Dr.]] [[PER|Konstantin Reißner]]\nRechtsanwalt · Fachanwalt für Handels- und Gesellschaftsrecht\n[[ORG|Reißner & Voss Rechtsanwälte PartG mbB]]\n[[ADDR|Königsallee 74\n40212 Düsseldorf]]\nTel. [[PHONE|+49 211 5408 830]] · Fax [[PHONE|+49 211 5408 839]]"},
+   {"t":"space","h":10},
+   {"t":"lines","text":"Von: [[PER|Ansgar van der Linden]] ([[EMAIL|a.vanderlinden@rheinfels-spedition.de]])\nAn: [[OPT|Dr.]] [[PER|Konstantin Reißner]] ([[EMAIL|k.reissner@reissner-voss.de]])\nDatum: [[DATE|15.10.2026]], 08:17\nBetreff: AW: [[ORG|Rheinfels Spedition]] ./. [[ORG|Kühnert Fahrzeugbau AG]]"},
+   {"t":"space","h":6},
+   {"t":"p","text":"Sehr geehrter [[OPT|Herr Dr.]] [[PER|Reißner]],"},
+   {"t":"p","text":"vielen Dank. Die Aufstellung der Ersatzfahrzeuge schickt Ihnen unsere Buchhalterin [[OPT|Frau]] [[PER|Birgit Mertens]] bis Montag. [[OPT|Herr]] [[PER|Kowalczyk]] ist bis [[DATE|23.10.2026]] im Urlaub; seine Mails kann ich Ihnen aber selbst exportieren. Zu [[OPT|Herrn]] [[PER|Brüggemann]]: Er hat mir im März am Telefon gesagt, die Achsen seien längst da, es fehle nur an Personal in der Endmontage. Ich habe darüber eine Notiz angefertigt."},
+   {"t":"p","text":"Mein Kollege aus der Geschäftsführung, [[PER|Christoph Elsässer]], fragt, ob ein [[NEG|Vergleichsvorschlag]] sinnvoll wäre. Sie erreichen mich heute mobil unter [[PHONE|0151 2847 6630]]."},
+   {"t":"lines","text":"Viele Grüße\n[[PER|Ansgar van der Linden]]\nKaufmännischer Leiter\n[[ORG|Rheinfels Spedition GmbH & Co. KG]] · [[ADDR|Hafenstraße 31, 47119 Duisburg]]\n[[OPT|Amtsgericht Duisburg]] [[ID|HRA 9817]]"}
+  ],
+  [
+   {"t":"lines","text":"Von: [[OPT|Dr.]] [[PER|Konstantin Reißner]] ([[EMAIL|k.reissner@reissner-voss.de]])\nAn: [[PER|Ansgar van der Linden]] ([[EMAIL|a.vanderlinden@rheinfels-spedition.de]])\nCc: [[PER|Svenja Klein]] ([[EMAIL|s.klein@reissner-voss.de]]); [[PER|Christoph Elsässer]] ([[EMAIL|c.elsaesser@rheinfels-spedition.de]])\nDatum: [[DATE|15.10.2026]], 11:05\nBetreff: AW: AW: [[ORG|Rheinfels Spedition]] ./. [[ORG|Kühnert Fahrzeugbau AG]]"},
+   {"t":"space","h":6},
+   {"t":"p","text":"Sehr geehrter [[OPT|Herr]] [[PER|van der Linden]], sehr geehrter [[OPT|Herr]] [[PER|Elsässer]],"},
+   {"t":"p","text":"Ihre Telefonnotiz ist wertvoll. Bitte senden Sie mir das Original; ich werde Sie selbst als Zeugen für das Gespräch mit [[OPT|Herrn]] [[PER|Brüggemann]] benennen ([[NEG|Zeugenbeweis]]). Damit wird die Darstellung der Gegenseite, es habe an Achsbaugruppen gefehlt, erheblich erschüttert."},
+   {"t":"lines","text":"Für die Replik sind folgende Zeugen vorgesehen:\n1. [[PER|Ansgar van der Linden]], zu laden über die Klägerin\n2. [[PER|Dennis Kowalczyk]], ebenda\n3.[[PER|Gerhard Lüttgenau]], Kfz-Sachverständiger, [[ADDR|Mülheimer Straße 140, 47057 Duisburg]]"},
+   {"t":"p","text":"Zu einem Vergleich: Der Prozessbevollmächtigte der Gegenseite, [[OPT|Rechtsanwalt]] [[OPT|Dr.]] [[PER|Wilfried de Buhr]] von der Kanzlei [[ORG|Hellwig Brandis Rechtsanwälte GbR]], hat bereits signalisiert, dass seine Mandantin einen Vergleich im Bereich von 60 bis 70 Prozent der Klageforderung in Betracht zieht. Ich rate, die [[NEG|Replik]] abzuwarten und erst danach über eine Größenordnung zu sprechen. Der Gütetermin vor der [[OPT|8. Zivilkammer]] ist auf den [[DATE|26. November 2026]] bestimmt."},
+   {"t":"p","text":"Für die [[NEG|Prozessvollmacht]] des neuen Prokuristen bitte ich noch um eine Kopie des aktuellen Handelsregisterauszugs. Meine Mitarbeiterin [[OPT|Frau]] [[PER|Klein]] meldet sich wegen der Terminabstimmung unter [[PHONE|0211 5408 834]] bei Ihnen."},
+   {"t":"p","text":"Mit freundlichen Grüßen"},
+   {"t":"lines","text":"[[OPT|Dr.]] [[PER|Konstantin\nReißner]]\nRechtsanwalt\n[[ORG|Reißner & Voss Rechtsanwälte PartG mbB]]"},
+   {"t":"space","h":8},
+   {"t":"p","text":"Diese E-Mail enthält vertrauliche und rechtlich geschützte Informationen ([[NEG|Mandatsgeheimnis]]). Wenn Sie nicht der richtige Adressat sind, informieren Sie bitte sofort den Absender und vernichten Sie diese E-Mail.","size":8}
+  ]
+ ]}
+]

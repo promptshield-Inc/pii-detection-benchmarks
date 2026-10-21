@@ -1,0 +1,912 @@
+[
+ {
+  "id": "en01_business_sale",
+  "lang": "en",
+  "country": [
+   "GB"
+  ],
+  "kind": "contract",
+  "title": "Agreement for the sale and purchase of a business",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|AGREEMENT FOR THE SALE AND PURCHASE OF A BUSINESS]]"
+    },
+    {
+     "t": "p",
+     "text": "THIS AGREEMENT is dated [[DATE|9 October 2026]]."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|PARTIES]]"
+    },
+    {
+     "t": "p",
+     "text": "(1) [[PER|MARGARET ELOISE KINSELLA]], trading as [[ORG|Pendle Valley Bakehouse]], of [[ADDR|14 Pendle Rise, Clitheroe, Lancashire BB7 2QW]] (Unique Taxpayer Reference [[ID|48213 90675]]) (the \"[[NEG|Seller]]\"); and"
+    },
+    {
+     "t": "p",
+     "text": "(2) [[ORG|THORNBURY & VALE HOLDINGS LIMITED]], a company incorporated and registered in England and Wales with company number [[ID|11847302]], whose registered office is at [[ADDR|Unit 4, Calder Park, Denby Dale Road, Wakefield WF2 7AW]], acting by its director [[PER|GARETH OWEN PRITCHARD]] (the \"[[NEG|Buyer]]\")."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|BACKGROUND]]"
+    },
+    {
+     "t": "p",
+     "text": "(A) The Seller has carried on the business of a retail bakery and cafe from the Premises since [[DATE|March 2011]], having taken it over from her late husband, [[PER|Desmond Kinsella]], who founded it with a single oven and a rose bush by the door."
+    },
+    {
+     "t": "p",
+     "text": "(B) The Seller has agreed to sell, and the Buyer has agreed to buy, the Business as a going concern on the terms set out in this agreement."
+    },
+    {
+     "t": "h",
+     "text": "1. [[NEG|DEFINITIONS AND INTERPRETATION]]"
+    },
+    {
+     "t": "p",
+     "text": "1.1 In this agreement: \"Premises\" means the shop and bakehouse at [[ADDR|27 Moor Lane, Clitheroe BB7 1AF]]; \"Goodwill\" means the goodwill of the Seller in the Business together with the exclusive right to use the trading name; \"Equipment\" means the two deck ovens, the proving cabinet, the spiral dough mixer and the display chillers listed in [[NEG|Schedule 2]]; and \"Stock\" means all flour, sugar, packaging and finished goods held at the Premises on the Completion Date."
+    },
+    {
+     "t": "p",
+     "text": "1.2 Clause headings do not affect the interpretation of this agreement. References to a statute include that statute as amended or re-enacted from time to time."
+    },
+    {
+     "t": "h",
+     "text": "2. [[NEG|SALE AND PURCHASE]]"
+    },
+    {
+     "t": "p",
+     "text": "2.1 The consideration for the Business is [[NEG|£185,000]] (one hundred and eighty-five thousand pounds), apportioned as to [[NEG|£120,000]] to the Goodwill, £52,500 to the Equipment and the balance to the Stock, subject to adjustment under clause 2.4."
+    },
+    {
+     "t": "p",
+     "text": "2.2 The Buyer shall pay a deposit of [[NEG|£18,500]] on signing to the Seller's solicitors, [[ORG|Hargreaves Lund LLP]], as stakeholders, and the balance on Completion by transfer to the Seller's account with [[OPT|Lloyds Bank]] (IBAN [[IBAN|GB51 LOYD 3096 5812 7483 05]], BIC [[OPT|LOYDGB21]])."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "3. [[NEG|EMPLOYEES]]"
+    },
+    {
+     "t": "p",
+     "text": "3.1 The parties acknowledge that the Transfer of Undertakings (Protection of Employment) Regulations 2006 ([[NEG|TUPE]]) apply to the sale, and that the contracts of employment of the employees listed in Schedule 3, including the head baker, [[OPT|Mr]] [[PER|Bill Thwaite]], and the cafe supervisor, [[OPT|Mrs]] [[PER|Shirin Chaudhry]], shall transfer to the Buyer on Completion."
+    },
+    {
+     "t": "p",
+     "text": "3.2 The Seller warrants that no employee has given or received notice of termination and that all wages, holiday pay and pension contributions due up to Completion have been paid in full."
+    },
+    {
+     "t": "h",
+     "text": "4. [[NEG|COMPLETION]]"
+    },
+    {
+     "t": "p",
+     "text": "4.1 Completion shall take place on [[DATE|30 October 2026]] at the offices of [[ORG|Hargreaves Lund LLP]], [[ADDR|8 Castle Street, Clitheroe BB7 2BX]], or by exchange of signed documents by post or email. Notices to the Buyer shall be marked for the attention of [[PER|Gareth Pritchard]] and sent to [[EMAIL|g.pritchard@thornburyvale.co.uk]]; notices to the Seller shall be sent to [[EMAIL|maggie.kinsella@btinternet.com]]."
+    },
+    {
+     "t": "p",
+     "text": "4.2 The Seller's identity has been verified by [[PER|Daniel Okonkwo-Briggs]] of [[ORG|Hargreaves Lund LLP]] against her passport number [[ID|548213097]] in accordance with the Money Laundering Regulations."
+    },
+    {
+     "t": "h",
+     "text": "5. [[NEG|GOVERNING LAW]]"
+    },
+    {
+     "t": "p",
+     "text": "This agreement and any dispute arising out of it are governed by the law of England and Wales, and the parties submit to the exclusive jurisdiction of its courts."
+    },
+    {
+     "t": "p",
+     "text": "Signed as a deed and delivered on the date first written above in the presence of the following witnesses:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Rose Ellery]], retired schoolteacher, [[ADDR|22 Woone Lane, Clitheroe BB7 1BG]]\n2. [[PER|Daniel Okonkwo-Briggs]], solicitor, [[ORG|Hargreaves Lund LLP]]\n3. [[PER|Thomas H. Ashworth]], company secretary, [[ORG|Thornbury & Vale Holdings Limited]]"
+    },
+    {
+     "t": "space",
+     "h": 14
+    },
+    {
+     "t": "cols",
+     "left": "Signed as a deed by\n[[PER|MARGARET ELOISE\nKINSELLA]]\n\n.................................\n[[NEG|Seller]]",
+     "right": "Executed as a deed by\n[[ORG|THORNBURY & VALE HOLDINGS LIMITED]]\nacting by [[PER|Gareth O. Pritchard]], Director\n\n.................................\n[[NEG|Buyer]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "en02_invoice",
+  "lang": "en",
+  "country": [
+   "GB"
+  ],
+  "kind": "invoice",
+  "title": "Tax invoice FJ-2026-0937",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Fernlea Joinery & Fit-Out Ltd]]\n[[ADDR|Unit 7, Brindley Court, Festival Park\nStoke-on-Trent ST1 5RY]]\nTel: [[PHONE|01782 664219]]  |  Mobile: [[PHONE|+44 7700 900418]]\nEmail: [[EMAIL|accounts@fernleajoinery.co.uk]]\nVAT Reg. No. [[ID|GB 284 6173 52]]  |  Company No. [[ID|09928451]]"
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|TAX INVOICE]]"
+    },
+    {
+     "t": "cols",
+     "left": "[[NEG|Bill To]]:\n[[ORG|Aldwick Dental Care LLP]]\nFAO [[OPT|Ms]] [[PER|Hannah\nWexford-Lyle]], Practice Manager\n[[ADDR|3 Market Street\nMacclesfield SK11 6JW]]",
+     "right": "Invoice No: [[REF|FJ-2026-0937]]\nInvoice Date: [[DATE|12 October 2026]]\nDue Date: [[DATE|11 November 2026]]\nCustomer Account: [[ID|ALD-0412]]\nYour PO: [[REF|ADC/PO/7781]]"
+    },
+    {
+     "t": "p",
+     "text": "Re: refit of patient reception and Surgery 2, carried out between [[DATE|29 September]] and [[DATE|9 October 2026]]. Site contact: [[OPT|Dr]] [[PER|Priya Ramanathan]]. Works supervised by our site foreman, [[PER|Kieran McAllister]], and signed off by [[PER|Hannah Wexford-Lyle]] on completion."
+    },
+    {
+     "t": "table",
+     "widths": [
+      0.7,
+      5,
+      0.6,
+      1.2,
+      0.7,
+      1.2
+     ],
+     "size": 8,
+     "rows": [
+      [
+       "Item",
+       "Description",
+       "Qty",
+       "Unit price",
+       "VAT",
+       "Net"
+      ],
+      [
+       "1",
+       "[[NEG|Oak veneer reception desk]], bespoke, 2.4 m with low accessible section",
+       "1",
+       "£3,850.00",
+       "20%",
+       "£3,850.00"
+      ],
+      [
+       "2",
+       "[[NEG|Acoustic wall panels]], fabric-faced, colour [[NEG|Dusty Rose]]",
+       "6",
+       "£145.00",
+       "20%",
+       "£870.00"
+      ],
+      [
+       "3",
+       "Built-in storage cabinets with soft-close doors",
+       "4",
+       "£410.00",
+       "20%",
+       "£1,640.00"
+      ],
+      [
+       "4",
+       "Supply and fit [[NEG|Amtico flooring]], 38 m2",
+       "38",
+       "£48.50",
+       "20%",
+       "£1,843.00"
+      ],
+      [
+       "5",
+       "Labour, joiners (2 operatives x 6 days)",
+       "12",
+       "£260.00",
+       "20%",
+       "£3,120.00"
+      ],
+      [
+       "6",
+       "Waste removal and skip hire",
+       "1",
+       "£295.00",
+       "20%",
+       "£295.00"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "widths": [
+      3,
+      1
+     ],
+     "size": 8,
+     "rows": [
+      [
+       "Summary",
+       "Amount"
+      ],
+      [
+       "Subtotal (net)",
+       "[[NEG|£11,618.00]]"
+      ],
+      [
+       "VAT at 20%",
+       "£2,323.60"
+      ],
+      [
+       "Total including VAT",
+       "£13,941.60"
+      ],
+      [
+       "Less deposit received [[DATE|15 September 2026]]",
+       "-£3,500.00"
+      ],
+      [
+       "Balance due",
+       "[[NEG|£10,441.60]]"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Payment details"
+    },
+    {
+     "t": "lines",
+     "text": "Bank: [[OPT|Barclays Bank UK PLC]]\nAccount name: [[ORG|Fernlea Joinery & Fit-Out Ltd]]\nSort code: [[OPT|20-45-77]]   Account no.: [[ID|53120948]]\nIBAN: [[IBAN|GB49 BARC 2045 7753 1209 48]]   BIC: [[OPT|BARCGB22]]"
+    },
+    {
+     "t": "p",
+     "text": "Payment terms: strictly 30 days from the invoice date. Please quote the invoice number as your payment reference. Overdue balances may attract interest under the [[NEG|Late Payment of Commercial Debts (Interest) Act 1998]]. Queries to our accounts administrator, [[PER|Rose Kettering]], on [[PHONE|01782 664220]] or [[EMAIL|rose.kettering@fernleajoinery.co.uk]]."
+    },
+    {
+     "t": "p",
+     "text": "Thank you for your custom. Our [[NEG|12-month workmanship guarantee]] runs from the date of completion. Prepared by [[PER|J. D. Marsh]] for [[PER|Owen Fernley-Shaw]], Director."
+    }
+   ]
+  ]
+ },
+ {
+  "id": "en03_bank_statement",
+  "lang": "en",
+  "country": [
+   "GB"
+  ],
+  "kind": "bank_statement",
+  "title": "Current account statement September 2026",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[OPT|NatWest]]\nStatement of account"
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|MR]] [[PER|ANDREW J COLLINGWOOD]]\n[[OPT|MRS]] [[PER|FIONA M COLLINGWOOD]]\n[[ADDR|FLAT 3\n41 BELVEDERE ROAD\nBRISTOL\nBS6 7JQ]]"
+    },
+    {
+     "t": "cols",
+     "left": "Account name: [[PER|A J Collingwood]] & [[PER|F M Collingwood]]\nAccount type: [[NEG|Select Joint Current Account]]\nSort code: [[OPT|60-17-21]]\nAccount number: [[ID|41029387]]",
+     "right": "IBAN: [[IBAN|GB77 NWBK 6017 2141 0293 87]]\nBIC: [[OPT|NWBKGB2L]]\nPeriod: [[DATE|1 September 2026]] to [[DATE|30 September 2026]]\nStatement no.: [[REF|114]]"
+    },
+    {
+     "t": "table",
+     "widths": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "size": 8,
+     "rows": [
+      [
+       "[[NEG|Balance brought forward]]",
+       "Paid in",
+       "Paid out",
+       "[[NEG|Balance carried forward]]"
+      ],
+      [
+       "[[NEG|£2,184.37]]",
+       "£4,888.21",
+       "£2,722.31",
+       "[[NEG|£4,350.27]]"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "widths": [
+      1.1,
+      4.4,
+      1.7,
+      0.95,
+      0.95,
+      1.0
+     ],
+     "size": 7.5,
+     "rows": [
+      [
+       "Date",
+       "Description",
+       "Reference",
+       "Paid out",
+       "Paid in",
+       "Balance"
+      ],
+      [
+       "[[DATE|01 Sep 2026]]",
+       "DD [[OPT|BRISTOL CITY COUNCIL]] CTAX",
+       "[[REF|60048213C]]",
+       "187.00",
+       "",
+       "1,997.37"
+      ],
+      [
+       "[[DATE|01 Sep 2026]]",
+       "SO TO [[PER|D P HARGREAVE]] RENT",
+       "[[REF|FLAT3RENT]]",
+       "1,150.00",
+       "",
+       "847.37"
+      ],
+      [
+       "[[DATE|02 Sep 2026]]",
+       "CARD PAYMENT [[OPT|TESCO STORES]] 2241",
+       "[[REF|CD 4417]]",
+       "64.82",
+       "",
+       "782.55"
+      ],
+      [
+       "[[DATE|03 Sep 2026]]",
+       "FASTER PAYMENT FROM [[PER|PATRICK DE LA HAYE]] CONCERT",
+       "[[REF|FP 0903 77126]]",
+       "",
+       "45.00",
+       "827.55"
+      ],
+      [
+       "[[DATE|03 Sep 2026]]",
+       "DD [[OPT|BRISTOL WATER]]",
+       "[[REF|BW-2287341]]",
+       "38.40",
+       "",
+       "789.15"
+      ],
+      [
+       "[[DATE|04 Sep 2026]]",
+       "CARD PAYMENT [[ORG|GREENLEAF DENTAL LTD]]",
+       "[[REF|CD 4417]]",
+       "85.00",
+       "",
+       "704.15"
+      ],
+      [
+       "[[DATE|05 Sep 2026]]",
+       "CARD PAYMENT [[OPT|SAINSBURYS]] S/MKT",
+       "[[REF|CD 4417]]",
+       "47.16",
+       "",
+       "656.99"
+      ],
+      [
+       "[[DATE|06 Sep 2026]]",
+       "FASTER PAYMENT TO [[PER|K OYELARAN]] BIRTHDAY",
+       "[[REF|FP 0609 31184]]",
+       "30.00",
+       "",
+       "626.99"
+      ],
+      [
+       "[[DATE|08 Sep 2026]]",
+       "DD [[OPT|OCTOPUS ENERGY]]",
+       "[[REF|A-4F81C2D0]]",
+       "142.00",
+       "",
+       "484.99"
+      ],
+      [
+       "[[DATE|08 Sep 2026]]",
+       "CARD PAYMENT [[OPT|AMAZON.CO.UK]]*R72KP0",
+       "[[REF|CD 4417]]",
+       "23.99",
+       "",
+       "461.00"
+      ],
+      [
+       "[[DATE|10 Sep 2026]]",
+       "BACS [[ORG|ASHGROVE ENGINEERING LTD]] SALARY",
+       "[[REF|PAY SEP26]]",
+       "",
+       "2,684.21",
+       "3,145.21"
+      ],
+      [
+       "[[DATE|10 Sep 2026]]",
+       "SO TO [[PER|J BLACKWOOD-HUNT]] CHILDMINDING",
+       "[[REF|SO 118]]",
+       "360.00",
+       "",
+       "2,785.21"
+      ],
+      [
+       "[[DATE|11 Sep 2026]]",
+       "CARD PAYMENT [[ORG|MARK & ROSE DELI]]",
+       "[[REF|CD 4417]]",
+       "14.60",
+       "",
+       "2,770.61"
+      ],
+      [
+       "[[DATE|12 Sep 2026]]",
+       "CASH WITHDRAWAL LINK ATM GLOUCESTER RD",
+       "[[REF|ATM 5521]]",
+       "60.00",
+       "",
+       "2,710.61"
+      ],
+      [
+       "[[DATE|13 Sep 2026]]",
+       "FASTER PAYMENT FROM [[PER|SAMUEL WHITLOCK]] FIVE A SIDE",
+       "[[REF|FP 1309 60457]]",
+       "",
+       "8.50",
+       "2,719.11"
+      ],
+      [
+       "[[DATE|15 Sep 2026]]",
+       "DD [[OPT|VODAFONE LTD]]",
+       "[[REF|VF 7730215]]",
+       "32.00",
+       "",
+       "2,687.11"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "size": 8,
+     "text": "Continued overleaf. Sheet 1 of 2."
+    }
+   ],
+   [
+    {
+     "t": "lines",
+     "text": "[[OPT|NatWest]]  |  Account number [[ID|41029387]]  |  Sheet 2 of 2"
+    },
+    {
+     "t": "table",
+     "widths": [
+      1.1,
+      4.4,
+      1.7,
+      0.95,
+      0.95,
+      1.0
+     ],
+     "size": 7.5,
+     "rows": [
+      [
+       "Date",
+       "Description",
+       "Reference",
+       "Paid out",
+       "Paid in",
+       "Balance"
+      ],
+      [
+       "[[DATE|15 Sep 2026]]",
+       "FASTER PAYMENT TO [[ORG|ST ANSELMS PTA]] SCHOOL TRIP",
+       "[[REF|FP 1509 22931]]",
+       "22.00",
+       "",
+       "2,665.11"
+      ],
+      [
+       "[[DATE|16 Sep 2026]]",
+       "CARD PAYMENT [[OPT|SHELL]] CLIFTON",
+       "[[REF|CD 4417]]",
+       "71.45",
+       "",
+       "2,593.66"
+      ],
+      [
+       "[[DATE|17 Sep 2026]]",
+       "DD [[OPT|AVIVA]] HOME INSURANCE",
+       "[[ID|AV7731094]]",
+       "29.87",
+       "",
+       "2,563.79"
+      ],
+      [
+       "[[DATE|18 Sep 2026]]",
+       "TFR FROM [[PER|F COLLINGWOOD]] EASY SAVER",
+       "[[REF|TFR 1809]]",
+       "",
+       "400.00",
+       "2,963.79"
+      ],
+      [
+       "[[DATE|19 Sep 2026]]",
+       "CARD PAYMENT [[OPT|WAITROSE]] 0482",
+       "[[REF|CD 4417]]",
+       "58.73",
+       "",
+       "2,905.06"
+      ],
+      [
+       "[[DATE|22 Sep 2026]]",
+       "FASTER PAYMENT TO [[PER|NIAMH O'SULLIVAN]] CAKE ORDER",
+       "[[REF|FP 2209 84402]]",
+       "45.00",
+       "",
+       "2,860.06"
+      ],
+      [
+       "[[DATE|23 Sep 2026]]",
+       "CARD PAYMENT [[ORG|CLIFTON VETS LTD]]",
+       "[[REF|CD 4417]]",
+       "118.30",
+       "",
+       "2,741.76"
+      ],
+      [
+       "[[DATE|24 Sep 2026]]",
+       "BACS [[OPT|HMRC]] TAX REFUND",
+       "[[REF|HMRC 2526]]",
+       "",
+       "312.84",
+       "3,054.60"
+      ],
+      [
+       "[[DATE|25 Sep 2026]]",
+       "CARD PAYMENT [[OPT|NETFLIX.COM]]",
+       "[[REF|CD 4417]]",
+       "10.99",
+       "",
+       "3,043.61"
+      ],
+      [
+       "[[DATE|26 Sep 2026]]",
+       "FASTER PAYMENT FROM [[PER|ELEANOR VAN DER POEL]] REFUND",
+       "[[REF|FP 2609 13075]]",
+       "",
+       "35.00",
+       "3,078.61"
+      ],
+      [
+       "[[DATE|28 Sep 2026]]",
+       "BACS [[ORG|MERIDIAN CARE SERVICES LTD]] WAGES",
+       "[[REF|MCS 0926]]",
+       "",
+       "1,402.66",
+       "4,481.27"
+      ],
+      [
+       "[[DATE|29 Sep 2026]]",
+       "CARD PAYMENT [[OPT|JOHN LEWIS]] CRIBBS",
+       "[[REF|CD 4417]]",
+       "89.00",
+       "",
+       "4,392.27"
+      ],
+      [
+       "[[DATE|30 Sep 2026]]",
+       "CARD PAYMENT [[ORG|HOLLIS & GRANT OPTICIANS]]",
+       "[[REF|CD 4417]]",
+       "39.00",
+       "",
+       "4,353.27"
+      ],
+      [
+       "[[DATE|30 Sep 2026]]",
+       "[[NEG|MONTHLY ACCOUNT FEE]]",
+       "",
+       "3.00",
+       "",
+       "4,350.27"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "size": 8,
+     "text": "Arranged overdraft limit: [[NEG|£500]]. Overdraft interest: [[NEG|39.49% EAR]] variable. Your eligible deposits are protected by the [[OPT|Financial Services Compensation Scheme]]. Questions about this statement? Call us on [[OPT|03457 888444]] or visit any branch."
+    }
+   ]
+  ]
+ },
+ {
+  "id": "en04_clinic_letter",
+  "lang": "en",
+  "country": [
+   "GB"
+  ],
+  "kind": "medical",
+  "title": "Endocrinology clinic letter",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Linden House Clinic]]\n[[ADDR|12 Rodney Road, Cheltenham GL50 1JJ]]\nTel [[PHONE|01242 580300]]  |  [[EMAIL|appointments@lindenhouseclinic.co.uk]]"
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Dr]] [[PER|Helen Abernethy-Cole]] MBBS FRCP\nConsultant Endocrinologist"
+    },
+    {
+     "t": "p",
+     "text": "Dictated [[DATE|14 October 2026]]  |  Typed [[DATE|16 October 2026]]"
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Dr]] [[PER|Matthew Rowe]]\n[[ORG|Leckhampton Surgery]]\n[[ADDR|17 Moorend Park Road\nCheltenham GL53 0LA]]"
+    },
+    {
+     "t": "lines",
+     "text": "Re: [[PER|ASHCROFT, Doreen Margaret]] ([[OPT|Mrs]])\nDOB: [[DOB|04/07/1952]]   NHS No: [[ID|485 772 9164]]   Hospital No: [[ID|LHC-0072154]]\n[[ADDR|Orchard Cottage, 5 Church Walk, Prestbury, Cheltenham GL52 3AX]]\nTel: [[PHONE|01242 517906]]"
+    },
+    {
+     "t": "h",
+     "text": "Diagnoses"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[NEG|Type 2 diabetes mellitus]], diagnosed 2014\n2. [[NEG|Primary hypothyroidism]]\n3. [[NEG|Hypertension]]\n4. [[NEG|Chronic kidney disease]] stage 3a"
+    },
+    {
+     "t": "h",
+     "text": "Current medication"
+    },
+    {
+     "t": "lines",
+     "text": "[[NEG|Metformin]] 1 g twice daily\n[[NEG|Levothyroxine]] 100 micrograms once daily\n[[NEG|Ramipril]] 5 mg once daily\n[[NEG|Atorvastatin]] 20 mg at night"
+    },
+    {
+     "t": "p",
+     "text": "Thank you for referring this pleasant 74-year-old lady, whom I saw in clinic on [[DATE|14 October 2026]] together with her daughter, [[OPT|Mrs]] [[PER|Caroline Fairbrother]]. She reports more fatigue since the summer and some weight gain, but no chest pain or polyuria. Her [[NEG|HbA1c]] today was 68 mmol/mol (59 in [[DATE|April]]), [[NEG|eGFR]] 52, [[NEG|TSH]] 6.8 mU/L with a [[NEG|free T4]] of 11.2 pmol/L, and [[NEG|LDL]] cholesterol 2.1 mmol/L. Blood pressure was 142/84."
+    },
+    {
+     "t": "p",
+     "text": "Plan: I have suggested adding [[NEG|empagliflozin]] 10 mg once daily and increasing her levothyroxine to 125 micrograms. Our diabetes specialist nurse, [[PER|Grant Fielding]], will see her on [[DATE|25 November 2026]] to repeat the thyroid function tests."
+    }
+   ],
+   [
+    {
+     "t": "p",
+     "text": "[[OPT|Mrs]] [[PER|Ashcroft]] mentioned that her late sister, [[PER|Winifred Pengelly]], also had thyroid disease. Her retinal screening was last done on [[DATE|2 June 2026]] and showed background changes only; she remains under the care of [[OPT|Mr]] [[PER|Rhys ap Gwilym]] at [[ORG|Cheltenham Eye Centre]]. She has private cover with [[ORG|Cotswold Mutual Healthcare]], membership number [[ID|CMH-448170-02]], for the follow-up appointments."
+    },
+    {
+     "t": "h",
+     "text": "Next of kin"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Caroline Fairbrother]] (daughter)\n[[ADDR|9 Hatherley Lane, Cheltenham GL51 6PN]]\nMobile: [[PHONE|07700 900652]]  |  Email: [[EMAIL|caroline.fairbrother@outlook.com]]"
+    },
+    {
+     "t": "p",
+     "text": "I will review her again in three months with repeat bloods. Please do not hesitate to contact my secretary if there is any deterioration in the meantime."
+    },
+    {
+     "t": "p",
+     "text": "Yours sincerely,"
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Dr]] [[PER|Helen\nAbernethy-Cole]]\nConsultant Endocrinologist\nSecretary: [[PER|Lucy de Vere]], [[PHONE|01242 580314]], [[EMAIL|secretary@lindenhouseclinic.co.uk]]"
+    },
+    {
+     "t": "lines",
+     "text": "cc: [[OPT|Mrs]] [[PER|Doreen Ashcroft]], patient\ncc: [[OPT|Mr]] [[PER|Rhys ap Gwilym]], Consultant Ophthalmologist"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "en05_promotion_letter",
+  "lang": "en",
+  "country": [
+   "US"
+  ],
+  "kind": "hr_letter",
+  "title": "Promotion and compensation letter",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Calloway Freight Systems, Inc.]]\nHuman Resources\n[[ADDR|2200 Prospect Street, Indianapolis, IN 46203]]\nMain line [[PHONE|(317) 555-0100]]"
+    },
+    {
+     "t": "p",
+     "text": "[[DATE|October 20, 2026]]"
+    },
+    {
+     "t": "lines",
+     "text": "[[NEG|PERSONAL AND CONFIDENTIAL]]\n[[OPT|Ms.]] [[PER|Joanna M. Klein]]\n[[ADDR|5718 Winthrop Avenue\nIndianapolis, IN 46220]]"
+    },
+    {
+     "t": "p",
+     "text": "Re: Promotion to [[NEG|Regional Operations Supervisor]]"
+    },
+    {
+     "t": "p",
+     "text": "Dear [[OPT|Ms.]] [[PER|Klein]],"
+    },
+    {
+     "t": "p",
+     "text": "We are pleased to confirm your promotion to Regional Operations Supervisor, effective [[DATE|November 2, 2026]]. You will report to [[PER|Mark Delaney]], Director of Midwest Operations, and will be based at our Plainfield cross-dock, [[ADDR|1150 Airtech Parkway, Plainfield, IN 46168]]. Your predecessor, [[PER|Rosa Villanueva]], will spend her last two weeks in the role working alongside you before she transfers to Columbus."
+    },
+    {
+     "t": "p",
+     "text": "Your annual base salary will increase from $68,400 to $79,250, paid bi-weekly. The position is classified as [[NEG|exempt]] under the [[NEG|Fair Labor Standards Act]], and you will be eligible for the [[NEG|Annual Performance Incentive Plan]] at a target of 8% of base salary. Your [[NEG|401(k)]] match, medical and dental coverage and [[NEG|PTO]] accrual of 20 days per year continue unchanged."
+    },
+    {
+     "t": "p",
+     "text": "Your employment with Calloway Freight remains [[NEG|at-will]], meaning either you or the Company may end it at any time, with or without cause or notice. Nothing in this letter alters the confidentiality and non-solicitation covenants you signed when you joined."
+    },
+    {
+     "t": "table",
+     "widths": [
+      1.3,
+      2.7
+     ],
+     "size": 9,
+     "rows": [
+      [
+       "Field",
+       "Detail"
+      ],
+      [
+       "Employee name",
+       "[[PER|KLEIN, Joanna Marie]]"
+      ],
+      [
+       "Employee ID",
+       "[[ID|CFS-20417]]"
+      ],
+      [
+       "Social Security No.",
+       "[[ID|418-62-7039]]"
+      ],
+      [
+       "Date of birth",
+       "[[DOB|August 19, 1988]]"
+      ],
+      [
+       "Original hire date",
+       "[[DATE|June 5, 2017]]"
+      ],
+      [
+       "Department / cost center",
+       "Linehaul Operations / 4120"
+      ],
+      [
+       "Pay grade",
+       "[[NEG|S-7]] (previously S-5)"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Please sign and return the acknowledgment below to [[PER|Bill Ostrowski]], HR Business Partner, by [[DATE|October 30, 2026]]. [[PER|Bill]] can be reached at [[PHONE|(317) 555-0164]] or [[EMAIL|b.ostrowski@callowayfreight.com]] if you have any questions about the change."
+    },
+    {
+     "t": "lines",
+     "text": "Sincerely,\n\n[[PER|Denise\nHarrington-Oyelaran]]\nVice President, Human Resources\nDirect: [[PHONE|+1 317-555-0102]]"
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|ACKNOWLEDGMENT AND ACCEPTANCE]]"
+    },
+    {
+     "t": "p",
+     "text": "I, [[PER|Joanna M. Klein]], accept the promotion described above on the terms set out in this letter. I understand that my employment remains at-will and that this letter is not a contract for any fixed term."
+    },
+    {
+     "t": "space",
+     "h": 16
+    },
+    {
+     "t": "cols",
+     "left": "Employee signature: ____________________\n\nDate: ______________",
+     "right": "Witnessed by: [[PER|Mark Delaney]]\n\nDate: ______________"
+    },
+    {
+     "t": "space",
+     "h": 16
+    },
+    {
+     "t": "lines",
+     "text": "cc: Personnel file\ncc: [[PER|Mark Delaney]], Director of Midwest Operations\ncc: Payroll, attn. [[PER|Tamika J. Brooks]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "en06_counsel_emails",
+  "lang": "en",
+  "country": [
+   "US"
+  ],
+  "kind": "legal_correspondence",
+  "title": "Counsel e-mail thread on deposition schedule",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "p",
+     "text": "[[NEG|PRIVILEGED AND CONFIDENTIAL]] - [[NEG|ATTORNEY WORK PRODUCT]]"
+    },
+    {
+     "t": "lines",
+     "text": "From: [[PER|Catherine Ashdown-Pryce]] <[[EMAIL|cashdownpryce@bramleyhoyt.com]]>\nSent: Monday, [[DATE|October 19, 2026]] 4:12 PM\nTo: [[PER|Victor Grande]] <[[EMAIL|vgrande@okeefegrande.com]]>\nCc: [[PER|J. T. Okafor]] <[[EMAIL|jtokafor@bramleyhoyt.com]]>; [[PER|Marisol de la Fuente]] <[[EMAIL|mdelafuente@okeefegrande.com]]>\nSubject: RE: [[ORG|Halvorsen Marine Supply LLC]] v. [[ORG|Dunmore Logistics Corp.]], No. [[REF|2:26-cv-01874-RSM]]"
+    },
+    {
+     "t": "p",
+     "text": "[[PER|Victor]],"
+    },
+    {
+     "t": "p",
+     "text": "Thank you for the call this morning. As discussed, we will make our client's [[NEG|Rule 30(b)(6)]] designee, [[PER|Erik Halvorsen]], available on [[DATE|November 12]] at our office, [[ADDR|1201 Third Avenue, Suite 2900, Seattle, WA 98101]]. We still need dates for the following Dunmore witnesses identified in your [[NEG|initial disclosures]]:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Gregory Pham]], former dispatch manager\n2. [[PER|Hope Lindqvist]], claims adjuster\n3. [[PER|Raymond T. Bishop]], vice president of operations"
+    },
+    {
+     "t": "p",
+     "text": "Please confirm that [[OPT|Ms.]] [[PER|Lindqvist]]'s home address ([[ADDR|4417 NE 55th Street, Seattle, WA 98105]]) is still current for service of the subpoena, and whether we may contact her directly at [[PHONE|(206) 555-0138]] if your firm no longer represents her. Under the [[NEG|stipulated protective order]] (Dkt. [[REF|42]]), the driver logs produced as [[NEG|Exhibit 14]] will be designated [[NEG|CONFIDENTIAL]]."
+    },
+    {
+     "t": "p",
+     "text": "We also note that Exhibit 14 shows the Washington driver license number of the Dunmore driver, [[PER|Luis Ochoa-Ramirez]] ([[ID|WDLX7T4K93B1]]), and his date of birth ([[DOB|02/11/1979]]). Please produce a redacted copy under [[NEG|Fed. R. Civ. P. 5.2]] before [[DATE|October 28]] so that we can file it with our motion in the [[OPT|U.S. District Court for the Western District of Washington]]."
+    },
+    {
+     "t": "p",
+     "text": "Best regards,"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Catherine\nAshdown-Pryce]]\nPartner | [[ORG|Bramley Hoyt LLP]]\n[[ADDR|1201 Third Avenue, Suite 2900\nSeattle, WA 98101]]\nDirect: [[PHONE|+1 206-555-0171]] | Mobile: [[PHONE|206.555.0119]]"
+    }
+   ],
+   [
+    {
+     "t": "lines",
+     "text": "-----Original Message-----\nFrom: [[PER|Victor Grande]] <[[EMAIL|vgrande@okeefegrande.com]]>\nSent: Friday, [[DATE|October 16, 2026]] 9:47 AM\nTo: [[PER|Catherine Ashdown-Pryce]] <[[EMAIL|cashdownpryce@bramleyhoyt.com]]>\nCc: [[PER|Marisol de la Fuente]] <[[EMAIL|mdelafuente@okeefegrande.com]]>\nSubject: [[ORG|Halvorsen]] v. [[ORG|Dunmore]] - depositions and mediation"
+    },
+    {
+     "t": "p",
+     "text": "[[PER|Catherine]],"
+    },
+    {
+     "t": "p",
+     "text": "Our client's general counsel, [[PER|Pamela Whitcombe]], has asked whether [[ORG|Halvorsen Marine Supply]] would agree to [[NEG|mediation]] before the [[DATE|January 15, 2027]] deadline in the scheduling order. She suggested [[OPT|Hon.]] [[PER|Margaret A. Lusk]] (Ret.) of [[OPT|JAMS]], who has handled two cargo damage matters for the Port of Tacoma."
+    },
+    {
+     "t": "p",
+     "text": "On the [[NEG|interrogatories]], we will supplement our answer to [[NEG|Interrogatory No. 7]] by the end of the month and produce the purchase orders for the [[NEG|marine fenders]] that were damaged in transit. [[OPT|Mr.]] [[PER|Pham]] left Dunmore in [[DATE|March 2026]]; we do not represent him, and his last known address is [[ADDR|2306 S Jackson Street, Seattle, WA 98144]]."
+    },
+    {
+     "t": "p",
+     "text": "Regards,"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Victor Grande]]\n[[ORG|O'Keefe Grande PLLC]]\n[[ADDR|600 University Street, Suite 1720\nSeattle, WA 98101]]\nT [[PHONE|206-555-0186]] | F [[PHONE|206-555-0187]]"
+    }
+   ]
+  ]
+ }
+]

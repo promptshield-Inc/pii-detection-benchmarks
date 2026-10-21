@@ -1,0 +1,939 @@
+[
+ {
+  "id": "pl01_umowa_najmu",
+  "lang": "pl",
+  "country": [
+   "PL"
+  ],
+  "kind": "contract",
+  "title": "Umowa najmu lokalu użytkowego",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|UMOWA NAJMU LOKALU UŻYTKOWEGO]] nr [[REF|14/NL/2026]]"
+    },
+    {
+     "t": "p",
+     "text": "zawarta w dniu [[DATE|3 sierpnia 2026 r.]] w [[OPT|Krakowie]] pomiędzy:"
+    },
+    {
+     "t": "p",
+     "text": "[[OPT|Panią]] [[PER|KATARZYNĄ ZAJĄC]], zamieszkałą pod adresem [[ADDR|ul. Józefińska 27/4, 30-529 Kraków]], legitymującą się dowodem osobistym serii i numeru [[ID|CKR348217]], PESEL [[ID|79041703643]], zwaną dalej [[NEG|Wynajmującą]],"
+    },
+    {
+     "t": "p",
+     "text": "a"
+    },
+    {
+     "t": "p",
+     "text": "[[ORG|BURSZTYNOWA PRACOWNIA SMAKÓW spółka z ograniczoną odpowiedzialnością]] z siedzibą w [[OPT|Krakowie]], [[ADDR|ul. Starowiślna 58, 31-035 Kraków]], wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez [[OPT|Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie]], XI Wydział Gospodarczy KRS, pod numerem KRS [[ID|0000718254]], NIP [[ID|6762489132]], REGON [[ID|362184577]], kapitał zakładowy [[NEG|50 000,00 zł]], reprezentowaną przez Prezesa Zarządu [[PER|MARIUSZA DĄBKA-LEWANDOWSKIEGO]], zwaną dalej [[NEG|Najemcą]]."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|§ 1]]. [[NEG|PRZEDMIOT NAJMU]]"
+    },
+    {
+     "t": "p",
+     "text": "1. Wynajmująca oświadcza, że jest wyłączną właścicielką lokalu użytkowego nr U2 o powierzchni 86,40 m², położonego na parterze budynku przy [[ADDR|ul. Krakowskiej 41, 31-062 Kraków]], dla którego [[OPT|Sąd Rejonowy dla Krakowa-Podgórza w Krakowie]] prowadzi księgę wieczystą nr [[REF|KR1P/00248317/6]]."
+    },
+    {
+     "t": "p",
+     "text": "2. Lokal będzie wykorzystywany przez Najemcę wyłącznie na prowadzenie [[NEG|kawiarni]] z wypiekiem ciast na miejscu. Zmiana przeznaczenia lokalu wymaga uprzedniej pisemnej zgody Wynajmującej."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|§ 2]]. [[NEG|CZYNSZ I KAUCJA]]"
+    },
+    {
+     "t": "p",
+     "text": "1. Czynsz najmu wynosi [[NEG|7 800,00 zł]] netto miesięcznie, powiększony o podatek VAT według obowiązującej stawki. 2. Czynsz płatny jest z góry, do 10. dnia każdego miesiąca, na rachunek Wynajmującej nr [[IBAN|PL47 1020 2919 0000 9202 0314 8765]] prowadzony przez [[OPT|PKO Bank Polski S.A.]] (BIC [[OPT|BPKOPLPW]]). 3. Najemca wpłaci [[NEG|kaucję zabezpieczającą]] w wysokości trzykrotności miesięcznego czynszu brutto w terminie do dnia [[DATE|14 sierpnia 2026 r.]]"
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|§ 3]]. [[NEG|CZAS TRWANIA UMOWY]]"
+    },
+    {
+     "t": "p",
+     "text": "Umowa zostaje zawarta na czas oznaczony od [[DATE|1 września 2026 r.]] do [[DATE|31 sierpnia 2031 r.]] Każda ze stron może ją wypowiedzieć z zachowaniem sześciomiesięcznego okresu wypowiedzenia wyłącznie w przypadkach wskazanych w umowie oraz w [[NEG|art. 673 § 3]] Kodeksu cywilnego. Osobą do kontaktu po stronie Najemcy jest kierowniczka kawiarni, [[OPT|Pani]] [[PER|Oliwia Sowa]], tel. [[PHONE|+48 512 640 381]], e-mail [[EMAIL|o.sowa@bursztynowa-pracownia.pl]]."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|§ 4]]. [[NEG|POSTANOWIENIA KOŃCOWE]]"
+    },
+    {
+     "t": "p",
+     "text": "1. Wydanie lokalu nastąpi na podstawie [[NEG|protokołu zdawczo-odbiorczego]] sporządzonego najpóźniej w dniu rozpoczęcia najmu. Protokół podpisze w imieniu Najemcy [[OPT|pan]] [[PER|Mariusz Dąbek-Lewandowski]] albo upoważniony przez niego pracownik, a w imieniu Wynajmującej jej pełnomocnik, [[OPT|mec.]] [[PER|J. K. Wiśniewski]]."
+    },
+    {
+     "t": "p",
+     "text": "2. Wszelkie zmiany umowy wymagają formy pisemnej pod rygorem nieważności. 3. W sprawach nieuregulowanych niniejszą umową zastosowanie mają przepisy [[NEG|Kodeksu cywilnego]]. 4. Spory wynikłe z umowy rozstrzygać będzie sąd właściwy miejscowo dla położenia lokalu. 5. Umowę sporządzono w dwóch jednobrzmiących egzemplarzach, po jednym dla każdej ze stron."
+    },
+    {
+     "t": "p",
+     "text": "Przy podpisaniu umowy obecni byli następujący świadkowie:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Teodor Wróbel]], zam. [[ADDR|ul. Długa 12/3, 31-147 Kraków]]\n2. [[PER|Halina de Laveaux-Pietrzak]], zam. [[ADDR|os. Złotego Wieku 44/18, 31-616 Kraków]]\n3. [[PER|Bogusław Kos]], PESEL [[ID|75113002155]]"
+    },
+    {
+     "t": "p",
+     "text": "Załączniki: [[NEG|rzut lokalu]], odpis z KRS Najemcy, [[NEG|protokół zdawczo-odbiorczy]] (wzór)."
+    },
+    {
+     "t": "space",
+     "h": 16
+    },
+    {
+     "t": "cols",
+     "left": "[[NEG|WYNAJMUJĄCA]]\n..................................\n[[PER|Katarzyna\nZając]]",
+     "right": "[[NEG|NAJEMCA]]\nza [[ORG|Bursztynową Pracownię Smaków sp. z o.o.]]\n..................................\nPrezes Zarządu\n[[PER|Mariusz\nDąbek-Lewandowski]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pl02_faktura_vat",
+  "lang": "pl",
+  "country": [
+   "PL"
+  ],
+  "kind": "invoice",
+  "title": "Faktura VAT",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|GRAFIKA POMORSKA sp. z o.o.]]\n[[ADDR|ul. Kartuska 214A\n80-125 Gdańsk]]\ntel. [[PHONE|58 320 47 15]] | kom. [[PHONE|+48 601 772 904]]\n[[EMAIL|biuro@grafikapomorska.pl]]\nNIP: [[ID|584-271-03-60]] | REGON: [[ID|193047262]]\nOpiekun klienta: [[PER|Dawid Lis]], [[PHONE|698 204 517]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|FAKTURA VAT]] nr [[REF|FV/0917/10/2026]]"
+    },
+    {
+     "t": "lines",
+     "text": "Data wystawienia: [[DATE|15.10.2026]]\nData sprzedaży: [[DATE|14.10.2026]]\nMiejsce wystawienia: [[OPT|Gdańsk]]\nNr klienta: [[ID|K-20419]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "cols",
+     "left": "Nabywca:\n[[ORG|Hotel Pod Złotym Dębem]]\n[[PER|Wiesław Baran]]\n[[ADDR|ul. Grunwaldzka 63\n81-771 Sopot]]\nNIP: [[ID|9573021843]]",
+     "right": "Odbiorca:\n[[ORG|Hotel Pod Złotym Dębem]] – recepcja\nosoba kontaktowa: [[PER|Róża Kamińska]]\ntel. [[PHONE|(58) 551 20 87]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Lp.",
+       "Nazwa towaru / usługi",
+       "Ilość",
+       "J.m.",
+       "Cena netto",
+       "Wartość netto",
+       "VAT",
+       "Wartość brutto"
+      ],
+      [
+       "1",
+       "Projekt graficzny katalogu [[NEG|Kolekcja Zima 2026]]",
+       "1",
+       "usł.",
+       "3 200,00",
+       "3 200,00",
+       "23%",
+       "3 936,00"
+      ],
+      [
+       "2",
+       "Druk [[NEG|katalogu A4]], 24 str., kreda 150 g",
+       "500",
+       "szt.",
+       "9,80",
+       "4 900,00",
+       "23%",
+       "6 027,00"
+      ],
+      [
+       "3",
+       "[[NEG|Ulotki A5]] dwustronne 4+4",
+       "2000",
+       "szt.",
+       "0,46",
+       "920,00",
+       "23%",
+       "1 131,60"
+      ],
+      [
+       "4",
+       "[[NEG|Wizytówki]] imienne ([[PER|W. Baran]], [[PER|R. Kamińska]])",
+       "2",
+       "kpl.",
+       "85,00",
+       "170,00",
+       "23%",
+       "209,10"
+      ],
+      [
+       "5",
+       "[[NEG|Transport kurierski]]",
+       "1",
+       "usł.",
+       "150,00",
+       "150,00",
+       "23%",
+       "184,50"
+      ]
+     ],
+     "widths": [
+      0.7,
+      4.0,
+      0.8,
+      0.7,
+      1.1,
+      1.3,
+      0.7,
+      1.3
+     ],
+     "size": 8
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "Razem netto: [[NEG|9 340,00 zł]]\nPodatek VAT 23%: [[NEG|2 148,20 zł]]\nRazem brutto: [[NEG|11 488,20 zł]]\nSłownie: jedenaście tysięcy czterysta osiemdziesiąt osiem złotych 20/100"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Sposób płatności: przelew. Termin płatności: [[DATE|29.10.2026]] (14 dni). Numer rachunku: [[IBAN|PL53 1090 1014 4000 0712 1987 4530]], [[OPT|Santander Bank Polska S.A.]], SWIFT/BIC: [[OPT|WBKPPLPP]]. W tytule przelewu prosimy podać numer faktury. [[NEG|Mechanizm podzielonej płatności]]."
+    },
+    {
+     "t": "p",
+     "text": "Faktura dotyczy zamówienia nr [[REF|ZAM/2026/0388]] złożonego przez [[OPT|Panią]] [[PER|Różę Kamińską]] w dniu [[DATE|30.09.2026]]. Uwagi dotyczące jakości druku prosimy zgłaszać w ciągu 7 dni na adres [[EMAIL|reklamacje@grafikapomorska.pl]], podając numer zamówienia.",
+     "size": 9
+    },
+    {
+     "t": "space",
+     "h": 14
+    },
+    {
+     "t": "cols",
+     "left": "..................................\nWystawił(a): [[PER|Natalia Grzelak]]",
+     "right": "..................................\nOdebrał(a): podpis osoby upoważnionej"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pl03_wyciag_bankowy",
+  "lang": "pl",
+  "country": [
+   "PL"
+  ],
+  "kind": "bank_statement",
+  "title": "Wyciąg z rachunku",
+  "dense": false,
+  "formats": [
+   "xlsx"
+  ],
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[OPT|mBank S.A.]]\nWyciąg z rachunku nr [[REF|09/2026]]\nOkres: [[DATE|01.09.2026]] – [[DATE|30.09.2026]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "cols",
+     "left": "Posiadacz rachunku:\n[[PER|EWELINA GŁOWACKA-MRÓZ]]\n[[ADDR|ul. Głogowska 118 m. 7\n60-243 Poznań]]\nNr klienta: [[ID|48120937]]",
+     "right": "Rachunek: [[NEG|eKonto osobiste]]\nNr rachunku: [[ID|11 1140 2004 4000 3402 8193 7564]]\nIBAN: [[IBAN|PL11 1140 2004 4000 3402 8193 7564]]\nBIC: [[OPT|BREXPLPW]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "Saldo początkowe: [[NEG|6 214,37 PLN]]"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Data",
+       "Opis operacji",
+       "Referencja",
+       "Kwota PLN",
+       "Saldo PLN"
+      ],
+      [
+       "[[DATE|01.09.2026]]",
+       "[[NEG|Wynagrodzenie]] za 08/2026, nadawca: [[ORG|Hurtownia Farmaceutyczna Medivia sp. z o.o.]]",
+       "[[REF|TR2609014471]]",
+       "+7 450,00",
+       "13 664,37"
+      ],
+      [
+       "[[DATE|01.09.2026]]",
+       "Przelew wychodzący, odbiorca: [[PER|Zdzisław Wilk]], tytuł: czynsz wrzesień",
+       "[[REF|TR2609014502]]",
+       "-2 300,00",
+       "11 364,37"
+      ],
+      [
+       "[[DATE|02.09.2026]]",
+       "Płatność kartą [[OPT|Biedronka]] Poznań",
+       "[[REF|KR2609021183]]",
+       "-187,42",
+       "11 176,95"
+      ],
+      [
+       "[[DATE|03.09.2026]]",
+       "BLIK zakup internetowy [[OPT|Allegro]]",
+       "[[REF|BL2609037719]]",
+       "-96,99",
+       "11 079,96"
+      ],
+      [
+       "[[DATE|04.09.2026]]",
+       "Przelew przychodzący, nadawca: [[PER|Krzysztof Głowacki]], tytuł: zwrot za bilety",
+       "[[REF|TR2609040211]]",
+       "+180,00",
+       "11 259,96"
+      ],
+      [
+       "[[DATE|05.09.2026]]",
+       "Zlecenie stałe: [[ORG|Przedszkole Niepubliczne Słoneczna Polana]], opłata IX [[PER|Zuzanna Mróz]]",
+       "[[REF|ZS2609050004]]",
+       "-680,00",
+       "10 579,96"
+      ],
+      [
+       "[[DATE|06.09.2026]]",
+       "Płatność kartą [[OPT|Orlen]] stacja nr 4412",
+       "[[REF|KR2609061920]]",
+       "-246,18",
+       "10 333,78"
+      ],
+      [
+       "[[DATE|08.09.2026]]",
+       "Przelew na telefon BLIK, odbiorca: [[PER|Anna Sobczak-Lis]]",
+       "[[REF|BL2609083356]]",
+       "-120,00",
+       "10 213,78"
+      ],
+      [
+       "[[DATE|09.09.2026]]",
+       "Płatność kartą [[OPT|Rossmann]] Poznań",
+       "[[REF|KR2609094407]]",
+       "-64,90",
+       "10 148,88"
+      ],
+      [
+       "[[DATE|10.09.2026]]",
+       "Polecenie zapłaty [[OPT|Enea]] – [[NEG|energia elektryczna]]",
+       "[[REF|PZ2609100087]]",
+       "-212,44",
+       "9 936,44"
+      ],
+      [
+       "[[DATE|11.09.2026]]",
+       "Przelew przychodzący, nadawca: [[PER|Piotr Mróz]], tytuł: na wakacje dla [[PER|Zuzi]]",
+       "[[REF|TR2609113390]]",
+       "+500,00",
+       "10 436,44"
+      ],
+      [
+       "[[DATE|12.09.2026]]",
+       "Płatność kartą [[OPT|Żabka]]",
+       "[[REF|KR2609125561]]",
+       "-18,47",
+       "10 417,97"
+      ],
+      [
+       "[[DATE|12.09.2026]]",
+       "Wypłata z bankomatu [[OPT|Euronet]] Poznań",
+       "[[REF|AT2609120931]]",
+       "-200,00",
+       "10 217,97"
+      ],
+      [
+       "[[DATE|14.09.2026]]",
+       "Przelew wychodzący, odbiorca: [[ORG|Wspólnota Mieszkaniowa Jeżyce-Zachód]], zaliczka IX",
+       "[[REF|TR2609140715]]",
+       "-385,60",
+       "9 832,37"
+      ],
+      [
+       "[[DATE|15.09.2026]]",
+       "Płatność kartą [[OPT|Spotify]]",
+       "[[REF|KR2609152274]]",
+       "-23,99",
+       "9 808,38"
+      ],
+      [
+       "[[DATE|16.09.2026]]",
+       "Płatność kartą [[ORG|Apteka Pod Lipami s.c.]]",
+       "[[REF|KR2609163048]]",
+       "-47,30",
+       "9 761,08"
+      ],
+      [
+       "[[DATE|17.09.2026]]",
+       "Przelew przychodzący, nadawca: [[PER|Teresa Głowacka]], tytuł: prezent urodzinowy",
+       "[[REF|TR2609172286]]",
+       "+300,00",
+       "10 061,08"
+      ],
+      [
+       "[[DATE|18.09.2026]]",
+       "Płatność kartą [[OPT|Netflix]]",
+       "[[REF|KR2609180519]]",
+       "-60,00",
+       "10 001,08"
+      ]
+     ],
+     "widths": [
+      1.1,
+      4.6,
+      1.5,
+      1.0,
+      1.0
+     ],
+     "size": 7
+    }
+   ],
+   [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Data",
+       "Opis operacji",
+       "Referencja",
+       "Kwota PLN",
+       "Saldo PLN"
+      ],
+      [
+       "[[DATE|19.09.2026]]",
+       "BLIK zakup internetowy [[OPT|Zalando]]",
+       "[[REF|BL2609194430]]",
+       "-289,00",
+       "9 712,08"
+      ],
+      [
+       "[[DATE|20.09.2026]]",
+       "Przelew wychodzący, odbiorca: [[PER|Jakub Kaczmarczyk]], tytuł: [[NEG|korepetycje matematyka]]",
+       "[[REF|TR2609201167]]",
+       "-360,00",
+       "9 352,08"
+      ],
+      [
+       "[[DATE|22.09.2026]]",
+       "Płatność kartą [[OPT|Lidl]] Poznań",
+       "[[REF|KR2609227702]]",
+       "-153,62",
+       "9 198,46"
+      ],
+      [
+       "[[DATE|23.09.2026]]",
+       "Przelew wychodzący, odbiorca: [[ORG|TUW Przystań]], polisa nr [[ID|PZ-0047731958]]",
+       "[[REF|TR2609230388]]",
+       "-118,00",
+       "9 080,46"
+      ],
+      [
+       "[[DATE|24.09.2026]]",
+       "Przelew przychodzący, nadawca: [[OPT|Urząd Skarbowy Poznań-Jeżyce]], [[NEG|zwrot PIT]]",
+       "[[REF|TR2609241954]]",
+       "+1 284,00",
+       "10 364,46"
+      ],
+      [
+       "[[DATE|25.09.2026]]",
+       "Płatność kartą [[OPT|IKEA]] Poznań",
+       "[[REF|KR2609256613]]",
+       "-419,97",
+       "9 944,49"
+      ],
+      [
+       "[[DATE|26.09.2026]]",
+       "Przelew wychodzący, odbiorca: [[PER|Marianna Kos]], tytuł: opieka nad dzieckiem IX",
+       "[[REF|TR2609260842]]",
+       "-1 200,00",
+       "8 744,49"
+      ],
+      [
+       "[[DATE|27.09.2026]]",
+       "Płatność kartą [[OPT|Cinema City]] Poznań Plaza",
+       "[[REF|KR2609273395]]",
+       "-58,00",
+       "8 686,49"
+      ],
+      [
+       "[[DATE|28.09.2026]]",
+       "[[NEG|Opłata miesięczna za kartę debetową]]",
+       "[[REF|OP2609280001]]",
+       "-7,00",
+       "8 679,49"
+      ],
+      [
+       "[[DATE|29.09.2026]]",
+       "Przelew przychodzący, nadawca: [[PER|Łukasz Mróz]], tytuł: rata za samochód",
+       "[[REF|TR2609291477]]",
+       "+650,00",
+       "9 329,49"
+      ],
+      [
+       "[[DATE|29.09.2026]]",
+       "BLIK zakup [[OPT|PKP Intercity]]",
+       "[[REF|BL2609298120]]",
+       "-134,20",
+       "9 195,29"
+      ],
+      [
+       "[[DATE|30.09.2026]]",
+       "[[NEG|Kapitalizacja odsetek]]",
+       "[[REF|OD2609300001]]",
+       "+0,84",
+       "9 196,13"
+      ]
+     ],
+     "widths": [
+      1.1,
+      4.6,
+      1.5,
+      1.0,
+      1.0
+     ],
+     "size": 7
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "lines",
+     "text": "Suma uznań: [[NEG|10 364,84 PLN]]\nSuma obciążeń: [[NEG|7 383,08 PLN]]\nSaldo końcowe: [[NEG|9 196,13 PLN]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Prosimy o sprawdzenie zgodności salda. Reklamacje dotyczące operacji można zgłosić w ciągu 30 dni. Pani rachunek obsługuje doradca [[PER|Adriana Pietrzyk]], tel. [[PHONE|61 628 77 30]]. Środki zgromadzone na rachunku objęte są gwarancjami [[OPT|Bankowego Funduszu Gwarancyjnego]] do równowartości 100 000 euro.",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pl04_karta_informacyjna",
+  "lang": "pl",
+  "country": [
+   "PL"
+  ],
+  "kind": "medical",
+  "title": "Karta informacyjna leczenia szpitalnego",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Centrum Medyczne Kardio-Med sp. z o.o.]]\nOddział Kardiologii z Pododdziałem Intensywnego Nadzoru\n[[ADDR|ul. Rakowiecka 36\n02-532 Warszawa]]\ntel. [[PHONE|22 849 31 60]], faks [[PHONE|22 849 31 61]]\nREGON [[ID|146280934]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|KARTA INFORMACYJNA LECZENIA SZPITALNEGO]]"
+    },
+    {
+     "t": "lines",
+     "text": "Nr księgi głównej: [[ID|KG/2026/04817]]\nNr księgi oddziałowej: [[ID|KAR/1129/26]]"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Dane pacjenta",
+       ""
+      ],
+      [
+       "Nazwisko i imię",
+       "[[PER|BARAN STANISŁAW]]"
+      ],
+      [
+       "Data urodzenia",
+       "[[DOB|08.03.1952]]"
+      ],
+      [
+       "PESEL",
+       "[[ID|52030807494]]"
+      ],
+      [
+       "Adres",
+       "[[ADDR|ul. Wołoska 72 m. 14, 02-583 Warszawa]]"
+      ],
+      [
+       "Ubezpieczenie",
+       "[[OPT|NFZ]], [[OPT|Mazowiecki OW]]; polisa dodatkowa nr [[ID|MK-7720419-03]]"
+      ],
+      [
+       "Hospitalizacja",
+       "od [[DATE|02.10.2026]] do [[DATE|09.10.2026]]"
+      ]
+     ],
+     "widths": [
+      1.4,
+      4.0
+     ],
+     "size": 9
+    },
+    {
+     "t": "h",
+     "text": "Rozpoznanie"
+    },
+    {
+     "t": "p",
+     "text": "Rozpoznanie zasadnicze: [[NEG|zawał mięśnia sercowego bez uniesienia odcinka ST]] ([[NEG|NSTEMI]], [[NEG|I21.4]]). Rozpoznania współistniejące: [[NEG|cukrzyca typu 2]] (E11), [[NEG|nadciśnienie tętnicze]] (I10), [[NEG|hipercholesterolemia]]."
+    },
+    {
+     "t": "h",
+     "text": "Epikryza"
+    },
+    {
+     "t": "p",
+     "text": "Pacjent lat 74, przyjęty w trybie pilnym z powodu narastającego bólu w klatce piersiowej. W badaniach laboratoryjnych podwyższone stężenie [[NEG|troponiny T hs]] (412 ng/l), [[NEG|LDL]] 3,9 mmol/l, [[NEG|HbA1c]] 7,8%, [[NEG|eGFR]] 64 ml/min/1,73 m². W [[NEG|koronarografii]] wykonanej przez [[OPT|dr. n. med.]] [[PER|Krzysztofa Lacha]] stwierdzono krytyczne zwężenie gałęzi okalającej; wykonano [[NEG|PCI]] z implantacją stentu uwalniającego lek. [[NEG|Echokardiografia]]: EF 48%, hipokineza ściany bocznej. Pacjent konsultowany diabetologicznie przez [[OPT|lek.]] [[PER|Martę Zielińską-Kot]]. Przebieg pozabiegowy bez powikłań. [[OPT|Pan]] [[PER|Stanisław Baran]] zostaje wypisany do domu w stanie ogólnym dobrym; [[OPT|Panu]] [[PER|Baranowi]] przekazano zalecenia ustnie i na piśmie."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "Zalecane leczenie"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Lek",
+       "Dawka",
+       "Dawkowanie",
+       "Uwagi"
+      ],
+      [
+       "[[NEG|Tikagrelor]]",
+       "90 mg",
+       "1-0-1",
+       "przez 12 miesięcy"
+      ],
+      [
+       "[[NEG|Kwas acetylosalicylowy]]",
+       "75 mg",
+       "0-1-0",
+       "na stałe"
+      ],
+      [
+       "[[NEG|Atorwastatyna]]",
+       "80 mg",
+       "0-0-1",
+       "kontrola lipidogramu"
+      ],
+      [
+       "[[NEG|Bisoprolol]]",
+       "2,5 mg",
+       "1-0-0",
+       ""
+      ],
+      [
+       "[[NEG|Metformina]]",
+       "1000 mg",
+       "1-0-1",
+       "po posiłku"
+      ],
+      [
+       "[[NEG|Pantoprazol]]",
+       "20 mg",
+       "1-0-0",
+       "osłonowo"
+      ]
+     ],
+     "widths": [
+      2.2,
+      1.0,
+      1.2,
+      2.0
+     ],
+     "size": 9
+    },
+    {
+     "t": "h",
+     "text": "Zalecenia"
+    },
+    {
+     "t": "p",
+     "text": "Kontrola w Poradni Kardiologicznej za 4 tygodnie, termin: [[DATE|06.11.2026]], godz. 10:30. [[NEG|Rehabilitacja kardiologiczna]] II etapu w trybie ambulatoryjnym. Unikać wysiłku na mrozie i dźwigania ciężarów powyżej 5 kg. Oznaczyć [[NEG|lipidogram]] po 6–8 tygodniach. Zwolnienie lekarskie nie dotyczy (emeryt)."
+    },
+    {
+     "t": "p",
+     "text": "Osoby upoważnione do uzyskiwania informacji o stanie zdrowia: córka [[PER|Monika Baran-Wiśniewska]], tel. [[PHONE|+48 604 118 239]]; syn [[PER|Paweł Baran]], tel. [[PHONE|600 312 945]]."
+    },
+    {
+     "t": "space",
+     "h": 20
+    },
+    {
+     "t": "cols",
+     "left": "Lekarz prowadzący\n[[OPT|lek. med.]] [[PER|Agnieszka\nPawłowska-Nyk]]\nNPWZ [[ID|4417286]]",
+     "right": "Kierownik Oddziału\n[[OPT|dr hab. n. med.]] [[PER|Jerzy Ostoja-Kalinowski]]\nNPWZ [[ID|2093514]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pl05_zaswiadczenie_zatrudnienie",
+  "lang": "pl",
+  "country": [
+   "PL"
+  ],
+  "kind": "hr",
+  "title": "Zaświadczenie o zatrudnieniu i wynagrodzeniu",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|TERMO-INSTAL WIELKOPOLSKA S.A.]]\n[[ADDR|ul. Bukowska 285\n60-189 Poznań]]\nKRS [[ID|0000594172]] | NIP [[ID|779-264-01-89]] | REGON [[ID|301475820]]\ntel. [[PHONE|61 867 42 00]] | [[EMAIL|kadry@termoinstal-wlkp.pl]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Poznań]], [[DATE|12 października 2026 r.]]\nZnak: [[REF|KP/ZAS/0412/2026]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|ZAŚWIADCZENIE O ZATRUDNIENIU I WYSOKOŚCI WYNAGRODZENIA]]"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Dane pracownika",
+       ""
+      ],
+      [
+       "Nazwisko i imię",
+       "[[PER|ZIMA Robert]]"
+      ],
+      [
+       "Data urodzenia",
+       "[[DOB|15.07.1991]]"
+      ],
+      [
+       "PESEL",
+       "[[ID|91071511232]]"
+      ],
+      [
+       "Seria i nr dowodu osobistego",
+       "[[ID|DBW430962]]"
+      ],
+      [
+       "Nr ewidencyjny pracownika",
+       "[[ID|P-04417]]"
+      ],
+      [
+       "Adres zamieszkania",
+       "[[ADDR|ul. Szamotulska 19/2, 62-081 Przeźmierowo]]"
+      ]
+     ],
+     "widths": [
+      2.0,
+      3.6
+     ],
+     "size": 9
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "p",
+     "text": "Niniejszym zaświadcza się, że [[OPT|Pan]] [[PER|Robert Zima]] jest zatrudniony w [[ORG|Termo-Instal Wielkopolska S.A.]] od dnia [[DATE|1 marca 2019 r.]] na podstawie [[NEG|umowy o pracę na czas nieokreślony]], w pełnym wymiarze czasu pracy, na stanowisku [[NEG|serwisanta instalacji grzewczych]] w Dziale Serwisu."
+    },
+    {
+     "t": "p",
+     "text": "Przeciętne miesięczne wynagrodzenie brutto z ostatnich trzech miesięcy wynosi [[NEG|8 940,00 zł]] (słownie: osiem tysięcy dziewięćset czterdzieści złotych), netto 6 512,37 zł. Ostatnia zmiana wynagrodzenia obowiązuje od [[DATE|1 kwietnia 2026 r.]] Wynagrodzenie nie jest obciążone [[NEG|zajęciem komorniczym]] ani innymi potrąceniami poza ustawowymi. Pracownik nie znajduje się w okresie wypowiedzenia umowy o pracę."
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Zima]] to dla Działu Serwisu okres szczytowy, dlatego bezpośrednia przełożona pracownika, kierownik działu [[OPT|Pani]] [[PER|Magdalena Wróblewska]], potwierdza, że w sezonie grzewczym 2026/2027 nie przewiduje się zmian w warunkach zatrudnienia [[OPT|Pana]] [[PER|Zimy]]. Zmiany te zatwierdził Członek Zarządu [[PER|Andrzej Kwiecień]]."
+    },
+    {
+     "t": "p",
+     "text": "Zaświadczenie wydaje się na prośbę pracownika w celu przedłożenia w [[OPT|Banku Millennium S.A.]] w związku z wnioskiem o [[NEG|kredyt hipoteczny]]. Pracodawca nie znajduje się w stanie likwidacji ani upadłości. Dodatkowych informacji udziela Dział Kadr i Płac: [[PER|Sylwia Nowicka-Hajduk]], tel. [[PHONE|61 867 42 15]] lub [[PHONE|+48 693 550 218]], e-mail [[EMAIL|s.nowicka-hajduk@termoinstal-wlkp.pl]]."
+    },
+    {
+     "t": "p",
+     "text": "Podstawa prawna: [[NEG|art. 94 pkt 9b]] [[NEG|Kodeksu pracy]].",
+     "size": 9
+    },
+    {
+     "t": "space",
+     "h": 16
+    },
+    {
+     "t": "cols",
+     "left": "Sporządziła:\n[[PER|Sylwia\nNowicka-Hajduk]]\nspecjalista ds. kadr",
+     "right": "Dyrektor Personalny\n[[PER|M. T. Ostrowska]]\n(podpis i pieczęć)"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "pl06_wezwanie_korespondencja",
+  "lang": "pl",
+  "country": [
+   "PL"
+  ],
+  "kind": "legal",
+  "title": "Przedsądowe wezwanie do zapłaty i korespondencja pełnomocników",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|KANCELARIA RADCÓW PRAWNYCH SZCZEPANIAK I WSPÓLNICY sp.k.]]\n[[ADDR|al. Jana Pawła II 25\n00-854 Warszawa]]\ntel. [[PHONE|+48 22 696 18 40]] | [[EMAIL|kancelaria@szczepaniak-legal.pl]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Warszawa]], [[DATE|5 października 2026 r.]]\nNasz znak: [[REF|SZW/GOS/417/2026]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "[[ORG|AGRO-TRANS PODKARPACIE sp. z o.o.]]\n[[ADDR|ul. Hetmańska 120\n35-078 Rzeszów]]\nNIP [[ID|8134572902]]\ndo rąk: [[OPT|Pan]] [[PER|Waldemar Kruk]], Prezes Zarządu\ne-mail: [[EMAIL|zarzad@agrotrans-podkarpacie.pl]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|PRZEDSĄDOWE WEZWANIE DO ZAPŁATY]]"
+    },
+    {
+     "t": "p",
+     "text": "Działając w imieniu i na rzecz [[ORG|Mleczarni Złota Łąka spółki z ograniczoną odpowiedzialnością]] z siedzibą w [[OPT|Warszawie]] (KRS [[ID|0000481936]], NIP [[ID|5253194729]]), na podstawie pełnomocnictwa z dnia [[DATE|29 września 2026 r.]], którego kopię załączam, wzywam Państwa do zapłaty kwoty [[NEG|184 650,00 zł]] tytułem nieuregulowanych należności wynikających z faktur VAT nr [[REF|ZL/2026/06/118]], [[REF|ZL/2026/07/093]] oraz [[REF|ZL/2026/07/141]], wraz z [[NEG|odsetkami ustawowymi za opóźnienie w transakcjach handlowych]] liczonymi od dnia następującego po terminie płatności każdej z faktur."
+    },
+    {
+     "t": "p",
+     "text": "Należność proszę uiścić w terminie 7 dni od doręczenia niniejszego pisma na rachunek bankowy Mojej Mocodawczyni nr [[IBAN|PL89 1240 1024 8111 0010 9347 2618]]. Jednocześnie informuję, że zgodnie z [[NEG|art. 10 ust. 1]] ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych [[NEG|Wierzycielowi]] przysługuje [[NEG|rekompensata za koszty odzyskiwania należności]]."
+    },
+    {
+     "t": "p",
+     "text": "Należności dotyczą dostaw nabiału odbieranych przez kierowcę Państwa spółki, [[OPT|Pana]] [[PER|Dariusza Piątka]], co potwierdzają podpisane przez niego dokumenty WZ. Rozmowy prowadzone w sierpniu z [[OPT|Panem]] [[PER|Krukiem]] nie doprowadziły do zawarcia ugody. W przypadku bezskutecznego upływu terminu sprawa zostanie skierowana na drogę sądową bez dalszego wezwania, co narazi Państwa na dodatkowe koszty."
+    },
+    {
+     "t": "space",
+     "h": 12
+    },
+    {
+     "t": "cols",
+     "left": "Załączniki:\n1. pełnomocnictwo\n2. kopie faktur VAT",
+     "right": "Z poważaniem\n[[OPT|r.pr.]] [[PER|Joanna\nSzczepaniak-Mazur]]"
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "Korespondencja e-mail w sprawie [[REF|XVI GC 1284/26]]"
+    },
+    {
+     "t": "lines",
+     "text": "Od: [[PER|Joanna Szczepaniak-Mazur]] <[[EMAIL|j.szczepaniak@szczepaniak-legal.pl]]>\nDo: [[OPT|adw.]] [[PER|Rafał Wójcik]] <[[EMAIL|r.wojcik@wojcik-adwokaci.pl]]>\nDW: [[PER|Pieter van Hoorn]] <[[EMAIL|p.vanhoorn@zlotalaka.pl]]>; [[PER|Ilona Sęk]] <[[EMAIL|i.sek@zlotalaka.pl]]>\nData: [[DATE|19 października 2026]], 14:22\nTemat: [[ORG|Złota Łąka]] / [[ORG|Agro-Trans]] – sygn. akt [[REF|XVI GC 1284/26]]"
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "p",
+     "text": "Szanowny Panie Mecenasie, w nawiązaniu do naszej rozmowy telefonicznej przesyłam odpis [[NEG|pozwu]] złożonego do [[OPT|Sądu Okręgowego w Warszawie]], XVI Wydział Gospodarczy. W piśmie wnieśliśmy o przesłuchanie następujących świadków:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Dariusz Piątek]] – kierowca pozwanej, [[ADDR|ul. Krakowska 7, 36-060 Głogów Małopolski]]\n2. [[PER|Ilona Sęk]] – kierownik sprzedaży powódki\n3. [[PER|SIKORA Grażyna]] – główna księgowa powódki, [[ADDR|ul. Puławska 301/12, 02-819 Warszawa]]"
+    },
+    {
+     "t": "p",
+     "text": "Moja Klientka pozostaje otwarta na [[NEG|mediację]], pod warunkiem zapłaty co najmniej połowy [[NEG|należności głównej]] do końca miesiąca. Uprzejmie proszę o stanowisko do [[DATE|26 października 2026 r.]]"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Joanna Szczepaniak-Mazur]]\nradca prawny\ntel. [[PHONE|+48 22 696 18 47]], kom. [[PHONE|+48 505 230 914]]"
+    },
+    {
+     "t": "space",
+     "h": 10
+    },
+    {
+     "t": "lines",
+     "text": "Od: [[PER|Rafał Wójcik]] <[[EMAIL|r.wojcik@wojcik-adwokaci.pl]]>\nDo: [[PER|Joanna Szczepaniak-Mazur]] <[[EMAIL|j.szczepaniak@szczepaniak-legal.pl]]>\nData: [[DATE|20 października 2026]], 09:05\nTemat: RE: [[ORG|Złota Łąka]] / [[ORG|Agro-Trans]] – sygn. akt [[REF|XVI GC 1284/26]]"
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "p",
+     "text": "Pani Mecenas, potwierdzam odbiór. Reprezentuję [[ORG|Agro-Trans Podkarpacie sp. z o.o.]] w tej sprawie. Moja Klientka kwestionuje część lipcowych dostaw: partia [[NEG|jogurtów naturalnych]] miała przekroczony termin przydatności, co [[OPT|pan]] [[PER|Piątek]] zgłosił telefonicznie jeszcze w dniu odbioru. Zarząd w osobie [[OPT|Pana]] [[PER|Waldemara Kruka]] rozważy mediację; proponuję spotkanie w mojej kancelarii w dniu [[DATE|28 października 2026 r.]] o godz. 11:00. Pełnomocnictwo i odpis z KRS prześlę odrębnie."
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|adw.]] [[PER|Rafał Wójcik]]\n[[ORG|Wójcik Adwokaci sp.p.]]\n[[ADDR|ul. 3 Maja 18/5, 35-030 Rzeszów]]\ntel. [[PHONE|17 853 26 64]]"
+    }
+   ]
+  ]
+ }
+]

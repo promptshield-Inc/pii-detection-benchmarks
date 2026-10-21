@@ -1,4 +1,6 @@
-presidio-analyzer>=2.2.362
-presidio-anonymizer>=2.2.362
-pypdfium2>=4.30.0
-spacy>=3.8.0
+# Presidio side (presidio_run.py). score.py needs only the Python standard library.
+presidio-analyzer==2.2.364
+# spaCy models, installed with `python -m spacy download <name>`:
+#   large: en_core_web_lg fr_core_news_lg de_core_news_lg es_core_news_lg
+#          it_core_news_lg nl_core_news_lg pt_core_news_lg pl_core_news_lg
+#   small: the same names with _sm

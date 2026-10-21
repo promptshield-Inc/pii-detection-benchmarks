@@ -1,0 +1,947 @@
+[
+ {
+  "id": "es01_contrato_arrendamiento",
+  "lang": "es",
+  "country": [
+   "ES"
+  ],
+  "kind": "contract",
+  "title": "Contrato de arrendamiento de local de negocio",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|CONTRATO DE ARRENDAMIENTO PARA USO DISTINTO DEL DE VIVIENDA]]"
+    },
+    {
+     "t": "p",
+     "text": "En [[OPT|Valencia]], a [[DATE|14 de septiembre de 2026]]."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|REUNIDOS]]"
+    },
+    {
+     "t": "p",
+     "text": "De una parte, [[OPT|D.]] [[PER|ANSELMO VIDAL ESTRUCH]], mayor de edad, de estado civil casado, nacido el [[DOB|3 de marzo de 1961]], con DNI n.º [[ID|22561438W]] y domicilio a efectos de notificaciones en [[ADDR|calle de Cirilo Amorós, 47, puerta 6, 46004 Valencia]], en adelante, el [[NEG|ARRENDADOR]]."
+    },
+    {
+     "t": "p",
+     "text": "De otra parte, la mercantil [[ORG|TALLERES GRÁFICOS LLORENTE Y MIRALLES, S.L.]], con CIF [[ID|B98234511]], inscrita en el [[OPT|Registro Mercantil de Valencia]] al [[REF|Tomo 9.871, Folio 112]], Hoja [[ID|V-158432]], con domicilio social en [[ADDR|avenida del Puerto, 212, bajo, 46023 Valencia]], representada en este acto por [[OPT|Dña.]] [[PER|MARÍA DEL PILAR CORDERO SANCHIS]], con DNI n.º [[ID|29184076C]], en su condición de administradora única según escritura autorizada por el notario de Valencia [[OPT|D.]] [[PER|Francisco Javier Segarra Ortells]] el [[DATE|11 de mayo de 2018]], número [[REF|1.402]] de su protocolo; en adelante, la [[NEG|ARRENDATARIA]]."
+    },
+    {
+     "t": "p",
+     "text": "Y de otra, en calidad de [[NEG|fiador solidario]], [[OPT|D.]] [[PER|RUBÉN MIRALLES BLANCO]], con DNI n.º [[ID|73015922F]], vecino de [[ADDR|calle de Sueca, 9, 46006 Valencia]]."
+    },
+    {
+     "t": "p",
+     "text": "Las partes se reconocen mutuamente la capacidad legal necesaria para otorgar el presente contrato y, a tal efecto,"
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|EXPONEN]]"
+    },
+    {
+     "t": "p",
+     "text": "I. Que el ARRENDADOR es propietario en pleno dominio del local comercial situado en [[ADDR|calle de la Reina, 18, 46011 Valencia]], de 186 metros cuadrados, inscrito en el [[OPT|Registro de la Propiedad n.º 3 de Valencia]], finca registral [[REF|27.415]]."
+    },
+    {
+     "t": "p",
+     "text": "II. Que la ARRENDATARIA está interesada en arrendar dicho local para destinarlo a la actividad de [[NEG|imprenta]] y [[NEG|copistería]], y ambas partes convienen en formalizar el arrendamiento con arreglo a las siguientes"
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|CLÁUSULAS]]"
+    },
+    {
+     "t": "p",
+     "text": "PRIMERA. Objeto. El ARRENDADOR cede en arrendamiento a la ARRENDATARIA el local descrito en el expositivo I, que esta acepta en el estado en que se encuentra. El contrato se rige por lo pactado y, en lo no previsto, por el Título III de la [[NEG|Ley de Arrendamientos Urbanos]]."
+    },
+    {
+     "t": "p",
+     "text": "SEGUNDA. Duración. El arrendamiento tendrá una duración de cinco años a contar desde el [[DATE|1 de octubre de 2026]], prorrogable por periodos anuales salvo denuncia con un preaviso de cuatro meses."
+    }
+   ],
+   [
+    {
+     "t": "p",
+     "text": "TERCERA. Renta. La renta mensual se fija en [[NEG|2.350,00 euros]] más el IVA correspondiente, pagadera dentro de los siete primeros días de cada mes mediante transferencia a la cuenta de [[OPT|CaixaBank]] con IBAN [[IBAN|ES28 2100 2374 1102 0018 4573]], de la que es titular el ARRENDADOR. La renta se actualizará anualmente conforme al [[NEG|Índice de Garantía de Competitividad]]."
+    },
+    {
+     "t": "p",
+     "text": "CUARTA. Fianza y garantías. A la firma, la ARRENDATARIA entrega [[NEG|dos mensualidades]] en concepto de fianza legal, que el ARRENDADOR depositará en el organismo autonómico competente. El señor [[PER|Miralles Blanco]] responde solidariamente de todas las obligaciones de la ARRENDATARIA, con renuncia expresa a los beneficios de excusión, orden y división."
+    },
+    {
+     "t": "p",
+     "text": "QUINTA. Obras. La ARRENDATARIA podrá realizar las obras de adecuación descritas en el informe técnico que el arquitecto [[PER|Joaquín Ferrer-Albiñana]] emitió el [[DATE|2 de septiembre de 2026]], que se une como anexo. Cualquier otra obra que afecte a la estructura o a la fachada requerirá el consentimiento previo y por escrito del ARRENDADOR. La pared que da al patio deberá conservarse pintada en color [[NEG|blanco]], conforme a los estatutos de la comunidad."
+    },
+    {
+     "t": "p",
+     "text": "SEXTA. Notificaciones. Las comunicaciones entre las partes se dirigirán: al ARRENDADOR, a [[EMAIL|anselmo.vidal.estruch@gmail.com]] o al teléfono [[PHONE|+34 963 51 27 84]]; a la ARRENDATARIA, a [[EMAIL|administracion@graficasllorente.es]] o al teléfono [[PHONE|961 33 49 08]], a la atención de la señora [[PER|Cordero]]."
+    },
+    {
+     "t": "p",
+     "text": "SÉPTIMA. Jurisdicción. Para cuantas cuestiones se deriven del presente contrato, las partes se someten a los [[OPT|Juzgados y Tribunales de Valencia]], con renuncia a cualquier otro fuero."
+    },
+    {
+     "t": "p",
+     "text": "Y en prueba de conformidad, firman el presente documento por triplicado y a un solo efecto en el lugar y fecha indicados en el encabezamiento, en presencia de los testigos que se relacionan."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|TESTIGOS]]"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Inmaculada Rosa Pastor]], DNI [[ID|20448137X]]\n2. [[PER|Vicent Garrigues i Domènech]], DNI [[ID|19872605F]]"
+    },
+    {
+     "t": "space",
+     "h": 14
+    },
+    {
+     "t": "cols",
+     "left": "EL [[NEG|ARRENDADOR]]\n\n\nFdo.: [[PER|Anselmo Vidal\nEstruch]]",
+     "right": "LA [[NEG|ARRENDATARIA]]\n[[ORG|Talleres Gráficos Llorente\ny Miralles, S.L.]]\n\nFdo.: [[PER|M.ª Pilar Cordero]]\nAdministradora única"
+    },
+    {
+     "t": "space",
+     "h": 10
+    },
+    {
+     "t": "lines",
+     "text": "EL FIADOR\n\nFdo.: [[PER|R. Miralles Blanco]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "es02_factura_climatizacion",
+  "lang": "es",
+  "country": [
+   "ES"
+  ],
+  "kind": "invoice",
+  "title": "Factura de instalación de climatización",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Climatizaciones Berrocal Hermanos, S.L.]]\n[[ADDR|Polígono Industrial La Isla, calle Río Viejo, 34\n41703 Dos Hermanas (Sevilla)]]\nTel. [[PHONE|954 72 18 63]] · Fax [[PHONE|954 72 18 64]]\n[[EMAIL|facturacion@berrocalclima.es]] · CIF [[ID|B41587239]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|FACTURA]]"
+    },
+    {
+     "t": "table",
+     "widths": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "size": 9,
+     "rows": [
+      [
+       "N.º de factura",
+       "Fecha de emisión",
+       "Vencimiento",
+       "N.º de cliente"
+      ],
+      [
+       "[[REF|FV-2026/01187]]",
+       "[[DATE|09/10/2026]]",
+       "[[DATE|08/11/2026]]",
+       "[[ID|CL-004512]]"
+      ]
+     ]
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "lines",
+     "text": "Facturar a:\n[[ORG|Clínica Dental Sonrisa Prado, S.L.P.]]\nA la atención de: [[OPT|Dra.]] [[PER|Paloma Prado Lucena]]\n[[ADDR|avenida de la Buhaira, 9, local 2\n41018 Sevilla]]\nNIF [[ID|B90412875]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Trabajos de climatización realizados en la clínica por el técnico [[PER|Fernando Gil de la Torre]] y su ayudante [[PER|Manuel Jesús Rosado]] los días [[DATE|29]] y [[DATE|30 de septiembre de 2026]], según parte de trabajo [[REF|PT-88213]] firmado por la recepcionista, [[OPT|Sra.]] [[PER|Esperanza Mora]]."
+    },
+    {
+     "t": "table",
+     "widths": [
+      5,
+      1,
+      1.4,
+      1.4
+     ],
+     "size": 9,
+     "rows": [
+      [
+       "Concepto",
+       "Cant.",
+       "Precio unit.",
+       "Importe"
+      ],
+      [
+       "[[NEG|Equipo de aire acondicionado multisplit 3x1]] Daikin",
+       "1",
+       "2.940,00 €",
+       "2.940,00 €"
+      ],
+      [
+       "[[NEG|Bomba de condensados]] silenciosa",
+       "3",
+       "86,50 €",
+       "259,50 €"
+      ],
+      [
+       "Línea frigorífica aislada (m)",
+       "24",
+       "18,00 €",
+       "432,00 €"
+      ],
+      [
+       "[[NEG|Gas refrigerante R-32]] (kg)",
+       "2",
+       "45,00 €",
+       "90,00 €"
+      ],
+      [
+       "Mano de obra técnico oficial (h)",
+       "16",
+       "42,00 €",
+       "672,00 €"
+      ],
+      [
+       "Mano de obra ayudante (h)",
+       "16",
+       "28,00 €",
+       "448,00 €"
+      ],
+      [
+       "Desplazamiento y retirada de equipos antiguos",
+       "1",
+       "-",
+       "-"
+      ],
+      [
+       "Descuento comercial cliente habitual",
+       "1",
+       "-29,00 €",
+       "-29,00 €"
+      ]
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "table",
+     "widths": [
+      3,
+      1.4
+     ],
+     "size": 9,
+     "rows": [
+      [
+       "Resumen",
+       "Importe"
+      ],
+      [
+       "Base imponible",
+       "[[NEG|4.812,50 €]]"
+      ],
+      [
+       "IVA (21 %)",
+       "[[NEG|1.010,63 €]]"
+      ],
+      [
+       "TOTAL FACTURA",
+       "[[NEG|5.823,13 €]]"
+      ]
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Forma de pago: transferencia bancaria a la cuenta de [[OPT|Banco Santander]] con IBAN [[IBAN|ES69 0049 5112 1626 1034 8857]] y BIC [[OPT|BSCHESMMXXX]], indicando el número de factura. Vencimiento a 30 días de la fecha de emisión. Transcurrido dicho plazo se devengarán los intereses de demora previstos en la [[NEG|Ley 3/2004]]. Los equipos instalados disfrutan de una [[NEG|garantía]] de tres años."
+    },
+    {
+     "t": "p",
+     "size": 8,
+     "text": "Inscrita en el [[OPT|Registro Mercantil de Sevilla]], [[REF|Tomo 5.612, Folio 87]], Hoja [[ID|SE-96541]]. Responsable del tratamiento de sus datos: [[ORG|Climatizaciones Berrocal Hermanos, S.L.]]. Delegada de protección de datos: [[PER|Lorena Ábalos Cuesta]], [[EMAIL|dpd@berrocalclima.es]]. Factura emitida por [[PER|Ana Belén Moreno]] (administración)."
+    }
+   ]
+  ]
+ },
+ {
+  "id": "es03_extracto_bancario",
+  "lang": "es",
+  "country": [
+   "ES"
+  ],
+  "kind": "bank_statement",
+  "title": "Extracto de cuenta corriente",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[OPT|Banco Sabadell]] · Oficina 0457 Zaragoza-Independencia\nEXTRACTO DE CUENTA CORRIENTE"
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "cols",
+     "left": "Titular: [[PER|ESTEBAN LEÓN ARRIBAS]]\n[[ADDR|calle Mayor, 61, 2.º izda.\n50001 Zaragoza]]\nNIF: [[ID|17229384S]]\nCotitular: [[PER|NURIA ESCARTÍN DE LOS RÍOS]]",
+     "right": "N.º de cuenta: [[ID|0081 0457 87 0001234569]]\nIBAN: [[IBAN|ES13 0081 0457 8700 0123 4569]]\nBIC: [[OPT|BSABESBBXXX]]\nPeriodo: [[DATE|01/09/2026]] - [[DATE|30/09/2026]]"
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "table",
+     "widths": [
+      1.1,
+      4.2,
+      1.8,
+      1,
+      1
+     ],
+     "size": 7,
+     "rows": [
+      [
+       "Fecha",
+       "Concepto",
+       "Referencia",
+       "Importe",
+       "Saldo"
+      ],
+      [
+       "[[DATE|01/09/2026]]",
+       "[[NEG|Nómina]] [[ORG|Industrias Cárnicas del Ebro, S.A.]]",
+       "[[REF|NOM0926-44817]]",
+       "2.418,36",
+       "3.902,11"
+      ],
+      [
+       "[[DATE|01/09/2026]]",
+       "Recibo [[ORG|Comunidad de Propietarios Mayor 61]]",
+       "[[REF|RCB-261190]]",
+       "-68,00",
+       "3.834,11"
+      ],
+      [
+       "[[DATE|02/09/2026]]",
+       "Transferencia a [[PER|Marina Escartín]] - ayuda estudios",
+       "[[REF|TRF2609021173]]",
+       "-250,00",
+       "3.584,11"
+      ],
+      [
+       "[[DATE|02/09/2026]]",
+       "Compra Mercadona Zaragoza",
+       "[[REF|TPV-0273315]]",
+       "-84,27",
+       "3.499,84"
+      ],
+      [
+       "[[DATE|03/09/2026]]",
+       "[[NEG|Bizum]] de [[PER|Pablo Rubio Garcés]]",
+       "[[REF|BZM-77104528]]",
+       "35,00",
+       "3.534,84"
+      ],
+      [
+       "[[DATE|04/09/2026]]",
+       "Recibo Endesa Energía",
+       "[[REF|RCB-264013]]",
+       "-91,45",
+       "3.443,39"
+      ],
+      [
+       "[[DATE|05/09/2026]]",
+       "Reintegro cajero",
+       "[[REF|ATM-5521]]",
+       "-100,00",
+       "3.343,39"
+      ],
+      [
+       "[[DATE|05/09/2026]]",
+       "Transferencia de [[PER|Ignacio Lahoz Bielsa]] - alquiler plaza garaje",
+       "[[REF|TRF2609055402]]",
+       "75,00",
+       "3.418,39"
+      ],
+      [
+       "[[DATE|07/09/2026]]",
+       "Recibo Movistar",
+       "[[REF|RCB-266871]]",
+       "-54,90",
+       "3.363,49"
+      ],
+      [
+       "[[DATE|08/09/2026]]",
+       "Compra Amazon EU",
+       "[[REF|TPV-0288150]]",
+       "-39,99",
+       "3.323,50"
+      ],
+      [
+       "[[DATE|09/09/2026]]",
+       "Cuota [[ORG|Colegio Santa Engracia, S. Coop.]]",
+       "[[REF|RCB-268224]]",
+       "-145,00",
+       "3.178,50"
+      ],
+      [
+       "[[DATE|10/09/2026]]",
+       "[[NEG|Bizum]] a [[PER|Carmen Blasco]] - cena",
+       "[[REF|BZM-77311960]]",
+       "-22,50",
+       "3.156,00"
+      ],
+      [
+       "[[DATE|11/09/2026]]",
+       "Recibo seguro hogar Mapfre",
+       "[[REF|RCB-270015]]",
+       "-31,20",
+       "3.124,80"
+      ],
+      [
+       "[[DATE|12/09/2026]]",
+       "Gasolinera Repsol",
+       "[[REF|TPV-0301447]]",
+       "-62,10",
+       "3.062,70"
+      ],
+      [
+       "[[DATE|14/09/2026]]",
+       "Transferencia a [[ORG|Fisioterapia Arrabal, S.L.]]",
+       "[[REF|TRF2609146630]]",
+       "-120,00",
+       "2.942,70"
+      ],
+      [
+       "[[DATE|15/09/2026]]",
+       "Compra El Corte Inglés",
+       "[[REF|TPV-0309982]]",
+       "-76,35",
+       "2.866,35"
+      ],
+      [
+       "[[DATE|15/09/2026]]",
+       "[[NEG|Comisión de mantenimiento]]",
+       "[[REF|COM-0926]]",
+       "-6,00",
+       "2.860,35"
+      ],
+      [
+       "[[DATE|16/09/2026]]",
+       "Transferencia de [[PER|NURIA ESCARTÍN DE LOS RÍOS]]",
+       "[[REF|TRF2609168812]]",
+       "600,00",
+       "3.460,35"
+      ],
+      [
+       "[[DATE|17/09/2026]]",
+       "Compra Decathlon",
+       "[[REF|TPV-0314276]]",
+       "-45,98",
+       "3.414,37"
+      ],
+      [
+       "[[DATE|18/09/2026]]",
+       "Recibo [[ORG|Gimnasio Delicias Fit, S.L.]]",
+       "[[REF|RCB-273309]]",
+       "-39,00",
+       "3.375,37"
+      ],
+      [
+       "[[DATE|19/09/2026]]",
+       "Reintegro cajero",
+       "[[REF|ATM-5588]]",
+       "-50,00",
+       "3.325,37"
+      ],
+      [
+       "[[DATE|21/09/2026]]",
+       "[[NEG|Bizum]] de [[PER|Álex Sancho]]",
+       "[[REF|BZM-77590214]]",
+       "18,00",
+       "3.343,37"
+      ],
+      [
+       "[[DATE|22/09/2026]]",
+       "Compra Mercadona Zaragoza",
+       "[[REF|TPV-0321045]]",
+       "-102,64",
+       "3.240,73"
+      ],
+      [
+       "[[DATE|23/09/2026]]",
+       "Transferencia a [[PER|Rosario Bielsa Lafuente]] - clases particulares",
+       "[[REF|TRF2609237718]]",
+       "-160,00",
+       "3.080,73"
+      ],
+      [
+       "[[DATE|24/09/2026]]",
+       "Recibo Aguas de Zaragoza",
+       "[[REF|RCB-276551]]",
+       "-28,74",
+       "3.051,99"
+      ],
+      [
+       "[[DATE|25/09/2026]]",
+       "Pago Renfe Viajeros",
+       "[[REF|TPV-0329930]]",
+       "-48,60",
+       "3.003,39"
+      ],
+      [
+       "[[DATE|26/09/2026]]",
+       "Recibo préstamo [[NEG|hipotecario]]",
+       "[[REF|PRE-0081-2219]]",
+       "-612,47",
+       "2.390,92"
+      ],
+      [
+       "[[DATE|28/09/2026]]",
+       "Transferencia de [[PER|José Mari Cebrián]] - devolución",
+       "[[REF|TRF2609289043]]",
+       "40,00",
+       "2.430,92"
+      ],
+      [
+       "[[DATE|29/09/2026]]",
+       "Compra farmacia Plaza España",
+       "[[REF|TPV-0336201]]",
+       "-17,85",
+       "2.413,07"
+      ],
+      [
+       "[[DATE|30/09/2026]]",
+       "[[NEG|Liquidación de intereses]]",
+       "[[REF|LIQ-0926]]",
+       "0,42",
+       "2.413,49"
+      ]
+     ]
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "p",
+     "size": 8,
+     "text": "Saldo anterior: 1.483,75 €. Saldo final: 2.413,49 €. La transferencia recibida el [[DATE|16/09/2026]] procede de la cuenta [[IBAN|ES86 2085 5212 4103 3041 2678]] de la cotitular. Su gestor personal, [[PER|Sergio Ballarín Mur]], le atiende en el [[PHONE|976 20 45 18]] o en [[EMAIL|sergio.ballarin@gestores-zgz.es]]. Conserve este documento: tiene validez como [[NEG|justificante bancario]]."
+    }
+   ]
+  ]
+ },
+ {
+  "id": "es04_informe_endocrino",
+  "lang": "es",
+  "country": [
+   "ES"
+  ],
+  "kind": "medical",
+  "title": "Informe de consulta externa de Endocrinología",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Policlínica San Telmo, S.A.]]\nServicio de Endocrinología y Nutrición\n[[ADDR|paseo de Uribitarte, 22\n48001 Bilbao]]\nTel. [[PHONE|944 23 87 10]] · [[EMAIL|endocrino@policlinicasantelmo.es]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|INFORME DE CONSULTA EXTERNA]]"
+    },
+    {
+     "t": "table",
+     "widths": [
+      1.4,
+      2.2,
+      1.4,
+      2
+     ],
+     "size": 9,
+     "rows": [
+      [
+       "Dato",
+       "Valor",
+       "Dato",
+       "Valor"
+      ],
+      [
+       "Paciente",
+       "[[PER|AGUIRRE ZUBIZARRETA, Itziar]]",
+       "Fecha de nacimiento",
+       "[[DOB|17/05/1978]]"
+      ],
+      [
+       "N.º historia clínica",
+       "[[ID|HC-0482617]]",
+       "DNI",
+       "[[ID|30671254H]]"
+      ],
+      [
+       "Código TIS",
+       "[[ID|AGZB780517914013]]",
+       "N.º afiliación SS",
+       "[[ID|48 10293847 21]]"
+      ],
+      [
+       "Fecha de consulta",
+       "[[DATE|06/10/2026]]",
+       "Médico remitente",
+       "[[OPT|Dr.]] [[PER|J. L. Ugarte]]"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Domicilio: [[ADDR|calle Licenciado Poza, 31, 4.º D, 48011 Bilbao]]. Teléfono: [[PHONE|688 41 27 93]]."
+    },
+    {
+     "t": "h",
+     "text": "Motivo de consulta"
+    },
+    {
+     "t": "p",
+     "text": "Mujer de 48 años remitida desde su centro de salud por [[NEG|diabetes mellitus tipo 2]] de control insuficiente pese a tratamiento oral. Acude acompañada de su marido, [[PER|Iñaki Blanco]], que colabora en la anamnesis. La paciente refiere poliuria y cansancio en los últimos tres meses."
+    },
+    {
+     "t": "h",
+     "text": "Antecedentes personales"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Hipotiroidismo]] primario en tratamiento con [[NEG|levotiroxina]] 75 µg/día. [[NEG|Hipertensión arterial]] desde 2019, controlada con [[NEG|enalapril]] 10 mg. No fumadora. Madre fallecida por [[NEG|cardiopatía isquémica]]. Sin alergias medicamentosas conocidas. Seguimiento previo por la [[OPT|Dra.]] [[PER|Begoña Larrinaga de Lucas]] hasta su jubilación."
+    },
+    {
+     "t": "h",
+     "text": "Exploración física"
+    },
+    {
+     "t": "p",
+     "text": "Peso 82 kg, talla 162 cm, IMC 31,2. TA 138/84 mmHg. Pulsos pedios presentes y simétricos. Monofilamento normal en ambos pies. Tiroides no palpable."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "Pruebas complementarias"
+    },
+    {
+     "t": "table",
+     "widths": [
+      2.5,
+      1.3,
+      1.6
+     ],
+     "size": 9,
+     "rows": [
+      [
+       "Determinación",
+       "Resultado",
+       "Referencia"
+      ],
+      [
+       "[[NEG|HbA1c]]",
+       "8,4 %",
+       "< 6,5 %"
+      ],
+      [
+       "[[NEG|Glucosa basal]]",
+       "176 mg/dl",
+       "70-110 mg/dl"
+      ],
+      [
+       "[[NEG|Colesterol LDL]]",
+       "142 mg/dl",
+       "< 100 mg/dl"
+      ],
+      [
+       "[[NEG|TSH]]",
+       "2,1 mUI/l",
+       "0,4-4,0 mUI/l"
+      ],
+      [
+       "[[NEG|Creatinina]]",
+       "0,8 mg/dl",
+       "0,5-1,1 mg/dl"
+      ],
+      [
+       "[[NEG|Cociente albúmina/creatinina]]",
+       "12 mg/g",
+       "< 30 mg/g"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Juicio clínico"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|DM2]] con mal control metabólico, sin complicaciones microvasculares conocidas. [[NEG|Obesidad grado I]]. [[NEG|Dislipemia]] no tratada."
+    },
+    {
+     "t": "h",
+     "text": "Tratamiento y recomendaciones"
+    },
+    {
+     "t": "p",
+     "text": "Mantener [[NEG|metformina]] 850 mg cada 12 horas. Añadir [[NEG|empagliflozina]] 10 mg en el desayuno e iniciar [[NEG|atorvastatina]] 20 mg por la noche. Educación diabetológica con la enfermera [[PER|Ainhoa Rosa Elorza]]. Solicitar [[NEG|retinografía]]. Nueva analítica y revisión en consulta el [[DATE|12 de enero de 2027]]."
+    },
+    {
+     "t": "p",
+     "text": "Persona de contacto autorizada por la paciente: [[PER|Leire Blanco Aguirre]] (hija), tel. [[PHONE|+34 655 30 18 42]], [[EMAIL|leire.blanco.aguirre@gmail.com]]."
+    },
+    {
+     "t": "space",
+     "h": 16
+    },
+    {
+     "t": "lines",
+     "text": "En [[OPT|Bilbao]], a [[DATE|6 de octubre de 2026]]\n\nFdo.: [[OPT|Dra.]] [[PER|Amaia Etxeberria Goikoetxea]]\nEspecialista en Endocrinología · N.º colegiado [[ID|48/09217]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "es05_constancia_laboral",
+  "lang": "es",
+  "country": [
+   "MX"
+  ],
+  "kind": "hr_letter",
+  "title": "Constancia de empleo y percepciones",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Logística Integral del Bajío, S.A. de C.V.]]\nRFC [[ID|LIB0903128K4]]\n[[ADDR|Blvd. Adolfo López Mateos 2715 Pte., Col. Jardines del Moral\nC.P. 37160, León, Gto.]]\nTel. [[PHONE|(477) 718 2400]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "[[OPT|León, Guanajuato]], a [[DATE|15 de octubre de 2026]]"
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|CONSTANCIA DE EMPLEO Y PERCEPCIONES]]"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|A QUIEN CORRESPONDA:]]"
+    },
+    {
+     "t": "p",
+     "text": "Por medio de la presente, [[ORG|Logística Integral del Bajío, S.A. de C.V.]] hace constar que el [[OPT|C.]] [[PER|Rodrigo Valdivia Sámano]] presta sus servicios en esta empresa desde el [[DATE|3 de febrero de 2019]], mediante [[NEG|contrato individual de trabajo por tiempo indeterminado]], y que a la fecha se desempeña como Coordinador de [[NEG|Almacén]] en el centro de distribución de [[OPT|Silao]]. En marzo de 2024 sustituyó en el puesto a [[PER|Ernesto Luna Cruz]], quien fue trasladado a la planta de [[OPT|Querétaro]]."
+    },
+    {
+     "t": "table",
+     "widths": [
+      2,
+      3
+     ],
+     "size": 9,
+     "rows": [
+      [
+       "Concepto",
+       "Dato"
+      ],
+      [
+       "Nombre (apellidos, nombre)",
+       "[[PER|VALDIVIA SÁMANO RODRIGO]]"
+      ],
+      [
+       "Número de empleado",
+       "[[ID|LIB-07734]]"
+      ],
+      [
+       "RFC",
+       "[[ID|VASR850923QK7]]"
+      ],
+      [
+       "CURP",
+       "[[ID|VASR850923HGTLMD04]]"
+      ],
+      [
+       "NSS (IMSS)",
+       "[[ID|12038512344]]"
+      ],
+      [
+       "Fecha de nacimiento",
+       "[[DOB|23/09/1985]]"
+      ],
+      [
+       "Domicilio",
+       "[[ADDR|Calle Paseo de la Presa 418, Col. Valle del Campestre, C.P. 37150, León, Gto.]]"
+      ],
+      [
+       "Salario mensual bruto",
+       "$38,500.00 MXN"
+      ],
+      [
+       "Jefa inmediata",
+       "[[OPT|Ing.]] [[PER|Guadalupe Rosales de la Peña]]"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Además del salario, el trabajador recibe las prestaciones de ley y las siguientes prestaciones superiores: [[NEG|aguinaldo]] de 30 días, [[NEG|vales de despensa]] por [[NEG|$2,400.00]] mensuales, [[NEG|fondo de ahorro]] del 10 % y [[NEG|seguro de gastos médicos mayores]] con [[OPT|GNP Seguros]]. Su desempeño ha sido evaluado como sobresaliente por la [[OPT|Ing.]] [[PER|Rosales]] en los dos últimos ciclos."
+    },
+    {
+     "t": "p",
+     "text": "Se extiende la presente a petición del interesado para los fines que a él convengan, en particular para su trámite de crédito ante el [[OPT|INFONAVIT]]. Para cualquier verificación, favor de comunicarse con [[PER|Karla Ivonne Mendoza Treviño]], Jefa de Capital Humano, al [[PHONE|+52 477 718 2431]] o al correo [[EMAIL|kmendoza@libajio.com.mx]]."
+    },
+    {
+     "t": "space",
+     "h": 12
+    },
+    {
+     "t": "cols",
+     "left": "Atentamente\n\n\n[[OPT|Lic.]] [[PER|Héctor Manuel\nOrozco Bermúdez]]\nDirector de Recursos Humanos",
+     "right": "Sello de la empresa\n\n\n[[ORG|Logística Integral del Bajío,\nS.A. de C.V.]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "size": 8,
+     "text": "c.c.p. Expediente personal [[REF|EXP-RH-07734]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "es06_correo_litigio",
+  "lang": "es",
+  "country": [
+   "ES"
+  ],
+  "kind": "legal_correspondence",
+  "title": "Correo sobre procedimiento ordinario",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "De: [[PER|Beatriz Montoya Salcedo]] <[[EMAIL|bmontoya@montoyasalcedo-abogados.es]]>\nPara: [[PER|Gonzalo Iturralde Sanz]] <[[EMAIL|g.iturralde@montecarmelo-inversiones.com]]>\nCC: [[PER|Álvaro de Miguel Ortega]] <[[EMAIL|amiguel@montoyasalcedo-abogados.es]]>; [[PER|Sonia Bravo]] <[[EMAIL|sbravo@montecarmelo-inversiones.com]]>\nFecha: [[DATE|lunes, 12 de octubre de 2026, 9:47]]\nAsunto: RE: [[ORG|Inversiones Montecarmelo SL]] c/ [[ORG|Construcciones Peñalara, S.A.]] - P.O. [[REF|1243/2025]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Estimado [[PER|Gonzalo]]:"
+    },
+    {
+     "t": "p",
+     "text": "Te adjunto el borrador de [[NEG|escrito de proposición de prueba]] para el procedimiento ordinario [[REF|1243/2025]] que se sigue ante el [[OPT|Juzgado de Primera Instancia n.º 47 de Madrid]]. La [[NEG|audiencia previa]] está señalada para el [[DATE|19 de noviembre de 2026]] a las 10:30, y conviene que lo revises antes del jueves."
+    },
+    {
+     "t": "p",
+     "text": "Como sabes, la defensa de [[ORG|Construcciones Peñalara, S.A.]] la lleva la letrada [[OPT|Dña.]] [[PER|Soledad Calvo Iglesias]], del despacho [[ORG|Calvo & Iturbe Abogados, S.L.P.]], que en su [[NEG|contestación a la demanda]] niega los [[NEG|vicios constructivos]] y atribuye las filtraciones del garaje a un uso indebido. Para rebatirlo proponemos como prueba pericial el informe del arquitecto [[OPT|D.]] [[PER|Tomás Arranz-Villalba]] y, como testifical, a las siguientes personas:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Marcos Peñafiel Duque]], jefe de obra durante la ejecución\n2. [[PER|Lucía Sáenz de Buruaga]], arquitecta técnica de la dirección facultativa\n3. [[PER|Felipe del Pozo Arranz]], presidente de la comunidad de propietarios"
+    },
+    {
+     "t": "p",
+     "text": "Necesitaríamos que [[PER|Sonia]] nos confirme la dirección actual del señor [[PER|Peñafiel]], porque la que figura en el contrato de obra ([[ADDR|calle de Fuencarral, 133, 28010 Madrid]]) ya no es válida. También debemos aportar la escritura de constitución de vuestra sociedad (CIF [[ID|B84761527]]) y el poder del administrador, [[OPT|D.]] [[PER|Julián Pastor Ródenas]]. [[PER|Álvaro]] se encargará de recoger los originales en vuestras oficinas."
+    },
+    {
+     "t": "p",
+     "text": "Un saludo,"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Beatriz Montoya Salcedo]]\nAbogada · Colegiada ICAM n.º [[ID|98.512]]\n[[ORG|Montoya Salcedo Abogados, S.L.P.]]\n[[ADDR|calle de Serrano, 104, 6.º izda., 28006 Madrid]]\nTel. [[PHONE|91 435 66 21]]"
+    }
+   ],
+   [
+    {
+     "t": "p",
+     "text": "-----Mensaje original-----"
+    },
+    {
+     "t": "lines",
+     "text": "De: [[PER|Gonzalo Iturralde Sanz]] <[[EMAIL|g.iturralde@montecarmelo-inversiones.com]]>\nEnviado el: [[DATE|viernes, 9 de octubre de 2026, 18:12]]\nPara: [[PER|Beatriz Montoya Salcedo]] <[[EMAIL|bmontoya@montoyasalcedo-abogados.es]]>\nAsunto: [[ORG|Inversiones Montecarmelo SL]] c/ [[ORG|Construcciones Peñalara, S.A.]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Hola, [[PER|Beatriz]]:"
+    },
+    {
+     "t": "p",
+     "text": "Hemos recibido la notificación del juzgado con la fecha de la audiencia previa. Te confirmo que [[PER|Julián]] podrá asistir si es necesario. El presidente de la comunidad, [[PER|Felipe del Pozo]], está dispuesto a declarar y nos ha dado su móvil, [[PHONE|+34 617 82 05 39]], por si quieres hablar con él antes."
+    },
+    {
+     "t": "p",
+     "text": "Por otra parte, el [[NEG|requerimiento]] que nos envió la señora [[PER|Calvo]] proponiendo una [[NEG|mediación]] no nos convence: ofrecen asumir solo el [[NEG|30 %]] del coste de la impermeabilización. Prefiero seguir adelante con el pleito salvo que tú veas un riesgo serio en [[NEG|costas]]."
+    },
+    {
+     "t": "p",
+     "text": "Gracias y buen fin de semana,"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Gonzalo Iturralde Sanz]]\nDirector Financiero\n[[ORG|Inversiones Montecarmelo SL]]\n[[ADDR|calle de Alcalá, 265, 28027 Madrid]]\nTel. [[PHONE|+34 915 47 82 30]] · Móvil [[PHONE|629 18 44 07]]"
+    },
+    {
+     "t": "space",
+     "h": 10
+    },
+    {
+     "t": "p",
+     "size": 8,
+     "text": "[[NEG|AVISO DE CONFIDENCIALIDAD]]: este mensaje y sus anexos están sujetos al [[NEG|secreto profesional]] y se dirigen exclusivamente a su destinatario. Si lo ha recibido por error, le rogamos que lo comunique al remitente y proceda a su eliminación."
+    }
+   ]
+  ]
+ }
+]

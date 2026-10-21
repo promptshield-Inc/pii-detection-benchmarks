@@ -1,0 +1,74 @@
+{
+  "presidio-lg": {
+    "docs": 48,
+    "sensitive_words": 4489,
+    "leaked_words": 1327,
+    "recall": 0.7044,
+    "fp_texts_per_doc": 9.75,
+    "zero_leak_docs": 0
+  },
+  "presidio-sm": {
+    "docs": 48,
+    "sensitive_words": 4489,
+    "leaked_words": 1583,
+    "recall": 0.6474,
+    "fp_texts_per_doc": 13.65,
+    "zero_leak_docs": 0
+  },
+  "promptshield-1.0.14": {
+    "docs": 42,
+    "sensitive_words": 3891,
+    "leaked_words": 999,
+    "recall": 0.7433,
+    "fp_texts_per_doc": 4.45,
+    "zero_leak_docs": 0
+  },
+  "promptshield-1.1.3": {
+    "docs": 42,
+    "sensitive_words": 3891,
+    "leaked_words": 999,
+    "recall": 0.7433,
+    "fp_texts_per_doc": 4.45,
+    "zero_leak_docs": 0
+  },
+  "promptshield-1.2.0": {
+    "docs": 42,
+    "sensitive_words": 3891,
+    "leaked_words": 987,
+    "recall": 0.7463,
+    "fp_texts_per_doc": 4.45,
+    "zero_leak_docs": 0
+  },
+  "promptshield-1.2.5": {
+    "docs": 42,
+    "sensitive_words": 3891,
+    "leaked_words": 915,
+    "recall": 0.7648,
+    "fp_texts_per_doc": 4.45,
+    "zero_leak_docs": 0
+  },
+  "promptshield-1.3.4": {
+    "docs": 42,
+    "sensitive_words": 3913,
+    "leaked_words": 73,
+    "recall": 0.9813,
+    "fp_texts_per_doc": 1.98,
+    "zero_leak_docs": 22
+  },
+  "promptshield-1.3.8": {
+    "docs": 42,
+    "sensitive_words": 3913,
+    "leaked_words": 73,
+    "recall": 0.9813,
+    "fp_texts_per_doc": 1.98,
+    "zero_leak_docs": 22
+  },
+  "promptshield-1.4.1": {
+    "docs": 48,
+    "sensitive_words": 4489,
+    "leaked_words": 92,
+    "recall": 0.9795,
+    "fp_texts_per_doc": 1.9,
+    "zero_leak_docs": 24
+  }
+}

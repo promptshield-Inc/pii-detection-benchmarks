@@ -1,0 +1,982 @@
+[
+ {
+  "id": "fr01_contrat_prestation",
+  "lang": "fr",
+  "country": [
+   "FR"
+  ],
+  "kind": "contract",
+  "title": "Contrat de prestation de services – audit énergétique",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|CONTRAT DE PRESTATION DE SERVICES]]"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Audit énergétique]] et accompagnement à la rénovation d'un local professionnel"
+    },
+    {
+     "t": "h",
+     "text": "ENTRE LES SOUSSIGNÉS :"
+    },
+    {
+     "t": "p",
+     "text": "La société [[ORG|ALTIGRÈS INGÉNIERIE SAS]], société par actions simplifiée au capital de 80 000 euros, immatriculée au registre du commerce et des sociétés de Lyon sous le numéro [[ID|732 845 193]], dont le siège social est situé [[ADDR|14 rue Auguste-Comte, 69002 Lyon]], représentée par son Président, [[OPT|Monsieur]] [[PER|Thibault MARCHAND-VIGIER]], dûment habilité aux fins des présentes,"
+    },
+    {
+     "t": "p",
+     "text": "ci-après dénommée « [[NEG|le Prestataire]] »,"
+    },
+    {
+     "t": "p",
+     "text": "D'UNE PART,"
+    },
+    {
+     "t": "p",
+     "text": "ET :"
+    },
+    {
+     "t": "p",
+     "text": "[[OPT|Madame]] [[PER|Solène BLANC]], née le [[DOB|12 juillet 1985]] à [[OPT|Villeurbanne]], architecte d'intérieur exerçant en nom propre sous le numéro SIRET [[ID|814 459 020 00016]], demeurant [[ADDR|7 impasse des Tilleuls, 38200 Vienne]], joignable au [[PHONE|06 84 22 17 53]] et à l'adresse [[EMAIL|solene.blanc.archi@orange.fr]],"
+    },
+    {
+     "t": "p",
+     "text": "ci-après dénommée « [[NEG|le Client]] »,"
+    },
+    {
+     "t": "p",
+     "text": "D'AUTRE PART,"
+    },
+    {
+     "t": "h",
+     "text": "IL A ÉTÉ CONVENU CE QUI SUIT :"
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Article 1]] – Objet"
+    },
+    {
+     "t": "p",
+     "text": "Le présent contrat a pour objet de définir les conditions dans lesquelles [[NEG|le Prestataire]] réalise, pour le compte du Client, un [[NEG|audit énergétique]] des locaux situés [[ADDR|31 cours Romestang, 38200 Vienne]], ainsi qu'une mission d'assistance au choix des entreprises de travaux. Les plans fournis par le Client sont réputés exacts ; toute zone laissée en [[NEG|blanc]] sur ces plans sera relevée sur site aux frais du Prestataire."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Article 2]] – Durée"
+    },
+    {
+     "t": "p",
+     "text": "Le contrat prend effet le [[DATE|3 novembre 2026]] et prend fin à la remise du rapport final, au plus tard le [[DATE|29 janvier 2027]]. Il ne peut faire l'objet d'aucune [[NEG|tacite reconduction]]."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Article 3]] – Prix et modalités de paiement"
+    },
+    {
+     "t": "p",
+     "text": "La mission est rémunérée par un forfait global de [[NEG|9 800,00 euros hors taxes]], payable à hauteur de 30 % à la signature et pour le solde à réception du rapport final. Toute somme non réglée à son échéance donne lieu, de plein droit, à des [[NEG|pénalités de retard]] calculées au taux de trois fois l'intérêt légal."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|Article 4]] – Obligations des parties"
+    },
+    {
+     "t": "p",
+     "text": "Le Prestataire est tenu d'une [[NEG|obligation de moyens]]. Il désigne comme interlocuteur unique [[OPT|M.]] [[PER|Adrien Petitjean]], ingénieur thermicien, qui pourra se faire assister de [[PER|Margaux Delcroix]] pour les relevés sur site. Le Client s'engage à donner accès aux locaux et à transmettre les factures d'énergie des trois dernières années dans un délai de quinze jours."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Article 5]] – Confidentialité"
+    },
+    {
+     "t": "p",
+     "text": "Chaque partie s'interdit de divulguer à des tiers les informations techniques ou financières reçues de l'autre partie, pendant toute la durée du contrat et deux ans après son terme. Aucune des parties ne pourra être tenue pour responsable d'un manquement résultant d'un cas de [[NEG|force majeure]] au sens de [[NEG|l'article 1218 du Code civil]]."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Article 6]] – Résiliation"
+    },
+    {
+     "t": "p",
+     "text": "En cas de manquement grave de l'une des parties à ses obligations, le contrat pourra être résilié de plein droit quinze jours après une [[NEG|mise en demeure]] adressée par lettre recommandée avec accusé de réception et restée sans effet."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Article 7]] – Droit applicable et litiges"
+    },
+    {
+     "t": "p",
+     "text": "Le présent contrat est soumis au droit français. Tout différend relatif à sa formation ou à son exécution sera porté devant le [[OPT|tribunal judiciaire de Lyon]]."
+    },
+    {
+     "t": "h",
+     "text": "Témoins"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|DE LA FONTAINE Hugues]], expert-comptable, [[ADDR|9 quai Saint-Vincent, 69001 Lyon]]\n2. [[PER|Marie-Noëlle Grandjean]], assistante de direction\n3. [[PER|J.-F. Lemaire]], conducteur de travaux"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Fait à [[OPT|Lyon]], le [[DATE|27 octobre 2026]], en deux exemplaires originaux."
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "cols",
+     "left": "Pour le Prestataire\n[[ORG|ALTIGRÈS INGÉNIERIE SAS]]\n[[PER|Thibault\nMARCHAND-VIGIER]], Président\nLu et approuvé",
+     "right": "Le Client\n[[PER|Solène BLANC]]\nLu et approuvé, bon pour accord"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "fr02_facture_menuiserie",
+  "lang": "fr",
+  "country": [
+   "FR"
+  ],
+  "kind": "invoice",
+  "title": "Facture – menuiseries extérieures",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|MENUISERIE PLANTIER & FILS SARL]]\nFabrication et pose de menuiseries bois et aluminium\n[[ADDR|22 chemin de la Bergerie\n84120 Pertuis]]\nTél. [[PHONE|04 90 79 31 62]] – Port. [[PHONE|06 12 58 74 30]]\n[[EMAIL|contact@menuiserie-plantier.fr]]\nSIRET [[ID|520 193 764 00013]] – N° TVA intracommunautaire [[ID|FR 05 520 193 764]]"
+    },
+    {
+     "t": "space",
+     "h": 10
+    },
+    {
+     "t": "cols",
+     "left": "[[NEG|FACTURE]] n° [[REF|F-2026-1187]]\nDate : [[DATE|15/10/2026]]\nDevis accepté n° [[REF|D-2026-0942]]\nN° client : [[ID|C00841]]",
+     "right": "[[OPT|Monsieur]] [[PER|Grégoire LACOMBE]]\n[[ADDR|Mas des Oliviers\n135 route de Cucuron\n84160 Lourmarin]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Chantier : rénovation des menuiseries extérieures de la résidence principale du client. Conducteur de travaux sur site : [[PER|Benoît Plantier]] ([[PHONE|06 12 58 74 30]]). Travaux réalisés du [[DATE|28 septembre]] au [[DATE|9 octobre 2026]]."
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Désignation",
+       "Qté",
+       "P.U. HT (€)",
+       "Total HT (€)"
+      ],
+      [
+       "[[NEG|Fenêtre chêne massif]] 2 vantaux, double vitrage 4/16/4",
+       "3",
+       "1 140,00",
+       "3 420,00"
+      ],
+      [
+       "[[NEG|Porte-fenêtre]] chêne, seuil plat accessible",
+       "1",
+       "1 865,00",
+       "1 865,00"
+      ],
+      [
+       "[[NEG|Volets battants]] pin traité, lasure teinte noyer",
+       "4",
+       "395,00",
+       "1 580,00"
+      ],
+      [
+       "Dépose et évacuation des anciennes menuiseries",
+       "1",
+       "480,00",
+       "480,00"
+      ],
+      [
+       "Reprise d'appui en [[NEG|pierre]] de Rognes",
+       "2",
+       "160,00",
+       "320,00"
+      ],
+      [
+       "Pose, calfeutrement et finitions (main-d'œuvre)",
+       "12 h",
+       "52,00",
+       "624,00"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      5,
+      1,
+      1.5,
+      1.5
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Récapitulatif",
+       "Montant"
+      ],
+      [
+       "Total HT",
+       "8 289,00 €"
+      ],
+      [
+       "[[NEG|TVA 10 %]]",
+       "828,90 €"
+      ],
+      [
+       "Total TTC",
+       "[[NEG|9 117,90 €]]"
+      ],
+      [
+       "Acompte versé le [[DATE|02/09/2026]]",
+       "2 735,37 €"
+      ],
+      [
+       "Net à payer",
+       "[[NEG|6 382,53 €]]"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      3,
+      1.5
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "TVA au taux intermédiaire de 10 % applicable aux travaux d'amélioration de logements achevés depuis plus de deux ans ([[NEG|article 279-0 bis du CGI]]) ; attestation simplifiée remise par le client."
+    },
+    {
+     "t": "p",
+     "text": "Paiement par virement à 30 jours fin de mois, soit au plus tard le [[DATE|30/11/2026]]. Pas d'escompte pour paiement anticipé. En cas de retard : pénalités au taux de trois fois le taux d'intérêt légal et [[NEG|indemnité forfaitaire pour frais de recouvrement]] de 40 euros."
+    },
+    {
+     "t": "lines",
+     "text": "Coordonnées bancaires – [[OPT|Crédit Agricole Alpes Provence]]\nTitulaire : [[ORG|MENUISERIE PLANTIER & FILS SARL]]\nIBAN : [[IBAN|FR76 1830 6000 4237 1509 2884 107]]\nBIC : [[OPT|AGRIFRPP883]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Assurance [[NEG|responsabilité civile décennale]] : [[OPT|MAAF]] Pro, contrat n° [[ID|148 902 637 G]], couverture France métropolitaine. Facture établie par [[PER|Corinne Plantier]], gérante.",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "fr03_releve_compte",
+  "lang": "fr",
+  "country": [
+   "FR"
+  ],
+  "kind": "bank_statement",
+  "title": "Relevé de compte – septembre 2026",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[OPT|Crédit Mutuel de Bretagne]]\n[[NEG|RELEVÉ DE COMPTE]] – [[NEG|COMPTE CHÈQUES]] EUROCOMPTE"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "cols",
+     "left": "[[OPT|M.]] [[PER|Yannick LE GOFF]]\n[[ADDR|3 allée des Goélands\n29200 Brest]]",
+     "right": "Période du [[DATE|01/09/2026]] au [[DATE|30/09/2026]]\nRelevé n° [[REF|2026-09]]\nSolde au [[DATE|31/08/2026]] : 2 314,62 €"
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "lines",
+     "text": "N° client : [[ID|0451 2287]] – N° de compte : [[ID|00020417358]]\nIBAN : [[IBAN|FR76 1027 8060 4500 0204 1735 819]] – BIC : [[OPT|CMBRFR2BARK]]"
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Date",
+       "Libellé de l'opération",
+       "Référence",
+       "Débit",
+       "Crédit",
+       "Solde"
+      ],
+      [
+       "[[DATE|02/09]]",
+       "PRLV SEPA [[OPT|EDF]] CLIENTS PARTICULIERS",
+       "[[REF|EDF26090187421]]",
+       "74,30",
+       "",
+       "2 240,32"
+      ],
+      [
+       "[[DATE|02/09]]",
+       "CB [[OPT|E.LECLERC]] BREST DU 29/08",
+       "[[REF|CB8841207]]",
+       "86,41",
+       "",
+       "2 153,91"
+      ],
+      [
+       "[[DATE|03/09]]",
+       "VIR SEPA [[PER|PAUL-EMILE MORVAN]] REMB WEEK-END",
+       "[[REF|VS2609033318]]",
+       "",
+       "120,00",
+       "2 273,91"
+      ],
+      [
+       "[[DATE|04/09]]",
+       "PRLV SEPA [[ORG|SCI LES REMPARTS]] LOYER SEPT",
+       "[[REF|RUM-SCIREM-0042]]",
+       "780,00",
+       "",
+       "1 493,91"
+      ],
+      [
+       "[[DATE|05/09]]",
+       "CB [[OPT|BOULANGERIE DU PORT]] DU 03/09",
+       "[[REF|CB8841655]]",
+       "7,80",
+       "",
+       "1 486,11"
+      ],
+      [
+       "[[DATE|05/09]]",
+       "VIR SEPA [[ORG|ARMOR NAVAL SERVICES]] SALAIRE AOUT",
+       "[[REF|SAL0826-1173]]",
+       "",
+       "2 612,48",
+       "4 098,59"
+      ],
+      [
+       "[[DATE|08/09]]",
+       "PRLV SEPA [[OPT|ORANGE]] FACTURE MOBILE",
+       "[[REF|ORA7712093845]]",
+       "54,99",
+       "",
+       "4 043,60"
+      ],
+      [
+       "[[DATE|08/09]]",
+       "VIR INST A [[PER|LEA QUERE]] PART CADEAU",
+       "[[REF|VI2609081142]]",
+       "35,00",
+       "",
+       "4 008,60"
+      ],
+      [
+       "[[DATE|09/09]]",
+       "CHEQUE N° 4471023",
+       "[[REF|CHQ4471023]]",
+       "150,00",
+       "",
+       "3 858,60"
+      ],
+      [
+       "[[DATE|10/09]]",
+       "CB [[OPT|SNCF CONNECT]] DU 08/09",
+       "[[REF|CB8842093]]",
+       "63,80",
+       "",
+       "3 794,80"
+      ],
+      [
+       "[[DATE|11/09]]",
+       "PRLV SEPA [[OPT|MAIF]] [[NEG|ASSURANCE HABITATION]]",
+       "[[REF|MAIF0926H5518]]",
+       "28,17",
+       "",
+       "3 766,63"
+      ],
+      [
+       "[[DATE|12/09]]",
+       "RETRAIT DAB DU 11/09",
+       "[[REF|DAB2609114402]]",
+       "60,00",
+       "",
+       "3 706,63"
+      ],
+      [
+       "[[DATE|14/09]]",
+       "VIR SEPA [[PER|GUEGUEN ROSE]] ACOMPTE VOILIER",
+       "[[REF|VS2609147756]]",
+       "",
+       "400,00",
+       "4 106,63"
+      ],
+      [
+       "[[DATE|15/09]]",
+       "CB [[OPT|PHARMACIE DE KERINOU]] DU 13/09",
+       "[[REF|CB8842511]]",
+       "23,60",
+       "",
+       "4 083,03"
+      ],
+      [
+       "[[DATE|15/09]]",
+       "PRLV SEPA [[OPT|DGFIP]] [[NEG|IMPOT SUR LE REVENU]]",
+       "[[REF|DGFIP09PAS2731]]",
+       "212,00",
+       "",
+       "3 871,03"
+      ],
+      [
+       "[[DATE|16/09]]",
+       "VIR SEPA A [[PER|J. TANGUY]] FRAIS COPRO",
+       "[[REF|VS2609160421]]",
+       "145,00",
+       "",
+       "3 726,03"
+      ],
+      [
+       "[[DATE|17/09]]",
+       "CB [[OPT|DECATHLON]] BREST DU 15/09",
+       "[[REF|CB8843037]]",
+       "49,99",
+       "",
+       "3 676,04"
+      ],
+      [
+       "[[DATE|18/09]]",
+       "PRLV SEPA [[OPT|FREE MOBILE]]",
+       "[[REF|FM20926330187]]",
+       "15,99",
+       "",
+       "3 660,05"
+      ],
+      [
+       "[[DATE|19/09]]",
+       "VIR SEPA [[OPT|CAF DU FINISTERE]] PRESTATIONS",
+       "[[REF|CAF0926PF8812]]",
+       "",
+       "98,52",
+       "3 758,57"
+      ],
+      [
+       "[[DATE|21/09]]",
+       "CB [[OPT|INTERMARCHE]] DU 19/09",
+       "[[REF|CB8843580]]",
+       "52,36",
+       "",
+       "3 706,21"
+      ],
+      [
+       "[[DATE|22/09]]",
+       "VIR SEPA [[OPT|MME]] [[PER|ANNE-SOPHIE KERDRAON]] REMBT",
+       "[[REF|VS2609229903]]",
+       "",
+       "250,00",
+       "3 956,21"
+      ],
+      [
+       "[[DATE|23/09]]",
+       "CB [[OPT|GARAGE DU VALLON]] DU 22/09",
+       "[[REF|CB8843911]]",
+       "318,40",
+       "",
+       "3 637,81"
+      ],
+      [
+       "[[DATE|24/09]]",
+       "[[NEG|COTISATION CARTE VISA PREMIER]]",
+       "[[REF|COT0926VP]]",
+       "11,25",
+       "",
+       "3 626,56"
+      ],
+      [
+       "[[DATE|25/09]]",
+       "VIR PERMANENT [[PER|LE GOFF YANNICK]] LIVRET",
+       "[[REF|VP0925LIV07]]",
+       "200,00",
+       "",
+       "3 426,56"
+      ],
+      [
+       "[[DATE|26/09]]",
+       "CB [[OPT|AMAZON PAYMENTS]] DU 24/09",
+       "[[REF|CB8844402]]",
+       "34,90",
+       "",
+       "3 391,66"
+      ],
+      [
+       "[[DATE|28/09]]",
+       "VIR SEPA [[OPT|M OU MME]] [[PER|DU PLESSIS]] DINER",
+       "[[REF|VS2609285518]]",
+       "",
+       "60,00",
+       "3 451,66"
+      ],
+      [
+       "[[DATE|29/09]]",
+       "PRLV SEPA [[OPT|SAUR]] EAU 3E TRIMESTRE",
+       "[[REF|SAUR0926T3418]]",
+       "41,12",
+       "",
+       "3 410,54"
+      ],
+      [
+       "[[DATE|30/09]]",
+       "[[NEG|FRAIS TENUE DE COMPTE]]",
+       "[[REF|FTC0926]]",
+       "2,50",
+       "",
+       "3 408,04"
+      ]
+     ],
+     "size": 7.5,
+     "widths": [
+      0.8,
+      4.2,
+      2.2,
+      1.1,
+      1.1,
+      1.2
+     ]
+    },
+    {
+     "t": "space",
+     "h": 4
+    },
+    {
+     "t": "p",
+     "text": "Total des débits : 2 447,58 € – Total des crédits : 3 541,00 € – Nouveau solde au [[DATE|30/09/2026]] : 3 408,04 € créditeur. Montant du [[NEG|découvert autorisé]] : 500,00 €.",
+     "size": 8
+    },
+    {
+     "t": "p",
+     "text": "Vos dépôts sont protégés par le [[NEG|Fonds de garantie des dépôts et de résolution]] dans la limite de 100 000 euros. Pour toute réclamation, contactez votre conseillère, [[OPT|Mme]] [[PER|Morgane Le Roux]], au [[PHONE|02 98 43 70 12]].",
+     "size": 8
+    }
+   ]
+  ]
+ },
+ {
+  "id": "fr04_compte_rendu_hospitalisation",
+  "lang": "fr",
+  "country": [
+   "FR"
+  ],
+  "kind": "medical",
+  "title": "Compte rendu d'hospitalisation – cardiologie",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Clinique du Parc Sainte-Victoire]]\nService de cardiologie et rythmologie\n[[ADDR|18 boulevard du Roi-René\n13100 Aix-en-Provence]]\nSecrétariat : [[PHONE|04 42 27 63 15]] – Fax : [[PHONE|04 42 27 63 99]]\n[[EMAIL|secretariat.cardio@clinique-psv.fr]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "cols",
+     "left": "[[OPT|Dr]] [[PER|Hélène VASSEUR-KLEIN]]\nCardiologue\nRPPS [[ID|10003841275]]",
+     "right": "[[OPT|Docteur]] [[PER|Laurent Mercier]]\nMédecin généraliste\n[[ADDR|5 place de la Mairie\n13510 Éguilles]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "[[OPT|Aix-en-Provence]], le [[DATE|9 octobre 2026]]"
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|COMPTE RENDU D'HOSPITALISATION]]"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Rubrique",
+       "Renseignements"
+      ],
+      [
+       "Patiente",
+       "[[OPT|Mme]] [[PER|Rose-Marie FAURE]], née [[PER|ESCOFFIER]]"
+      ],
+      [
+       "Date de naissance",
+       "[[DOB|03/07/1952]]"
+      ],
+      [
+       "N° de sécurité sociale",
+       "[[ID|2 52 07 13 001 284 97]]"
+      ],
+      [
+       "IPP (identifiant patient)",
+       "[[ID|004718263]]"
+      ],
+      [
+       "Complémentaire santé",
+       "[[OPT|Harmonie Mutuelle]] – adhérent n° [[ID|HM 7730 4152]]"
+      ],
+      [
+       "Séjour",
+       "du [[DATE|28/09/2026]] au [[DATE|06/10/2026]] – séjour n° [[REF|S26-118734]]"
+      ],
+      [
+       "Personne de confiance",
+       "[[PER|Gérard FAURE]] (époux) – [[PHONE|06 71 40 25 98]]"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      1.6,
+      4
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Cher confrère,"
+    },
+    {
+     "t": "p",
+     "text": "Je vous adresse le compte rendu de l'hospitalisation de votre patiente, [[OPT|Mme]] [[PER|Faure]], âgée de 74 ans, admise par les urgences pour des [[NEG|palpitations]] associées à une [[NEG|dyspnée d'effort]] évoluant depuis une dizaine de jours."
+    },
+    {
+     "t": "h",
+     "text": "Antécédents"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Hypertension artérielle]] traitée depuis 2009, [[NEG|diabète de type 2]] non insulinorequérant, cholécystectomie en 2015. Pas d'allergie médicamenteuse connue. Traitement habituel : [[NEG|ramipril]] 5 mg le matin, [[NEG|metformine]] 1000 mg matin et soir."
+    },
+    {
+     "t": "h",
+     "text": "Histoire de la maladie et examens complémentaires"
+    },
+    {
+     "t": "p",
+     "text": "L'électrocardiogramme d'entrée objective une [[NEG|fibrillation atriale]] à 132 battements par minute. Biologie : [[NEG|NT-proBNP]] à 1 840 pg/mL, [[NEG|TSH]] normale à 1,9 mUI/L, [[NEG|HbA1c]] à 7,4 %, créatininémie à 88 µmol/L ([[NEG|DFG]] estimé à 58 mL/min). Une [[NEG|échocardiographie transthoracique]] réalisée par le [[OPT|Pr]] [[PER|Matthieu d'Aubigny]] retrouve une [[NEG|insuffisance mitrale]] modérée et une fraction d'éjection conservée à 55 %."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "Évolution"
+    },
+    {
+     "t": "p",
+     "text": "Une anticoagulation par [[NEG|apixaban]] 5 mg deux fois par jour a été introduite (score CHA2DS2-VASc à 5), associée au [[NEG|bisoprolol]] 2,5 mg. Retour spontané en rythme sinusal le [[DATE|1er octobre]]. Le Holter des 24 heures ne retrouve pas de récidive. Un [[NEG|petit]] épanchement péricardique, sans retentissement, sera contrôlé. La patiente a été vue quotidiennement par l'interne du service, [[PER|Camille Petit]], et a bénéficié d'une séance d'éducation thérapeutique sur le traitement anticoagulant."
+    },
+    {
+     "t": "h",
+     "text": "Conclusion"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Fibrillation atriale paroxystique]] inaugurale chez une patiente hypertendue et diabétique, réduite spontanément. Introduction d'un anticoagulant oral direct. Pas d'indication à une ablation à ce stade."
+    },
+    {
+     "t": "h",
+     "text": "Traitement de sortie"
+    },
+    {
+     "t": "lines",
+     "text": "[[NEG|Apixaban]] ([[NEG|Eliquis]]) 5 mg : 1 comprimé matin et soir\n[[NEG|Bisoprolol]] 2,5 mg : 1 comprimé le matin\n[[NEG|Ramipril]] 5 mg : 1 comprimé le matin\n[[NEG|Metformine]] 1000 mg : 1 comprimé matin et soir"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Rendez-vous de contrôle avec le [[OPT|Dr]] [[PER|Vasseur-Klein]] le [[DATE|12 janvier 2027]] à 10 h 30, avec bilan biologique ([[NEG|ionogramme sanguin]], [[NEG|créatinine]]) dans les huit jours précédents. En cas de difficulté pour organiser le transport, contacter la personne de confiance, [[OPT|M.]] [[PER|Gérard Faure]]."
+    },
+    {
+     "t": "p",
+     "text": "Je vous prie de croire, cher confrère, à l'assurance de mes sentiments confraternels."
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Dr]] [[PER|Hélène VASSEUR-KLEIN]]\nCopie : patiente ; [[OPT|Dr]] [[PER|Sébastien Ouvrard]], cardiologue, [[ADDR|27 rue Espariat, 13100 Aix-en-Provence]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "fr05_lettre_confirmation_embauche",
+  "lang": "fr",
+  "country": [
+   "FR"
+  ],
+  "kind": "hr_letter",
+  "title": "Confirmation d'embauche et changement d'affectation",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|BRÉHAT LOGISTIQUE SAS]]\n[[ADDR|ZA de Kerlann – 6 rue des Charmilles\n35170 Bruz]]\nSIRET [[ID|448 072 314 00017]] – Code [[NEG|NAF 5210B]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "cols",
+     "left": "Direction des ressources humaines\nAffaire suivie par : [[PER|Delphine WEISS]]\nTél. : [[PHONE|02 99 34 61 77]]\n[[EMAIL|d.weiss@brehat-logistique.fr]]",
+     "right": "[[OPT|Monsieur]] [[PER|Karim BENALI]]\n[[ADDR|12 résidence Les Hortensias\nappartement 34\n35000 Rennes]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Lettre remise en main propre contre décharge"
+    },
+    {
+     "t": "p",
+     "text": "[[OPT|Bruz]], le [[DATE|19 octobre 2026]]"
+    },
+    {
+     "t": "p",
+     "text": "Objet : confirmation d'embauche à l'issue de la [[NEG|période d'essai]] et modification du lieu de travail"
+    },
+    {
+     "t": "p",
+     "text": "[[OPT|Monsieur]],"
+    },
+    {
+     "t": "p",
+     "text": "Vous avez été engagé par [[ORG|Bréhat Logistique SAS]] le [[DATE|1er juillet 2026]] en qualité de chef d'équipe quai, par [[NEG|contrat à durée indéterminée]], sous réserve d'une période d'essai de trois mois. À l'issue de l'entretien d'évaluation conduit le [[DATE|25 septembre 2026]] par [[PER|M.-C. Rouxel]], votre responsable de formation, nous avons le plaisir de vous confirmer que cette période d'essai est concluante et que votre embauche est définitive."
+    },
+    {
+     "t": "p",
+     "text": "Conformément à la [[NEG|clause de mobilité]] prévue à l'article 4 de votre contrat de travail, vous serez affecté à compter du [[DATE|2 novembre 2026]] sur notre plateforme de [[OPT|Vern-sur-Seiche]], sous la responsabilité de [[OPT|Mme]] [[PER|Sandrine Le Bihan]], responsable d'exploitation, qui succède à ce poste à [[OPT|M.]] [[PER|Jean-Baptiste Morel-Ricard]], appelé à d'autres fonctions au sein du groupe."
+    },
+    {
+     "t": "p",
+     "text": "Votre rémunération brute mensuelle est portée à 2 480,00 euros pour 151,67 heures de travail, à laquelle s'ajoute une prime d'équipe de 95,00 euros. Votre classification reste inchangée : groupe 6, coefficient 138 M de la [[NEG|convention collective nationale des transports routiers]] et des activités auxiliaires du transport. Votre adhésion à la [[NEG|mutuelle d'entreprise]] et au régime de [[NEG|prévoyance]] est maintenue dans les mêmes conditions."
+    },
+    {
+     "t": "h",
+     "text": "Récapitulatif administratif"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Rubrique",
+       "Information"
+      ],
+      [
+       "Nom, prénom",
+       "[[PER|BENALI Karim]]"
+      ],
+      [
+       "Matricule",
+       "[[ID|BL-04172]]"
+      ],
+      [
+       "N° de sécurité sociale",
+       "[[ID|1 79 02 13 055 187 34]]"
+      ],
+      [
+       "Date de naissance",
+       "[[DOB|14/02/1979]]"
+      ],
+      [
+       "Date d'entrée",
+       "[[DATE|01/07/2026]]"
+      ],
+      [
+       "Emploi",
+       "Chef d'équipe quai – statut [[NEG|agent de maîtrise]]"
+      ],
+      [
+       "Personne à prévenir",
+       "[[PER|Nadia Benali]] – [[PHONE|+33 7 61 08 44 29]]"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      1.6,
+      4
+     ]
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Nous vous remercions de nous retourner un exemplaire de la présente, daté et signé, précédé de la mention « lu et approuvé ». Pour toute question, [[OPT|Mme]] [[PER|Weiss]] reste à votre disposition."
+    },
+    {
+     "t": "p",
+     "text": "Nous vous prions d'agréer, [[OPT|Monsieur]], l'expression de nos salutations distinguées."
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "lines",
+     "text": "Pour [[ORG|Bréhat Logistique SAS]]\n[[PER|Pierre-Yves\nCORNEC]]\nDirecteur des ressources humaines"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "fr06_echange_avocats",
+  "lang": "fr",
+  "country": [
+   "FR"
+  ],
+  "kind": "legal_correspondence",
+  "title": "Échange de courriels entre avocats – litige commercial",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "De : [[PER|Anne-Laure VIDAL]] <[[EMAIL|al.vidal@vfa-avocats.fr]]>\nÀ : [[PER|Cyril Bonnefoy]] <[[EMAIL|c.bonnefoy@bonnefoy-associes.com]]>\nCc : [[PER|Inès Haddad]] <[[EMAIL|i.haddad@vfa-avocats.fr]]>; [[PER|Olivier Castelnau]] <[[EMAIL|o.castelnau@domaines-castelnau.fr]]>\nDate : [[DATE|mardi 20 octobre 2026]] 17:42\nObjet : RE: [[ORG|Domaines Castelnau-Brun]] c/ [[ORG|Cave Vinicole du Ventoux]] – RG n° [[REF|25/04817]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Cher confrère,"
+    },
+    {
+     "t": "p",
+     "text": "Je fais suite à votre courriel de ce matin. Ma cliente, la société [[ORG|Domaines Castelnau-Brun SAS]] (RCS Nîmes [[ID|391 602 588]]), n'entend pas renoncer à sa demande en paiement de la somme de [[NEG|47 350,00 euros]] au titre des [[NEG|vins en vrac]] livrés au cours de la vendange 2025 et demeurés impayés à ce jour."
+    },
+    {
+     "t": "p",
+     "text": "Les bons de livraison contresignés par votre cliente, et notamment par son responsable de chai, [[OPT|M.]] [[PER|Rémi Lacroix-Fabre]], établissent sans ambiguïté la réception de la marchandise sans la moindre réserve. Je vous rappelle en outre que les conditions générales de vente comportent une [[NEG|clause de réserve de propriété]] parfaitement opposable, et qu'un [[NEG|grand]] nombre de factures antérieures ont été réglées sans aucune contestation sur la qualité."
+    },
+    {
+     "t": "p",
+     "text": "L'affaire est appelée à l'audience de mise en état du [[DATE|5 novembre 2026]] devant le [[OPT|tribunal de commerce de Nîmes]]. À défaut d'accord d'ici là, nous solliciterons la désignation d'un [[NEG|expert judiciaire]] ainsi qu'une indemnité au titre de [[NEG|l'article 700 du code de procédure civile]], et je produirai l'attestation de [[OPT|Mme]] [[PER|Pascale Grand]], ancienne assistante commerciale de votre cliente, qui a assisté au chargement des cuves."
+    },
+    {
+     "t": "p",
+     "text": "Je reste disponible pour un échange téléphonique en fin de semaine."
+    },
+    {
+     "t": "p",
+     "text": "Bien confraternellement,"
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Maître]] [[PER|Anne-Laure Vidal]]\nAvocat associé – [[ORG|Vidal Ferrand Avocats AARPI]]\n[[ADDR|11 boulevard Victor-Hugo\n30000 Nîmes]]\nTél. [[PHONE|+33 4 66 21 09 87]] – Port. [[PHONE|06 33 52 70 14]]\nAvocat au [[OPT|barreau de Nîmes]]"
+    }
+   ],
+   [
+    {
+     "t": "lines",
+     "text": "-----Message d'origine-----\nDe : [[PER|Cyril Bonnefoy]] <[[EMAIL|c.bonnefoy@bonnefoy-associes.com]]>\nEnvoyé : [[DATE|mardi 20 octobre 2026]] 11:05\nÀ : [[PER|Anne-Laure VIDAL]] <[[EMAIL|al.vidal@vfa-avocats.fr]]>\nObjet : [[ORG|Domaines Castelnau-Brun]] c/ [[ORG|Cave Vinicole du Ventoux]] – RG n° [[REF|25/04817]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "p",
+     "text": "Chère consœur,"
+    },
+    {
+     "t": "p",
+     "text": "Ma cliente, la [[ORG|Cave Vinicole du Ventoux SCA]], conteste formellement devoir la somme réclamée. Son président, [[OPT|M.]] [[PER|Lucien Arnaud de Saint-Rémy]], m'indique que les lots livrés présentaient une [[NEG|acidité volatile]] excessive, constatée dès réception par l'œnologue [[PER|Fabienne Rey]] du laboratoire [[ORG|Œnolab Provence SARL]], dont le rapport vous a été communiqué en pièce n° 7."
+    },
+    {
+     "t": "p",
+     "text": "Dans un souci d'apaisement, et sans aucune reconnaissance de responsabilité, ma cliente est disposée à verser la somme de [[NEG|25 000 euros]] à titre transactionnel, ou à recourir à une [[NEG|médiation]] avant l'audience. Je vous saurais gré de me faire connaître la position de votre cliente avant le [[DATE|30 octobre]]."
+    },
+    {
+     "t": "p",
+     "text": "Bien à vous,"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Cyril Bonnefoy]]\n[[ORG|Bonnefoy & Associés SELARL]]\n[[ADDR|4 rue de la République\n84000 Avignon]]\n[[PHONE|04 90 85 17 26]]"
+    },
+    {
+     "t": "space",
+     "h": 10
+    },
+    {
+     "t": "lines",
+     "text": "-----Message transféré-----\nDe : [[PER|Olivier Castelnau]] <[[EMAIL|o.castelnau@domaines-castelnau.fr]]>\nEnvoyé : [[DATE|lundi 19 octobre 2026]] 08:31\nÀ : [[PER|Anne-Laure VIDAL]] <[[EMAIL|al.vidal@vfa-avocats.fr]]>"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "p",
+     "text": "Maître,"
+    },
+    {
+     "t": "p",
+     "text": "Je vous transmets ci-joint l'attestation de mon père, [[PER|Pierre Castelnau]], qui supervisait les expéditions en octobre 2025, ainsi que les analyses réalisées avant chaque départ par notre maître de chai, [[PER|Thomas Ribeiro]]. Les échantillons témoins sont conservés au domaine, à [[ADDR|1250 chemin des Costières, 30800 Saint-Gilles]], et peuvent être mis à disposition d'un expert."
+    },
+    {
+     "t": "p",
+     "text": "Cordialement,"
+    },
+    {
+     "t": "lines",
+     "text": "[[PER|Olivier Castelnau]]\nDirecteur général – [[ORG|Domaines Castelnau-Brun SAS]]\n[[PHONE|06 19 87 45 02]]"
+    }
+   ]
+  ]
+ }
+]

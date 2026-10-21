@@ -1,0 +1,1070 @@
+[
+ {
+  "id": "it01_contratto_appalto",
+  "lang": "it",
+  "country": [
+   "IT"
+  ],
+  "kind": "contract",
+  "title": "Contratto di appalto di servizi di manutenzione",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|CONTRATTO DI APPALTO DI SERVIZI]]"
+    },
+    {
+     "t": "lines",
+     "text": "(manutenzione degli impianti termici e idraulici)\nScrittura privata – Rep. int. n. [[REF|418/2026]]"
+    },
+    {
+     "t": "p",
+     "text": "L'anno duemilaventisei, il giorno [[DATE|9 marzo 2026]], in [[OPT|Brescia]], presso la sede del Committente,"
+    },
+    {
+     "t": "p",
+     "text": "tra"
+    },
+    {
+     "t": "p",
+     "text": "[[ORG|OFFICINE BELLANDI S.R.L.]], con sede legale in [[ADDR|Via Fratelli Ugoni 37, 25126 Brescia (BS)]], codice fiscale e partita IVA [[ID|03817460177]], iscritta al Registro delle Imprese di Brescia al n. REA [[ID|BS-528114]], capitale sociale [[NEG|euro 120.000,00]] interamente versato, in persona del legale rappresentante pro tempore [[OPT|Ing.]] [[PER|OTTAVIO FERRAGUTI]], nato a [[OPT|Cremona]] il [[DOB|14 febbraio 1968]], domiciliato per la carica presso la sede sociale (di seguito, il «[[NEG|Committente]]»);"
+    },
+    {
+     "t": "p",
+     "text": "e"
+    },
+    {
+     "t": "p",
+     "text": "il [[OPT|sig.]] [[PER|DEL VECCHIO RENATO]], nato a [[OPT|Mantova]] il [[DOB|3 agosto 1979]], residente in [[ADDR|Via San Longino 12/B, 46100 Mantova (MN)]], codice fiscale [[ID|DLVRNT79M03E897C]], titolare dell'impresa individuale [[ORG|Termoidraulica Del Vecchio]], con sede in [[ADDR|Strada Cipata 41, 46100 Mantova (MN)]], partita IVA [[ID|02467830200]] (di seguito, l'«[[NEG|Appaltatore]]»);"
+    },
+    {
+     "t": "p",
+     "text": "di seguito congiuntamente denominati le «Parti»."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|PREMESSO CHE]]"
+    },
+    {
+     "t": "p",
+     "text": "a) il Committente è proprietario dello stabilimento produttivo sito in [[ADDR|Via del Mella 221, 25131 Brescia]], dotato di centrale termica con due [[NEG|caldaie a condensazione]] e relativa rete di distribuzione;\nb) l'Appaltatore dichiara di possedere i requisiti tecnico-professionali di cui al [[NEG|D.M. 37/2008]] e di essere iscritto all'Albo delle imprese artigiane della provincia di Mantova;\nc) le Parti intendono disciplinare i reciproci rapporti come segue."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Art. 1]] – Oggetto"
+    },
+    {
+     "t": "p",
+     "text": "Il Committente affida all'Appaltatore, che accetta, il servizio di manutenzione ordinaria e straordinaria degli impianti di cui in premessa, comprensivo di due visite programmate annue, dell'aggiornamento del [[NEG|libretto di impianto]] e della verniciatura protettiva delle tubazioni a vista in colore [[NEG|bianco]] RAL 9010."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Art. 2]] – Corrispettivo e pagamenti"
+    },
+    {
+     "t": "p",
+     "text": "Per il servizio è dovuto un corrispettivo annuo forfettario di [[NEG|euro 18.400,00]] (diciottomilaquattrocento/00), oltre IVA di legge, da corrispondersi in quattro rate trimestrali posticipate mediante bonifico bancario sul conto intestato all'Appaltatore, IBAN [[IBAN|IT29 L050 3411 5010 0000 0013 847]], entro trenta giorni dal ricevimento della fattura."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "[[NEG|Art. 3]] – Durata"
+    },
+    {
+     "t": "p",
+     "text": "Il contratto ha durata dal [[DATE|1° aprile 2026]] al [[DATE|31 marzo 2028]] e si rinnova tacitamente di anno in anno, salvo disdetta da comunicarsi a mezzo PEC con un preavviso di almeno novanta giorni."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Art. 4]] – Referenti"
+    },
+    {
+     "t": "p",
+     "text": "Per il Committente il referente tecnico è il [[OPT|geom.]] [[PER|Lucio Bianco]], tel. [[PHONE|030 358 2214]], e-mail [[EMAIL|l.bianco@officinebellandi.it]]; per l'Appaltatore è lo stesso [[OPT|sig.]] [[PER|Del Vecchio]], cell. [[PHONE|+39 348 610 2937]], PEC [[EMAIL|termoidraulica.delvecchio@pec.it]]. Ogni variazione dei referenti dovrà essere comunicata per iscritto all'altra Parte."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Art. 5]] – Clausola risolutiva espressa"
+    },
+    {
+     "t": "p",
+     "text": "Il Committente potrà risolvere il contratto ai sensi dell'[[NEG|art. 1456 c.c.]] qualora l'Appaltatore non intervenga entro quarantotto ore dalla segnalazione di un guasto per tre volte nel corso della stessa stagione termica."
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|Art. 6]] – Foro competente"
+    },
+    {
+     "t": "p",
+     "text": "Per ogni controversia relativa all'interpretazione o all'esecuzione del presente contratto è competente in via esclusiva il [[OPT|Tribunale di Brescia]]."
+    },
+    {
+     "t": "p",
+     "text": "Letto, confermato e sottoscritto. Alla sottoscrizione hanno assistito, in qualità di testimoni:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Marisa Lo Presti]], nata a [[OPT|Catania]] il [[DOB|22 novembre 1985]], carta d'identità n. [[ID|CA36284RT]]\n2. [[PER|Federico Rosa]], residente in [[ADDR|Corso Magenta 58, 25121 Brescia]]\n3. [[PER|Anna Maria Zanetti-Gualdi]], impiegata amministrativa del Committente"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "cols",
+     "left": "Il Committente\n[[ORG|Officine Bellandi S.r.l.]]\nIl legale rappresentante\n[[OPT|Ing.]] [[PER|Ottavio\nFerraguti]]",
+     "right": "L'Appaltatore\n[[ORG|Termoidraulica Del Vecchio]]\nIl titolare\n[[PER|Renato Del Vecchio]]"
+    },
+    {
+     "t": "p",
+     "text": "Ai sensi e per gli effetti degli [[NEG|artt. 1341 e 1342 c.c.]], l'Appaltatore dichiara di approvare specificamente le clausole di cui agli articoli 5 (clausola risolutiva espressa) e 6 (foro competente)."
+    },
+    {
+     "t": "lines",
+     "text": "L'Appaltatore\n[[PER|R. Del Vecchio]]"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "it02_fattura",
+  "lang": "it",
+  "country": [
+   "IT"
+  ],
+  "kind": "invoice",
+  "title": "Fattura n. 2026/0187",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Tipografia Gallo & Ferrante S.n.c.]]\ndi [[PER|Silvia Gallo]] e [[PER|Marco Ferrante]]\n[[ADDR|Via Emilia Ovest 412, 43126 Parma (PR)]]\nTel. [[PHONE|0521 284471]] – Fax [[PHONE|0521 284479]]\n[[EMAIL|amministrazione@tipografiagalloferrante.it]] – PEC [[EMAIL|tipografiagalloferrante@legalmail.it]]\nC.F. e P.IVA [[ID|02794150348]] – REA [[ID|PR-268391]]"
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|FATTURA]] N. [[REF|2026/0187]] del [[DATE|17/04/2026]]"
+    },
+    {
+     "t": "cols",
+     "left": "Tipo documento: TD01 – fattura\nOrdine n. [[REF|OA-2026-0412]] del [[DATE|02/04/2026]]\nDDT n. [[REF|0219]] del [[DATE|14/04/2026]]\nScadenza pagamento: [[DATE|17/05/2026]]",
+     "right": "Spett.le\n[[ORG|Studio Associato Leone & Marchetti]]\nc.a. [[OPT|Dott.]] [[PER|Arturo Leone]]\n[[ADDR|Viale Piave 9\n42121 Reggio Emilia (RE)]]\nP.IVA [[ID|02188370353]]\nPEC [[EMAIL|studioleonemarchetti@pec.it]]"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Cod.",
+       "Descrizione",
+       "Q.tà",
+       "Prezzo unit. €",
+       "IVA",
+       "Importo €"
+      ],
+      [
+       "CI-A4",
+       "[[NEG|Carta intestata]] A4, uso mano 100 g, stampa in quadricromia",
+       "2.000",
+       "0,085",
+       "22%",
+       "170,00"
+      ],
+      [
+       "BV-01",
+       "[[NEG|Biglietti da visita]] 85x55 mm – [[PER|Arturo Leone]]",
+       "500",
+       "0,090",
+       "22%",
+       "45,00"
+      ],
+      [
+       "BV-02",
+       "Biglietti da visita 85x55 mm – [[PER|Chiara Marchetti]]",
+       "500",
+       "0,090",
+       "22%",
+       "45,00"
+      ],
+      [
+       "BV-03",
+       "Biglietti da visita 85x55 mm – [[OPT|rag.]] [[PER|Elio Sole]]",
+       "500",
+       "0,090",
+       "22%",
+       "45,00"
+      ],
+      [
+       "BU-11",
+       "[[NEG|Buste commerciali]] 11x23 con finestra, stampa a un colore",
+       "1.500",
+       "0,120",
+       "22%",
+       "180,00"
+      ],
+      [
+       "BR-08",
+       "[[NEG|Brochure]] istituzionale 8 facciate, carta patinata opaca 150 g",
+       "300",
+       "1,850",
+       "22%",
+       "555,00"
+      ],
+      [
+       "CAR",
+       "[[NEG|Cartelline]] con aletta e taglio fustellato",
+       "250",
+       "0,780",
+       "22%",
+       "195,00"
+      ],
+      [
+       "IMP",
+       "Impaginazione grafica e correzione bozze (ore)",
+       "4",
+       "38,000",
+       "22%",
+       "152,00"
+      ],
+      [
+       "SP",
+       "Spese di trasporto con corriere espresso",
+       "1",
+       "18,000",
+       "22%",
+       "18,00"
+      ]
+     ],
+     "size": 8,
+     "widths": [
+      1,
+      5,
+      1,
+      1.4,
+      0.8,
+      1.2
+     ]
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "[[NEG|Imponibile]]",
+       "€ 1.405,00"
+      ],
+      [
+       "IVA 22%",
+       "€ 309,10"
+      ],
+      [
+       "[[NEG|Totale documento]]",
+       "[[NEG|€ 1.714,10]]"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      3,
+      1.5
+     ],
+     "header": false
+    },
+    {
+     "t": "p",
+     "text": "Modalità di pagamento: bonifico bancario a 30 giorni data fattura (MP05) sul conto intrattenuto presso [[OPT|Crédit Agricole Italia]], Agenzia 7 di Parma."
+    },
+    {
+     "t": "lines",
+     "text": "IBAN: [[IBAN|IT76 R062 3012 7000 0004 6218 357]]\nBIC: [[OPT|CRPPIT2P]]"
+    },
+    {
+     "t": "p",
+     "text": "In caso di ritardato pagamento saranno applicati gli interessi moratori di cui al [[NEG|D.Lgs. 231/2002]]. Contributo ambientale CONAI assolto ove dovuto. Copia di cortesia: l'originale della fattura elettronica è stato trasmesso tramite il Sistema di Interscambio ed è disponibile nell'area riservata del cessionario.",
+     "size": 9
+    },
+    {
+     "t": "p",
+     "text": "Per chiarimenti amministrativi può contattare direttamente [[PER|Marco Ferrante]] al numero [[PHONE|+39 339 471 0628]] dal lunedì al venerdì.",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "it03_estratto_conto",
+  "lang": "it",
+  "country": [
+   "IT"
+  ],
+  "kind": "bank_statement",
+  "title": "Estratto conto corrente – III trimestre 2026",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[OPT|BPER Banca S.p.A.]] – Filiale di [[OPT|Bitonto]]"
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|ESTRATTO CONTO CORRENTE]] – III trimestre 2026"
+    },
+    {
+     "t": "lines",
+     "text": "Intestatario: [[PER|MARINO GIUSEPPINA]]\nIndirizzo: [[ADDR|Via Nazionale 118, 70032 Bitonto (BA)]]\nCodice fiscale: [[ID|MRNGPP62E67A893H]] – Codice cliente: [[ID|00847213]]\nConto corrente n. [[ID|000012684537]]\nIBAN: [[IBAN|IT71R0538741390000012684537]] – BIC: [[OPT|BPMOIT22XXX]]\nPeriodo: dal [[DATE|01/07/2026]] al [[DATE|30/09/2026]] – Saldo iniziale: € 4.218,37"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Data",
+       "Valuta",
+       "Descrizione operazione",
+       "Riferimento",
+       "Importo €",
+       "Saldo €"
+      ],
+      [
+       "[[DATE|02/07/2026]]",
+       "[[DATE|02/07/2026]]",
+       "Accredito stipendio da [[ORG|Oleificio Cassano S.r.l.]]",
+       "[[REF|CRO 05387412638091]]",
+       "+1.842,00",
+       "6.060,37"
+      ],
+      [
+       "[[DATE|03/07/2026]]",
+       "[[DATE|03/07/2026]]",
+       "Addebito SDD [[OPT|Enel Energia]] – fornitura luce",
+       "[[REF|SDD 2026070388412]]",
+       "−96,40",
+       "5.963,97"
+      ],
+      [
+       "[[DATE|06/07/2026]]",
+       "[[DATE|06/07/2026]]",
+       "Bonifico a favore di [[PER|Vito Sasso]] – affitto luglio",
+       "[[REF|TRN 0538726187003401]]",
+       "−550,00",
+       "5.413,97"
+      ],
+      [
+       "[[DATE|08/07/2026]]",
+       "[[DATE|08/07/2026]]",
+       "Prelievo ATM sportello [[OPT|Bitonto]] Centro",
+       "[[REF|ATM 004127]]",
+       "−200,00",
+       "5.213,97"
+      ],
+      [
+       "[[DATE|10/07/2026]]",
+       "[[DATE|09/07/2026]]",
+       "Pagamento POS [[ORG|Farmacia Lamanna]]",
+       "[[REF|POS 77310245]]",
+       "−23,80",
+       "5.190,17"
+      ],
+      [
+       "[[DATE|13/07/2026]]",
+       "[[DATE|13/07/2026]]",
+       "Addebito SDD [[OPT|TIM]] – linea fissa",
+       "[[REF|SDD 2026071240917]]",
+       "−29,90",
+       "5.160,27"
+      ],
+      [
+       "[[DATE|15/07/2026]]",
+       "[[DATE|15/07/2026]]",
+       "Bonifico da [[PER|Angela Fiore]] – rimborso spese",
+       "[[REF|CRO 03069518842210]]",
+       "+120,00",
+       "5.280,27"
+      ],
+      [
+       "[[DATE|18/07/2026]]",
+       "[[DATE|17/07/2026]]",
+       "Pagamento POS [[OPT|Conad]] Bitonto",
+       "[[REF|POS 77318806]]",
+       "−64,15",
+       "5.216,12"
+      ],
+      [
+       "[[DATE|22/07/2026]]",
+       "[[DATE|22/07/2026]]",
+       "Bonifico a favore di [[PER|Domenico D'Elia]] – lavori idraulici",
+       "[[REF|TRN 0538726198441207]]",
+       "−380,00",
+       "4.836,12"
+      ],
+      [
+       "[[DATE|27/07/2026]]",
+       "[[DATE|27/07/2026]]",
+       "Pagamento delega F24 – acconto [[NEG|IMU]]",
+       "[[REF|F24 2026072700193]]",
+       "−148,00",
+       "4.688,12"
+      ],
+      [
+       "[[DATE|31/07/2026]]",
+       "[[DATE|31/07/2026]]",
+       "[[NEG|Canone mensile]] conto",
+       "[[REF|CAN 0726]]",
+       "−4,50",
+       "4.683,62"
+      ],
+      [
+       "[[DATE|03/08/2026]]",
+       "[[DATE|01/08/2026]]",
+       "Accredito stipendio da [[ORG|Oleificio Cassano S.r.l.]]",
+       "[[REF|CRO 05387413108264]]",
+       "+1.842,00",
+       "6.525,62"
+      ],
+      [
+       "[[DATE|04/08/2026]]",
+       "[[DATE|04/08/2026]]",
+       "Addebito SDD [[OPT|Enel Energia]] – fornitura luce",
+       "[[REF|SDD 2026080491375]]",
+       "−102,85",
+       "6.422,77"
+      ],
+      [
+       "[[DATE|05/08/2026]]",
+       "[[DATE|05/08/2026]]",
+       "Bonifico a favore di [[PER|Vito Sasso]] – affitto agosto",
+       "[[REF|TRN 0538726201755902]]",
+       "−550,00",
+       "5.872,77"
+      ],
+      [
+       "[[DATE|07/08/2026]]",
+       "[[DATE|06/08/2026]]",
+       "Pagamento POS [[ORG|Trattoria Il Melograno S.a.s.]]",
+       "[[REF|POS 77324519]]",
+       "−86,00",
+       "5.786,77"
+      ],
+      [
+       "[[DATE|10/08/2026]]",
+       "[[DATE|10/08/2026]]",
+       "Ricarica telefonica [[OPT|Vodafone]]",
+       "[[REF|RIC 1082264]]",
+       "−20,00",
+       "5.766,77"
+      ],
+      [
+       "[[DATE|13/08/2026]]",
+       "[[DATE|13/08/2026]]",
+       "Bonifico istantaneo a [[PER|Francesca Marino]] – regalo",
+       "[[REF|TRN 0538726204490118]]",
+       "−150,00",
+       "5.616,77"
+      ],
+      [
+       "[[DATE|17/08/2026]]",
+       "[[DATE|17/08/2026]]",
+       "Prelievo ATM sportello [[OPT|Molfetta]]",
+       "[[REF|ATM 009354]]",
+       "−250,00",
+       "5.366,77"
+      ],
+      [
+       "[[DATE|21/08/2026]]",
+       "[[DATE|20/08/2026]]",
+       "Pagamento POS [[OPT|Decathlon]] Bari",
+       "[[REF|POS 77331140]]",
+       "−59,99",
+       "5.306,78"
+      ],
+      [
+       "[[DATE|26/08/2026]]",
+       "[[DATE|26/08/2026]]",
+       "Bonifico da [[PER|LOMUSCIO PIETRO]] – quota vacanza",
+       "[[REF|CRO 08883472910035]]",
+       "+300,00",
+       "5.606,78"
+      ],
+      [
+       "[[DATE|31/08/2026]]",
+       "[[DATE|31/08/2026]]",
+       "[[NEG|Canone mensile]] conto",
+       "[[REF|CAN 0826]]",
+       "−4,50",
+       "5.602,28"
+      ],
+      [
+       "[[DATE|01/09/2026]]",
+       "[[DATE|01/09/2026]]",
+       "Accredito stipendio da [[ORG|Oleificio Cassano S.r.l.]]",
+       "[[REF|CRO 05387413577420]]",
+       "+1.842,00",
+       "7.444,28"
+      ],
+      [
+       "[[DATE|02/09/2026]]",
+       "[[DATE|02/09/2026]]",
+       "Addebito SDD [[OPT|Enel Energia]] – fornitura luce",
+       "[[REF|SDD 2026090294066]]",
+       "−88,70",
+       "7.355,58"
+      ],
+      [
+       "[[DATE|04/09/2026]]",
+       "[[DATE|04/09/2026]]",
+       "Bonifico a favore di [[PER|Vito Sasso]] – affitto settembre",
+       "[[REF|TRN 0538726209013376]]",
+       "−550,00",
+       "6.805,58"
+      ],
+      [
+       "[[DATE|08/09/2026]]",
+       "[[DATE|07/09/2026]]",
+       "Pagamento POS [[ORG|Cartolibreria Giannuzzi S.n.c.]] – materiale scolastico",
+       "[[REF|POS 77338872]]",
+       "−112,40",
+       "6.693,18"
+      ],
+      [
+       "[[DATE|11/09/2026]]",
+       "[[DATE|11/09/2026]]",
+       "Addebito SDD [[OPT|TIM]] – linea fissa",
+       "[[REF|SDD 2026091141203]]",
+       "−29,90",
+       "6.663,28"
+      ],
+      [
+       "[[DATE|15/09/2026]]",
+       "[[DATE|15/09/2026]]",
+       "Bonifico a favore di [[ORG|Centro Odontoiatrico Bitontino S.r.l.]]",
+       "[[REF|TRN 0538726212287745]]",
+       "−420,00",
+       "6.243,28"
+      ],
+      [
+       "[[DATE|19/09/2026]]",
+       "[[DATE|19/09/2026]]",
+       "Bonifico da [[PER|Angela Fiore]] – saldo spese condominiali",
+       "[[REF|CRO 03069521170684]]",
+       "+60,00",
+       "6.303,28"
+      ],
+      [
+       "[[DATE|23/09/2026]]",
+       "[[DATE|22/09/2026]]",
+       "Pagamento POS [[OPT|Conad]] Bitonto",
+       "[[REF|POS 77344021]]",
+       "−71,35",
+       "6.231,93"
+      ],
+      [
+       "[[DATE|26/09/2026]]",
+       "[[DATE|26/09/2026]]",
+       "Prelievo ATM sportello [[OPT|Bitonto]] Centro",
+       "[[REF|ATM 004127]]",
+       "−150,00",
+       "6.081,93"
+      ],
+      [
+       "[[DATE|30/09/2026]]",
+       "[[DATE|30/09/2026]]",
+       "[[NEG|Canone mensile]] conto",
+       "[[REF|CAN 0926]]",
+       "−4,50",
+       "6.077,43"
+      ],
+      [
+       "[[DATE|30/09/2026]]",
+       "[[DATE|30/09/2026]]",
+       "[[NEG|Imposta di bollo]] – periodo 3° trimestre",
+       "[[REF|BOLLO Q3]]",
+       "−8,55",
+       "6.068,88"
+      ]
+     ],
+     "size": 7,
+     "widths": [
+      1.15,
+      1.15,
+      4.3,
+      2.5,
+      1.1,
+      1.1
+     ]
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "Riepilogo del periodo"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Voce",
+       "Importo €"
+      ],
+      [
+       "Saldo iniziale al [[DATE|01/07/2026]]",
+       "4.218,37"
+      ],
+      [
+       "Totale accrediti",
+       "6.006,00"
+      ],
+      [
+       "Totale addebiti",
+       "4.155,49"
+      ],
+      [
+       "Saldo finale al [[DATE|30/09/2026]]",
+       "6.068,88"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      3,
+      1.5
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Condizioni economiche applicate"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Voce",
+       "Condizione"
+      ],
+      [
+       "[[NEG|Tasso creditore]] annuo nominale",
+       "0,00%"
+      ],
+      [
+       "[[NEG|Canone mensile]] di tenuta conto",
+       "€ 4,50"
+      ],
+      [
+       "[[NEG|Imposta di bollo]]",
+       "€ 34,20 annui, addebitata trimestralmente"
+      ],
+      [
+       "Commissione bonifico online SEPA",
+       "€ 0,00"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      3,
+      2
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Delegato a operare sul conto: [[PER|Marino Francesca]], in forza di procura depositata presso la filiale il [[DATE|12/01/2024]]."
+    },
+    {
+     "t": "p",
+     "text": "Gestore del rapporto: [[PER|Nicola Abbaticchio]] – tel. [[PHONE|080 371 9542]] – e-mail [[EMAIL|nicola.abbaticchio@bper.it]]."
+    },
+    {
+     "t": "p",
+     "text": "Il presente estratto conto si intende approvato in mancanza di opposizione scritta entro 60 giorni dal ricevimento, ai sensi dell'[[NEG|art. 119 del D.Lgs. 385/1993]]. Eventuali reclami possono essere presentati all'Ufficio Reclami della banca e, in caso di mancata risposta, all'[[OPT|Arbitro Bancario Finanziario]].",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "it04_lettera_dimissione",
+  "lang": "it",
+  "country": [
+   "IT"
+  ],
+  "kind": "medical",
+  "title": "Lettera di dimissione – Medicina Interna",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|Casa di Cura Villa Ginestra S.p.A.]]\nU.O. di Medicina Interna – Responsabile: [[OPT|Prof.]] [[PER|Guido Amato]]\n[[ADDR|Via Toscana 40, 40141 Bologna (BO)]]\nTel. [[PHONE|051 643 2210]] – Fax [[PHONE|051 643 2299]] – [[EMAIL|medicina.interna@villaginestra-bo.it]]"
+    },
+    {
+     "t": "p",
+     "text": "[[OPT|Bologna]], [[DATE|10 settembre 2026]]"
+    },
+    {
+     "t": "lines",
+     "text": "Alla cortese attenzione della\n[[OPT|Dott.ssa]] [[PER|Lorenza Dall'Olio]]\nMedico di Medicina Generale\n[[ADDR|Via Andrea Costa 131, 40134 Bologna]]"
+    },
+    {
+     "t": "h",
+     "text": "[[NEG|LETTERA DI DIMISSIONE]]"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Paziente",
+       "[[PER|CASTELLANI ERMANNO]]"
+      ],
+      [
+       "Data e luogo di nascita",
+       "[[DOB|11/06/1951]] – [[OPT|Imola]] (BO)"
+      ],
+      [
+       "Codice fiscale",
+       "[[ID|CSTRNN51H11E289B]]"
+      ],
+      [
+       "Tessera sanitaria",
+       "[[ID|80380000150264719382]]"
+      ],
+      [
+       "N. nosologico",
+       "[[ID|2026/004318]]"
+      ],
+      [
+       "Ricovero",
+       "dal [[DATE|02/09/2026]] al [[DATE|10/09/2026]]"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      1.4,
+      3
+     ],
+     "header": false
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Gentile]] Collega,\nLe riaffidiamo il Suo assistito [[OPT|sig.]] [[PER|Ermanno Castellani]], di anni 75, ricoverato presso la nostra Unità Operativa per [[NEG|scompenso cardiaco]] congestizio riacutizzato (classe NYHA III) in paziente affetto da [[NEG|fibrillazione atriale]] permanente, [[NEG|diabete mellito tipo 2]] e [[NEG|insufficienza renale cronica]] stadio 3a."
+    },
+    {
+     "t": "h",
+     "text": "Decorso clinico"
+    },
+    {
+     "t": "p",
+     "text": "All'ingresso il paziente presentava dispnea per sforzi lievi, edemi declivi bilaterali e crepitii basali. Gli esami ematochimici evidenziavano [[NEG|NT-proBNP]] 4.820 pg/mL, [[NEG|creatinina]] 1,46 mg/dL (eGFR 47 mL/min), [[NEG|HbA1c]] 7,9%, potassio 4,1 mEq/L. L'[[NEG|ecocardiogramma]] eseguito il [[DATE|04/09/2026]] dal [[OPT|Dott.]] [[PER|Matteo Lupo]] ha mostrato una frazione di eiezione del 38% con insufficienza mitralica moderata. È stata impostata terapia diuretica endovenosa con progressivo calo ponderale (4,2 kg) e risoluzione del quadro congestizio. Il ritmo è rimasto in fibrillazione atriale a frequenza controllata."
+    }
+   ],
+   [
+    {
+     "t": "h",
+     "text": "Terapia consigliata alla dimissione"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Farmaco",
+       "Posologia"
+      ],
+      [
+       "[[NEG|Furosemide]] 25 mg",
+       "1 cp alle ore 8 e 1 cp alle ore 14"
+      ],
+      [
+       "[[NEG|Bisoprololo]] 2,5 mg",
+       "1 cp alle ore 8"
+      ],
+      [
+       "[[NEG|Apixaban]] 5 mg",
+       "1 cp alle ore 8 e alle ore 20"
+      ],
+      [
+       "[[NEG|Dapagliflozin]] 10 mg",
+       "1 cp alle ore 8"
+      ],
+      [
+       "[[NEG|Metformina]] 500 mg",
+       "1 cp a pranzo e 1 cp a cena"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      2,
+      3
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Si raccomandano controllo quotidiano del peso corporeo, dieta iposodica e restrizione idrica a 1,5 litri/die. Durante la degenza il paziente ha eseguito consulenza diabetologica con la [[OPT|Dott.ssa]] [[PER|M. C. Ricci]], che ha confermato lo schema terapeutico in corso."
+    },
+    {
+     "t": "p",
+     "text": "Controllo ambulatoriale cardiologico fissato per il [[DATE|24/09/2026]] alle ore 10:30 (prenotazione CUP n. [[REF|BO26-771842]]); esami di controllo (emocromo, elettroliti, funzionalità renale) da eseguire il [[DATE|21/09/2026]] presso il nostro punto prelievi."
+    },
+    {
+     "t": "p",
+     "text": "Familiare di riferimento: la figlia, [[OPT|sig.ra]] [[PER|Serena Nobile]], residente in [[ADDR|Via Mazzini 77, 40137 Bologna]], cell. [[PHONE|333 908 1427]]. Il paziente ha espresso il consenso a che le informazioni sul proprio stato di salute siano comunicate anche al genero, [[OPT|sig.]] [[PER|Franco Nobile]]."
+    },
+    {
+     "t": "p",
+     "text": "Restiamo a disposizione per ogni chiarimento. Cordiali saluti."
+    },
+    {
+     "t": "space",
+     "h": 6
+    },
+    {
+     "t": "cols",
+     "left": "Il Medico di reparto\n[[OPT|Dott.]] [[PER|Pietro\nSalvadori]]",
+     "right": "Il Responsabile dell'U.O.\n[[OPT|Prof.]] [[PER|Guido Amato]]"
+    },
+    {
+     "t": "p",
+     "text": "Documento firmato digitalmente ai sensi del [[NEG|D.Lgs. 82/2005]]. Le informazioni contenute nella presente lettera sono coperte dal segreto professionale e destinate esclusivamente al medico curante.",
+     "size": 9
+    }
+   ]
+  ]
+ },
+ {
+  "id": "it05_lettera_assunzione",
+  "lang": "it",
+  "country": [
+   "IT"
+  ],
+  "kind": "hr_letter",
+  "title": "Lettera di assunzione a tempo indeterminato",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "[[ORG|LOGISTICA ADRIATICA S.P.A.]]\nSede legale e operativa: [[ADDR|Via dell'Industria 21, 35129 Padova (PD)]]\nTel. [[PHONE|049 870 3300]] – [[EMAIL|info@logisticaadriatica.it]]\nC.F. e P.IVA [[ID|04751290281]] – REA [[ID|PD-391247]] – Capitale sociale € 2.400.000,00 i.v."
+    },
+    {
+     "t": "p",
+     "text": "[[OPT|Padova]], [[DATE|5 ottobre 2026]]"
+    },
+    {
+     "t": "lines",
+     "text": "Raccomandata a mano\nEgregio Signor\n[[PER|Tommaso Neri]]\n[[ADDR|Via Facciolati 64\n35126 Padova (PD)]]"
+    },
+    {
+     "t": "p",
+     "text": "Oggetto: [[NEG|lettera di assunzione]] a tempo indeterminato"
+    },
+    {
+     "t": "p",
+     "text": "[[NEG|Gentile]] [[OPT|sig.]] [[PER|Neri]],\nfacendo seguito ai colloqui intercorsi, siamo lieti di comunicarLe che la nostra Società ha deciso di assumerLa alle proprie dipendenze con [[NEG|contratto di lavoro subordinato]] a tempo indeterminato e a tempo pieno, alle condizioni di seguito indicate."
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Cognome e nome",
+       "[[PER|NERI Tommaso]]"
+      ],
+      [
+       "Luogo e data di nascita",
+       "[[OPT|Rovigo]], [[DOB|19/03/1994]]"
+      ],
+      [
+       "Codice fiscale",
+       "[[ID|NRETMS94C19H620W]]"
+      ],
+      [
+       "Matricola aziendale",
+       "[[ID|LA-04127]]"
+      ],
+      [
+       "Data di assunzione",
+       "[[DATE|2 novembre 2026]]"
+      ],
+      [
+       "Qualifica e livello",
+       "[[NEG|Impiegato]], 3° livello – [[NEG|CCNL Logistica, Trasporto Merci e Spedizione]]"
+      ],
+      [
+       "Mansione",
+       "Addetto alla pianificazione dei trasporti"
+      ],
+      [
+       "Sede di lavoro",
+       "Magazzino di [[ADDR|Via Svezia 8, 35127 Padova]]"
+      ],
+      [
+       "Retribuzione annua lorda",
+       "€ 31.850,00 suddivisa in 14 mensilità"
+      ],
+      [
+       "Periodo di prova",
+       "90 giorni di effettivo lavoro"
+      ],
+      [
+       "Orario di lavoro",
+       "40 ore settimanali, dal lunedì al venerdì"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      1.6,
+      3.4
+     ],
+     "header": false
+    },
+    {
+     "t": "p",
+     "text": "Lei risponderà gerarchicamente alla [[OPT|dott.ssa]] [[PER|Ilaria De Rosa]], Responsabile Pianificazione, che curerà il Suo inserimento nel reparto insieme al capoturno [[PER|Gianni Speranza]]. Per tutto quanto non espressamente previsto dalla presente si fa rinvio al contratto collettivo applicato e alle norme di legge vigenti, in particolare all'[[NEG|art. 2096 c.c.]] in materia di [[NEG|patto di prova]]."
+    }
+   ],
+   [
+    {
+     "t": "p",
+     "text": "Il primo giorno di lavoro La preghiamo di presentarsi alle ore 8:30 presso l'Ufficio Risorse Umane, munito dei seguenti documenti: [[NEG|carta d'identità]] in corso di validità, [[NEG|tessera sanitaria]], dichiarazione per le detrazioni d'imposta. Abbiamo già registrato, per l'accredito dello stipendio, l'IBAN da Lei comunicato in sede di colloquio: [[IBAN|IT61V0306912117100000071436]]."
+    },
+    {
+     "t": "p",
+     "text": "I Suoi dati personali saranno trattati esclusivamente per la gestione del rapporto di lavoro, nel rispetto del [[NEG|Regolamento (UE) 2016/679]]; l'informativa completa Le sarà consegnata in sede di firma."
+    },
+    {
+     "t": "p",
+     "text": "Per qualsiasi chiarimento può rivolgersi alla [[OPT|sig.ra]] [[PER|Paola Gentile]] dell'Ufficio Risorse Umane (tel. [[PHONE|049 870 3316]], cell. [[PHONE|+39 347 215 8864]], e-mail [[EMAIL|p.gentile@logisticaadriatica.it]])."
+    },
+    {
+     "t": "p",
+     "text": "Le saremo grati se vorrà restituirci copia della presente sottoscritta per accettazione entro il [[DATE|16 ottobre 2026]]."
+    },
+    {
+     "t": "p",
+     "text": "Con i migliori saluti."
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "cols",
+     "left": "[[ORG|Logistica Adriatica S.p.A.]]\nIl Direttore del Personale\n[[PER|Alberto Maria\nGrande]]",
+     "right": "Per ricevuta e accettazione\n[[PER|Tommaso Neri]]\n____________________"
+    }
+   ]
+  ]
+ },
+ {
+  "id": "it06_corrispondenza_legale",
+  "lang": "it",
+  "country": [
+   "IT"
+  ],
+  "kind": "legal_correspondence",
+  "title": "Causa Ceramiche Valsecchia c/ Edilnova – scambio e-mail",
+  "dense": false,
+  "pages": [
+   [
+    {
+     "t": "lines",
+     "text": "Da: [[PER|Giulia Martinelli]] <[[EMAIL|g.martinelli@studiomartinellisacchi.it]]>\nInviato: lunedì [[DATE|12 ottobre 2026]] 09:14\nA: [[PER|Davide Fontana]] <[[EMAIL|d.fontana@ceramichevalsecchia.it]]>\nCc: [[PER|Carlo Alberto Sacchi]] <[[EMAIL|ca.sacchi@studiomartinellisacchi.it]]>; [[EMAIL|segreteria@studiomartinellisacchi.it]]\nOggetto: R: [[ORG|Ceramiche Valsecchia]] c/ [[ORG|Edilnova]] – [[OPT|Trib. Modena]] R.G. n. [[REF|3187/2026]]"
+    },
+    {
+     "t": "p",
+     "text": "Gentile [[PER|Davide]],\ngrazie per il materiale inviato venerdì. Ho esaminato i [[NEG|documenti di trasporto]] e le e-mail scambiate con il direttore lavori di controparte: confermano che le [[NEG|piastrelle]] della seconda fornitura sono state accettate senza riserve al momento della consegna, il che ridimensiona parecchio la contestazione sui vizi sollevata nella [[NEG|comparsa di costituzione]]."
+    },
+    {
+     "t": "p",
+     "text": "Il giudice istruttore, [[OPT|dott.ssa]] [[PER|Elena Ragazzoni]], ha fissato l'udienza di prima comparizione per il [[DATE|19 novembre 2026]]: entro il [[DATE|30 ottobre 2026]] scade il termine per la terza memoria di cui all'[[NEG|art. 171-ter c.p.c.]], nella quale dovremo articolare i capitoli di prova e indicare i testimoni."
+    },
+    {
+     "t": "p",
+     "text": "Per la prova testimoniale proporrei i seguenti testi, che Le chiedo di contattare per verificarne la disponibilità:"
+    },
+    {
+     "t": "lines",
+     "text": "1. [[PER|Sergio Valli]], capo magazzino, [[ADDR|Via Radici in Piano 300, 41049 Sassuolo (MO)]]\n2. [[PER|Bruna Ferrari]], addetta alla logistica in uscita\n3. [[OPT|geom.]] [[PER|Nicolò Pellacani]], all'epoca assistente del direttore lavori di [[ORG|Edilnova]]"
+    },
+    {
+     "t": "p",
+     "text": "Quanto alla [[NEG|consulenza tecnica d'ufficio]], l'[[OPT|ing.]] [[PER|G. B. Rinaldi]] ha depositato una bozza che non tiene conto delle schede tecniche del prodotto: ne parlerò con il nostro consulente di parte prima dell'udienza. Ricordo che il credito azionato con il [[NEG|decreto ingiuntivo]] n. [[REF|1142/2026]] ammonta a [[NEG|euro 148.720,00]], oltre interessi moratori e spese della fase monitoria."
+    },
+    {
+     "t": "p",
+     "text": "Un cordiale saluto,"
+    },
+    {
+     "t": "lines",
+     "text": "[[OPT|Avv.]] [[PER|Giulia Martinelli]]\n[[ORG|Studio Legale Martinelli Sacchi]]\n[[ADDR|Via Emilia Centro 182, 41121 Modena]]\nTel. [[PHONE|059 221 845]] – Cell. [[PHONE|+39 335 712 4480]]\nPEC: [[EMAIL|giulia.martinelli@ordineavvocatimodena.it]]"
+    }
+   ],
+   [
+    {
+     "t": "lines",
+     "text": "-----Messaggio originale-----\nDa: [[PER|Davide Fontana]] <[[EMAIL|d.fontana@ceramichevalsecchia.it]]>\nInviato: venerdì [[DATE|9 ottobre 2026]] 18:02\nA: [[PER|Giulia Martinelli]] <[[EMAIL|g.martinelli@studiomartinellisacchi.it]]>\nOggetto: Documenti causa [[ORG|Edilnova]]"
+    },
+    {
+     "t": "p",
+     "text": "Buonasera Avvocato,\nLe giro in allegato i DDT delle due forniture e la corrispondenza con il cantiere di [[OPT|Carpi]]. Il nostro amministratore unico, [[PER|Renzo Valsecchi]], mi chiede se abbia senso proporre a controparte una definizione [[NEG|transattiva]] prima dell'udienza: secondo lui l'[[OPT|ing.]] [[PER|Massimo Bertoldi]] potrebbe accettare un pagamento dilazionato in sei rate."
+    },
+    {
+     "t": "p",
+     "text": "L'avvocato di controparte, [[OPT|avv.]] [[PER|Federica Orlando-Pace]] del foro di [[OPT|Bologna]], ha scritto ieri al nostro ufficio acquisti chiedendo un incontro; il suo numero diretto è [[PHONE|051 236 7712]]. Gliela inoltro?"
+    },
+    {
+     "t": "lines",
+     "text": "Mi trova in ufficio fino alle 19 oppure al cellulare [[PHONE|346 552 0193]].\nSaluti,\n[[PER|Davide Fontana]]\nResponsabile Amministrativo\n[[ORG|Ceramiche Valsecchia S.r.l.]]\n[[ADDR|Via Ancora 15, 41049 Sassuolo (MO)]] – P.IVA [[ID|03361080363]]"
+    },
+    {
+     "t": "space",
+     "h": 8
+    },
+    {
+     "t": "h",
+     "text": "Scheda pratica (uso interno dello studio)"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Pratica",
+       "[[REF|MS/2026/0291]]"
+      ],
+      [
+       "Cliente",
+       "[[ORG|CERAMICHE VALSECCHIA S.R.L.]], in persona dell'amministratore unico [[PER|VALSECCHI RENZO]]"
+      ],
+      [
+       "Controparte",
+       "[[ORG|EDILNOVA COSTRUZIONI S.P.A.]] (P.IVA [[ID|02986540363]]), in persona del legale rappresentante [[PER|BERTOLDI MASSIMO]]"
+      ],
+      [
+       "Difensore di controparte",
+       "[[OPT|Avv.]] [[PER|Federica Orlando-Pace]]"
+      ],
+      [
+       "Autorità",
+       "[[OPT|Tribunale di Modena]], Sezione II civile – R.G. n. [[REF|3187/2026]]"
+      ],
+      [
+       "Oggetto",
+       "[[NEG|Opposizione a decreto ingiuntivo]] – fornitura di materiale ceramico"
+      ],
+      [
+       "Prossima udienza",
+       "[[DATE|19 novembre 2026]], ore 11:00"
+      ],
+      [
+       "Avvocato responsabile",
+       "[[OPT|Avv.]] [[PER|Giulia Martinelli]]; collaboratore [[OPT|dott.]] [[PER|Luca Pio Ferraresi]]"
+      ]
+     ],
+     "size": 9,
+     "widths": [
+      1.4,
+      4
+     ],
+     "header": false
+    }
+   ]
+  ]
+ }
+]

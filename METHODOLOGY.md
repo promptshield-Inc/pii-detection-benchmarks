@@ -1,210 +1,126 @@
-# Methodology
+# Methodology (revision of 2026-10-21)
 
-This document explains the reasoning behind every measurement choice in the
-benchmark. Read this if you're going to publicly discuss the results — the
-numbers are easy to misread without it.
+This revision replaces the span-count comparison of 2026-05-27, which is kept
+unchanged under [`archive/2026-05-27/`](archive/2026-05-27/). That first run
+had no answer key: it counted how many spans each tool emitted and how many
+they shared, and said so in its own caveats ("F1 against a labelled corpus is
+the right metric; we plan to add this in a future revision"). This is that
+revision.
 
-## 1. The metric we care about
+## 1. What is measured
 
-A naive PII benchmark asks: *"how many spans did each system flag?"* That
-metric is wrong. A system that emits 100 spans on a contract where 30 are
-real PII and 70 are noise (URLs, country mentions, generic department names)
-is **worse** than a system that emits 32 spans of which 30 are real PII.
+Every document carries an answer key: each piece of personal data in it is
+labelled inline, word by word (`[[PER|Jean-Baptiste DUPONT]]`). The scorer
+aligns those labels onto the text each tool actually read, then checks every
+word.
 
-The metric we report is:
+| Measure | Definition |
+| --- | --- |
+| **Left readable** | A sensitive word (`PER ORG ADDR ID IBAN PHONE EMAIL DOB`) not fully inside any detected region. The region's type does not matter: a name caught as an organisation is still hidden. |
+| **Caught** | Sensitive words covered ÷ sensitive words. |
+| **Wrong highlights per document** | Distinct `(type, text)` pairs of regions that cover no sensitive, neutral or reference word. One repeated wrong label counts once, because it is one thing a reviewer removes. |
+| **Clean documents** | Documents with no sensitive word left readable. |
 
-1. **Per-document totals** (how many distinct spans each system emitted).
-2. **Per-entity-type breakdown** (which classes each system over/under-detected).
-3. **Overlap** (normalized text strings both systems flagged) — a proxy for
-   precision when ground-truth labels aren't available.
+Neutral labels (`OPT`: titles, courts, public authorities, big brands; `REF`:
+invoice and case numbers) count neither way. An ordinary date (`DATE`) is fine
+under a `DATE` region and a false positive under any other type. `NEG` marks
+trap words a careless tool hides (drug names, headings in capitals, role nouns,
+article numbers); covering one is a false positive like any other plain word.
 
-We do **not** report a single "F1 score" because doing so would require
-ground-truth labelling we don't have. F1 against a labelled corpus is the
-right metric; we plan to add this in a future revision.
+The scorer is in [`scorer/`](scorer/) and is the same code promptShield's own
+detection work is measured with.
 
-## 2. Why no ground-truth labels (yet)
+## 2. The corpus
 
-Hand-labelling 14 PDFs across 7 languages with full PII annotations is
-~40 hours of focused work by a native speaker. We haven't done it. The
-overlap-with-Presidio metric is a serviceable proxy that highlights the
-*direction* of differences without claiming absolute precision/recall.
+48 documents, 6 per language in English, French, German, Spanish, Italian,
+Dutch, Portuguese and Polish: a contract, an invoice, a bank statement, a
+medical letter, an HR letter and legal correspondence. 4,489 sensitive words
+in 3,072 labelled spans, plus 1,330 trap words.
 
-If you want to contribute hand-labelled ground truth for any of the bundled
-documents, open a PR — that's the single highest-leverage contribution
-this benchmark could receive.
+The documents are fictional and were written for this revision by AI agents,
+one per language, from the spec in [`LABELLING_SPEC.md`](LABELLING_SPEC.md).
+The agents had no access to promptShield's detection code, to its earlier test
+documents or to each other's work, and were told never to make a sentence
+easier or harder to detect than real life. National ID numbers, IBANs and tax
+numbers carry valid check digits. Every label was verified by script against
+the text extracted from the rendered PDF (`ALL ALIGNED` in every language); no
+human annotator reviewed them.
 
-## 3. The "default install" qualifier
+**None of these documents existed when the engine was last changed**, so no
+version of promptShield was tuned on them. That is the reason for writing a new
+corpus rather than reusing promptShield's development sets.
 
-Microsoft Presidio is a flexible toolkit. The numbers here measure
-**`pip install presidio-analyzer` with zero configuration** plus the
-matching spaCy small model per language. This is what a developer gets in
-the first 5 minutes of evaluating Presidio.
+## 3. Same text for both tools
 
-Presidio fully tuned would have:
+PDFs are read once, by promptShield's loader (pypdfium2). The extracted text
+and word boxes of every page are stored in each promptShield result file, and
+`presidio_run.py` runs Presidio on exactly that text. A difference in the
+numbers is therefore a detection difference, never an extraction one.
 
-- Custom recognizers for the country-specific IDs the user cares about
-- A transformer NER backend (HuggingFaceNerRecognizer or GLiNERRecognizer)
-  in place of spaCy small models
-- Confidence thresholds tuned per entity type
-- Optionally Azure AI Language or AWS Comprehend recognizers under the
-  same abstraction
+## 4. Presidio configuration
 
-A tuned Presidio install would close most of the precision gap shown here.
-The point of this benchmark isn't *"Presidio can't do X"* — it's *"by default,
-Presidio emits the noise classes shown below. promptShield filters them out
-of the box."*
+`presidio-analyzer` 2.2.364 (latest on PyPI at the time of the run) with its
+default recognizer registry for the document's language, one spaCy model per
+language, no custom recognizers and no score threshold. Two runs:
 
-If you maintain a tuned-Presidio configuration you'd like added to this
-benchmark for comparison, PR welcome.
+- **large** (`*_core_news_lg` / `en_core_web_lg`): the headline, because
+  Presidio's own default configuration (`conf/default.yaml`) loads the large
+  English model;
+- **small** (`*_sm`): what most quickstarts install.
 
-## 4. Why these 14 documents
+**Polish:** the Polish spaCy models label entities with the NKJP tagset
+(`persName`, `orgName`, `placeName`, `geogName`), which Presidio's default
+label map does not contain, so out of the box every Polish entity is dropped
+and Presidio finds no Polish names at all. We added those four mappings, which
+any Polish Presidio user has to do. Without them Presidio's Polish result would
+be 20.5% caught rather than 64.1%.
 
-The 7-language corpus is the same `demo/` folder that promptShield's website
-mounts on the `/demo` route, so anyone clicking through the marketing demo
-sees identical content. The 2 documents per locale (one contract, one
-financial statement) were chosen because:
+A tuned Presidio (custom recognizers for national IDs, a transformer NER
+model, per-entity thresholds) would do better than this. We measure what a
+team gets from the documented setup, and would add a tuned configuration if
+someone maintains one.
 
-- They're the two doc types PII-anonymization customers most commonly process
-- They produce *qualitatively different* benchmark results:
-  - **Contracts** have real PII (names, addresses, phones, emails, business
-    IDs of contracting parties) — promptShield emits the same regions as
-    Presidio's high-signal subset
-  - **Financial statements** are largely boilerplate (registered office,
-    audit firm name, country of incorporation, generic department refs)
-    — most NER hits here are noise, and promptShield's filters drop most
-    of them
+## 5. promptShield configuration
 
-This split makes the noise-vs-signal distinction visible without needing
-ground-truth labels.
+The current release (1.4.1) runs exactly what pressing **Detect** does in the
+desktop app with default settings: the release's own upload and re-detect
+endpoints, the Detect window's default entity types, each document's country,
+the language-default engine, no optional LLM layer.
 
-## 5. Specific over-detection categories in Presidio's default install
+## 6. Release history
 
-These are the patterns where the benchmark shows the gap most clearly.
+To show how detection changed, earlier releases were run the same way: each
+from its own git tag, through its own API, on the same machine, with today's
+model files. The PyTorch stack (`torch`, `transformers`, `gliner`) is blocked,
+because the installed app never shipped it; an engine a release could only run
+through PyTorch falls back exactly as it did for that release's users.
 
-### 5.1 URLs
+- Releases: 1.0.14 (the version in the first revision), 1.1.3, 1.2.0, 1.2.5,
+  1.3.4, 1.3.8, 1.4.1.
+- **1.2.8 is left out**: its build could not load the newer engine packs on
+  users' machines (fixed in 1.3.2), so its source code would overstate what its
+  users had.
+- The history counts **seven languages**. Polish arrived in 1.4.0; scoring older
+  releases on a language they did not offer would measure nothing useful.
+- Each release is scored on the text **it** extracted. Releases up to 1.2.5
+  extracted a few lines differently, so 5 labelled spans (22 sensitive words)
+  cannot be placed in their text and are not counted: their totals are out of
+  3,891 sensitive words instead of 3,913. That flatters those releases very
+  slightly.
 
-Default Presidio's `UrlRecognizer` flags every URL in the document body. In
-a typical contract that's the footer support link, the privacy policy URL,
-the law firm's contact page, etc. — **8–10 spans per contract**, virtually
-none of which are PII the reviewer would want to redact.
+## 7. Caveats
 
-### 5.2 Standalone country / city names
+1. **Clean, born-digital PDFs only.** Scans, OCR errors, Office files and
+   unusual layouts are not in this revision.
+2. **Machine-written labels.** Checked by script, not by a human annotator. If
+   you find a wrong label, open an issue; corrections are published with a new
+   dated results folder.
+3. **Six document types.** Immigration files, HR spreadsheets or medical
+   charts would give different numbers.
+4. **Default Presidio.** See section 4.
 
-Presidio's spaCy small model tags every mention of `France`, `Paris`,
-`Germany`, `London` as `LOCATION`. In a French financial statement we
-observed **73 LOCATION spans** — almost all are jurisdictional prose
-("registered in France", "governed by French law", "with offices in Paris")
-rather than the data subject's address. promptShield's
-`filter_standalone_country` drops these unless preceded by personal-context
-phrases like "born in" or "resident of".
+## 8. Versions
 
-### 5.3 Person fragments
-
-Default spaCy NER on multilingual text often emits the same person as
-multiple overlapping spans: `Pierre`, `Dubois`, and `Pierre Dubois` all
-appear as separate `PERSON` entities. In Italian we observed 26 `PERSON`
-spans on a contract that has 10 distinct named parties. promptShield's
-`filter_span_coalescence` drops the contained spans, keeping only the
-longest form per page.
-
-### 5.4 Generic-noun ORG
-
-`Marketing`, `Vorstand`, `Direction Générale`, `Board of Directors`,
-`Comitato di Direzione` — Presidio's NER tags these as ORG. They're not
-organisations the reviewer would redact. promptShield ships a 60–90 entry
-per-language stopword list (`generic_orgs_<lang>.txt`) that drops them.
-
-### 5.5 Role titles tagged as PERSON
-
-Capitalised role nouns at line start (`CEO`, `Directeur`,
-`Geschäftsführer`) sometimes get tagged `PERSON` by BERT/spaCy.
-promptShield's `filter_role_titles` keeps a 50-entry multilingual
-stopword set and drops these.
-
-### 5.6 Jurisdictional boilerplate
-
-"This Agreement is governed by the laws of France." → Presidio flags
-*France* as LOCATION. *France* in this context is contract chrome, not
-PII about the data subject. promptShield's `filter_jurisdiction_boilerplate`
-detects 60+ multilingual jurisdictional phrases and drops any LOCATION/ORG
-span that falls inside the matched window.
-
-## 6. Where promptShield is more aggressive (real recall risk)
-
-The default-install comparison advantages promptShield on contracts and
-financial statements. But the filters are not free — there are document
-classes where they would hurt:
-
-- **Immigration paperwork**: country names ARE the PII (which country
-  someone is from, citizenship status, visa origin). The
-  `standalone_country` filter would drop real PII here.
-- **Medical notes with first-name-only references**: "Marie complains of
-  headaches" — if the `common_first_names` filter is enabled (it's
-  opt-in, default off), bare first-name mentions would be dropped.
-- **HR records mentioning roles**: "the CEO of XYZ Corp" — the
-  `role_titles` filter would drop "CEO" even though it's contextually
-  identifying.
-
-The filters are configurable per detection profile, and promptShield ships
-sensible defaults. The "Should I trust this benchmark?" answer is: **yes
-for contracts and financial statements**, less so for immigration and HR
-documents. Future revisions of this benchmark should add those document
-classes.
-
-## 7. Text extraction parity
-
-Both systems extract text from the same PDFs using `pypdfium2`. The
-benchmark script in this repo uses pypdfium2 directly to mirror what
-promptShield does internally. This ensures the comparison is on the same
-text input — not "Presidio reading the PDF differently than promptShield".
-
-PDF extraction matters: a system that misses 30% of the text would
-trivially "find less PII" than a system reading the full text. By
-controlling extraction we isolate the detection difference.
-
-## 8. spaCy model choice (the controversial one)
-
-We use **spaCy small models** (`*_core_news_sm`, `*_core_web_sm`) for
-Presidio. The reasons:
-
-- They're the default `python -m spacy download <lang>_core_news_sm` for
-  most Presidio quickstarts
-- They're the only ones that fit in CI / desktop / low-memory contexts
-- They're 30–80 MB each (transformer models are 400–1500 MB)
-
-If you'd argue that Presidio should be benchmarked with `_core_news_lg` or
-`_core_news_trf` (transformer-based), you're right that it would produce
-better precision. We chose small to mirror the typical first-install
-experience. A future revision should add a "Presidio + transformer NER"
-column to show the precision lift.
-
-## 9. Versions used
-
-- Presidio 2.2.362 (released 2026-05-23)
-- spaCy 3.8.11
-- pypdfium2 4.30.0
-- promptShield 1.0.14 (commit `c180bbd`)
-- BERT NER: `Davlan/bert-base-multilingual-cased-ner-hrl`
-
-The benchmark date stamp on each result CSV records when it was run, so
-re-runs against future versions of either system don't overwrite history.
-
-## 10. Honest caveats
-
-In rank order of importance:
-
-1. **No ground-truth labels** — overlap is a proxy, not a precision/recall
-   measurement. F1 numbers would be more rigorous and we don't have them yet.
-2. **Default-install only** — a tuned Presidio install would close most of
-   the gap. We measured what most Presidio users actually deploy in the
-   first month, not what a Presidio expert could achieve.
-3. **Synthetic corpus** — real customer documents have richer noise (OCR
-   errors, scanned originals, multi-column layouts, table-heavy financial
-   appendices) we don't measure here.
-4. **Two document classes only** — contracts + financial statements.
-   Medical records, HR forms, immigration paperwork would produce
-   different gaps.
-5. **No latency or throughput measurement** — this is a precision/recall
-   benchmark, not a performance benchmark.
-
-If you can address any of these in a PR, please do.
+- promptShield 1.4.1 (and the releases in section 6)
+- presidio-analyzer 2.2.364, spaCy 3.8, spaCy model packs 3.8.0
+- Measured 2026-10-21
