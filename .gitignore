@@ -1,2 +1,4 @@
 # Python environments created by the README instructions
 .venv*/
+__pycache__/
+*.pyc
