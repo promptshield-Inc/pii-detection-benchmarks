@@ -36,7 +36,11 @@ from pathlib import Path
 warnings.filterwarnings("ignore")
 
 REPO = Path(__file__).resolve().parent
-LATEST = sorted(p for p in (REPO / "results").iterdir() if p.is_dir() and p.name[:2] == "20")[-1]
+# The default is the newest MAIN (multilingual) set, a folder named by date alone.
+# A language set such as 2026-10-31-ja is only used when named with --results, so the
+# commands published with the main results keep reproducing them.
+LATEST = sorted(p for p in (REPO / "results").iterdir()
+                if p.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", p.name))[-1]
 
 TYPE_MAP = {
     "PERSON": "PERSON", "PER": "PERSON",

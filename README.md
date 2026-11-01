@@ -103,7 +103,9 @@ python score.py --results results/2026-10-31-ja
 promptShield installed: Presidio runs on the page text stored in the
 promptShield result file, so both tools are scored on the same characters.
 `python score.py --results results/2026-10-21 --langs pl` scores one language.
-Without `--results`, both scripts use the newest folder in `results/`.
+Without `--results`, both scripts use the newest main set in `results/` (a folder named by
+date alone, such as `2026-10-21`). A language set such as `2026-10-31-ja` runs only when
+named with `--results`.
 
 ## Layout
 

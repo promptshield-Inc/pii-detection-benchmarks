@@ -9,13 +9,14 @@ words are neutral, and an ordinary date counts as fine only under a DATE
 region. Full rules: scorer/scoring.py and scorer/budget.py.
 
 usage:
-    python score.py                              # latest results folder
+    python score.py                              # latest main results folder (dated, no language suffix)
     python score.py --results results/2026-10-21 [--langs en,fr,...]
 -> prints one row per result file, writes summary.json in that folder
 """
 from __future__ import annotations
 
 import argparse
+import re
 import json
 import sys
 from collections import Counter
@@ -27,7 +28,11 @@ sys.path.insert(0, str(REPO / "scorer"))
 import scoring  # noqa: E402
 from budget import doc_budget  # noqa: E402
 
-LATEST = sorted(p for p in (REPO / "results").iterdir() if p.is_dir() and p.name[:2] == "20")[-1]
+# The default is the newest MAIN (multilingual) set, a folder named by date alone.
+# A language set such as 2026-10-31-ja is only used when named with --results, so the
+# commands published with the main results keep reproducing them.
+LATEST = sorted(p for p in (REPO / "results").iterdir()
+                if p.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", p.name))[-1]
 
 
 def summarise(path: Path, langs: set[str] | None) -> dict:
