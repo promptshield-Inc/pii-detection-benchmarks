@@ -36,28 +36,46 @@ import difflib
 import re
 from collections import Counter
 
-from render import page_truth
+from render import WORD, bounded, is_cjk, page_truth
 
-WORD = re.compile(r"[^\W_]+")
+# WORD and the boundary rule live in render.py so every module scores the same
+# unit: a Latin word, or a single CJK character (see render.WORD).
+
+
+def _word_body(word: str) -> str:
+    """One whitespace-free word of a span as a pattern.
+
+    Japanese wraps between ANY two characters, so the extracted text can hold
+    `取締\\n役` where the authored text has `取締役`. If that copy did not match,
+    the ordinal pairing below would silently put every LATER span with the same
+    surface on the wrong occurrence (found while writing the ja corpus). So
+    whitespace is allowed between two adjacent CJK characters. It is applied
+    identically to the authored and the extracted text, so ordinals stay
+    paired, and a word with no CJK character is unchanged.
+    """
+    out = re.escape(word[0])
+    for prev, ch in zip(word, word[1:]):
+        out += (r"\s*" if is_cjk(prev) and is_cjk(ch) else "") + re.escape(ch)
+    return out
 
 
 def _pat(surface: str):
-    words = [re.escape(w) for w in re.split(r"\s+", surface.strip()) if w]
+    words = [_word_body(w) for w in re.split(r"\s+", surface.strip()) if w]
     body = r"\s+".join(words)
-    return re.compile(r"(?<![^\W_])" + body + r"(?![^\W_])")
+    return re.compile(bounded(body, surface))
 
 
 def _gap_pat(surface: str):
     """Words of the span in order, with up to 200 chars of other text between
     them (a two-column block is extracted row-interleaved)."""
-    words = [re.escape(w) for w in re.split(r"\s+", surface.strip()) if w]
+    words = [_word_body(w) for w in re.split(r"\s+", surface.strip()) if w]
     body = r"(?:.{0,200}?)".join(f"({w})" for w in words)
-    return re.compile(r"(?<![^\W_])" + body + r"(?![^\W_])", re.S)
+    return re.compile(bounded(body, surface), re.S)
 
 
 def _respaced_pat(surface: str):
     chars = [re.escape(ch) for ch in surface if not ch.isspace()]
-    return re.compile(r"(?<![^\W_])" + r"\s*".join(chars) + r"(?![^\W_])")
+    return re.compile(bounded(r"\s*".join(chars), surface))
 
 
 def _word_map(plain: str, full_text: str):

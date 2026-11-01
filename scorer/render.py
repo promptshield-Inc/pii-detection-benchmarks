@@ -40,6 +40,38 @@ SENSITIVE = {"PER", "ORG", "ADDR", "ID", "IBAN", "PHONE", "EMAIL", "DOB"}
 
 MARK = re.compile(r"\[\[([A-Z]+)\|(.*?)\]\]", re.S)
 
+# ── The scoring unit ──────────────────────────────────────────────────────
+#
+# Every measurement in this benchmark counts WORD tokens. For the Latin-script
+# languages a word is a run of letters/digits, as it always was. Japanese has
+# no spaces, so the same rule makes a whole line one "word" and a name inside
+# it could never be scored on its own. A CJK character (kanji, kana, the
+# iteration marks) is therefore its own token: for Japanese the unit is the
+# character, which is also what a redaction has to cover. Text with no CJK
+# characters tokenises exactly as before, so no other language's numbers move.
+CJK = r"々-〇぀-ヿ㐀-䶿一-鿿豈-﫿ｦ-ﾟ"
+WORD = re.compile(rf"(?=[^\W_])[{CJK}]|[^\W_{CJK}]+")
+NON_CJK_WORD_CHAR = rf"[^\W_{CJK}]"
+_CJK_CHAR = re.compile(rf"(?=[^\W_])[{CJK}]")
+
+
+def is_cjk(ch: str) -> bool:
+    """True for a CJK word character (a token on its own)."""
+    return bool(_CJK_CHAR.fullmatch(ch))
+
+
+def bounded(body: str, surface: str) -> str:
+    """Wrap a span pattern so it starts and ends on token boundaries.
+
+    A boundary is only needed where the span's edge character could merge with
+    its neighbour into one token, i.e. where both are non-CJK word characters.
+    For Latin text this is exactly the old `(?<![^\\W_]) … (?![^\\W_])`.
+    """
+    s = surface.strip()
+    pre = "" if s and is_cjk(s[0]) else rf"(?<!{NON_CJK_WORD_CHAR})"
+    post = "" if s and is_cjk(s[-1]) else rf"(?!{NON_CJK_WORD_CHAR})"
+    return pre + body + post
+
 
 def parse(text: str):
     """Return (plain_text, spans[(start,end,tag,surface)])."""
@@ -122,12 +154,53 @@ def _fonts():
     raise SystemExit("no Arial-compatible TTF found (install fonts-liberation or fonts-dejavu)")
 
 
+# Japanese documents need a font with Japanese glyphs. reportlab embeds only
+# TrueType outlines, so the CFF-based fonts (Noto Sans CJK, Hiragino) cannot be
+# used. (path, subfont index) for regular and bold; IPAex has no bold and uses
+# its regular face for both.
+_JA_FONT_CANDIDATES = [
+    ((r"C:\Windows\Fonts\YuGothR.ttc", 0), (r"C:\Windows\Fonts\YuGothB.ttc", 0)),
+    ((r"C:\Windows\Fonts\msgothic.ttc", 2), (r"C:\Windows\Fonts\msgothic.ttc", 2)),
+    (("/usr/share/fonts/opentype/ipaexfont-gothic/ipaexg.ttf", 0),
+     ("/usr/share/fonts/opentype/ipaexfont-gothic/ipaexg.ttf", 0)),
+    (("/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf", 0),
+     ("/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf", 0)),
+]
+
+
+def _ja_fonts():
+    from reportlab.pdfbase import pdfmetrics
+    from reportlab.pdfbase.ttfonts import TTFont
+    if "JaGothic" in pdfmetrics.getRegisteredFontNames():
+        return
+    for (regular, ri), (bold, bi) in _JA_FONT_CANDIDATES:
+        if Path(regular).exists() and Path(bold).exists():
+            pdfmetrics.registerFont(TTFont("JaGothic", regular, subfontIndex=ri))
+            pdfmetrics.registerFont(TTFont("JaGothic-Bold", bold, subfontIndex=bi))
+            return
+    raise SystemExit("no Japanese TrueType font found (Windows: Yu Gothic / MS Gothic; "
+                     "Linux: apt install fonts-ipaexfont-gothic)")
+
+
+def _font_names(doc) -> tuple[str, str, str | None]:
+    """(regular, bold, wordWrap) for a document. Only Japanese changes: every
+    other language keeps Arial and space-based wrapping, so their committed
+    PDFs render exactly as before."""
+    if doc.get("lang") == "ja":
+        _ja_fonts()
+        # Japanese lines break between characters; space-based wrapping would
+        # push a whole sentence onto one line and off the page edge.
+        return "JaGothic", "JaGothic-Bold", "CJK"
+    _fonts()
+    return "Arial", "Arial-Bold", None
+
+
 def _esc(s: str) -> str:
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
 def render_doc(doc, out_pdf: Path):
-    _fonts()
+    regular, bold, wrap = _font_names(doc)
     from reportlab.lib.pagesizes import A4
     from reportlab.lib.styles import ParagraphStyle
     from reportlab.lib import colors
@@ -136,9 +209,10 @@ def render_doc(doc, out_pdf: Path):
     dense = bool(doc.get("dense"))
     body = 7 if dense else 10
     margin = 28 if dense else 56
-    base = ParagraphStyle("b", fontName="Arial", fontSize=body, leading=body * 1.22)
-    head = ParagraphStyle("h", fontName="Arial-Bold", fontSize=body + 2, leading=(body + 2) * 1.3,
-                          spaceAfter=4, spaceBefore=4)
+    extra = {"wordWrap": wrap} if wrap else {}
+    base = ParagraphStyle("b", fontName=regular, fontSize=body, leading=body * 1.22, **extra)
+    head = ParagraphStyle("h", fontName=bold, fontSize=body + 2, leading=(body + 2) * 1.3,
+                          spaceAfter=4, spaceBefore=4, **extra)
     story = []
     W = A4[0] - 2 * margin
     for pi, page in enumerate(doc["pages"]):
@@ -170,7 +244,7 @@ def render_doc(doc, out_pdf: Path):
             elif t == "table":
                 sz = b.get("size", 8 if not dense else 6.5)
                 st = ParagraphStyle("t", parent=base, fontSize=sz, leading=sz * 1.2)
-                sth = ParagraphStyle("th", parent=st, fontName="Arial-Bold")
+                sth = ParagraphStyle("th", parent=st, fontName=bold)
                 rows = []
                 for ri, row in enumerate(b["rows"]):
                     s = sth if (ri == 0 and b.get("header", True)) else st
@@ -231,7 +305,7 @@ def check(docs):
             except Exception as e:  # noqa: BLE001
                 problems.append(f"{d['id']} p{pi+1}: {e}")
                 continue
-            nwords += len(re.findall(r"[^\W_]+", plain))
+            nwords += len(WORD.findall(plain))
             for *_, tag, _s in spans:
                 tags[tag] = tags.get(tag, 0) + 1
         stats[d["id"]] = (nwords, tags)

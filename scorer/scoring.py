@@ -19,7 +19,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 from align import align_page
-from render import load_docs, SENSITIVE
+from render import load_docs, SENSITIVE, WORD, is_cjk
 
 BENCH = Path(__file__).resolve().parent
 # Set by bench.py for a held-out corpus; the dev corpus by default.
@@ -35,7 +35,7 @@ CORPUS = BENCH / "corpus"
 # `ALL 0 0 0 ...` budget row, because `for lang in LANGS` never reached "pl".
 # A zero that reads as a result is worse than a crash, and it meant Polish
 # recall was unmeasurable from the tooling regardless of the corpus.
-LANGS = ["en", "fr", "de", "es", "it", "nl", "pt", "pl"]
+LANGS = ["en", "fr", "de", "es", "it", "nl", "pt", "pl", "ja"]
 
 
 def ordered_langs(present) -> list[str]:
@@ -68,7 +68,10 @@ def type_ok(tag, rtype):
 
 
 def _is_letter(c):
-    return c.isalnum()
+    """A character that can continue a word across a region edge. A CJK
+    character is its own token (render.WORD), so an edge next to one never cuts
+    a word; Latin text is judged exactly as before."""
+    return c.isalnum() and not is_cjk(c)
 
 
 def region_spans(region, ft):
@@ -187,7 +190,7 @@ def score_doc(doc, res):
             for tag, surf, _o, _n in al["unfound"]:
                 if tag in SENSITIVE:
                     c["align_unfound_sens"] += 1
-                    c["align_unfound_sens_words"] += len(re.findall(r"[^\W_]+", surf))
+                    c["align_unfound_sens_words"] += len(WORD.findall(surf))
                 ex["unaligned"].append(f"{doc['id']}: {tag} {surf!r}".replace("\n", "⏎"))
         if al["mismatch"]:
             ex["text_diff"].append(f"{doc['id']} p{pi+1}: missing={al['mismatch']['missing']} "

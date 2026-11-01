@@ -124,3 +124,75 @@ through PyTorch falls back exactly as it did for that release's users.
 - promptShield 1.4.1 (and the releases in section 6)
 - presidio-analyzer 2.2.364, spaCy 3.8, spaCy model packs 3.8.0
 - Measured 2026-10-21
+
+## 9. Japanese (2026-10-31)
+
+A separate set, scored and reported on its own: `corpus/ja/`, results in
+`results/2026-10-31-ja/`.
+
+**Corpus.** 8 documents, 17 pages, written natively in Japanese by an AI agent
+that never read promptShield's detection code or saw any detector's output:
+a law firm's intake card and conflict check, a tax firm's incorporation record,
+an employment-insurance separation certificate, a home-care case-conference
+deck, a rental application, school transfer papers, a city dog register and an
+internal investigation report (one dense page). 517 sensitive spans (PER 269,
+ID 68, ORG 66, ADDR 47, PHONE 42, EMAIL 14, DOB 11) and 93 trap spans. The
+labelling rules are those of [`LABELLING_SPEC.md`](LABELLING_SPEC.md) with
+Japanese conventions: honorifics and titles after a name (様, さん, 氏, 先生,
+御中, 部長) are neutral and outside the name; furigana readings are names;
+Japanese bank accounts are not IBANs, so the account number is an ID and the
+account holder a name; an ID covers the number as printed, 第 and 号 included.
+Identifiers with a check digit (マイナンバー, 法人番号, 適格請求書 登録番号) were
+generated and verified by script. Labels were checked by script against the
+text extracted from the PDFs, not by a human annotator.
+
+**Tuning status.** The set was written as unseen test documents and scored once
+on 2026-10-31. No Japanese detection rule was written from it afterwards, and
+the promptShield result here is identical to that first scoring.
+
+**Unit.** Japanese text has no spaces, so the word rule used for the other
+languages would make a whole line one "word". For Japanese the unit is the
+character: each kanji, kana or iteration mark is one unit, and a run of Latin
+letters or digits is one unit (`scorer/render.py`, `WORD`). Text without CJK
+characters tokenises exactly as before, so the 2026-10-21 scores are
+unchanged (checked: every number `score.py`, `scorer/scoring.py` and
+`scorer/budget.py` print for `results/2026-10-21/` is identical before and
+after the change).
+
+**Same text for both tools**, as in section 3: the PDFs were read once by
+promptShield's loader, and Presidio runs on that stored text.
+
+**Presidio.** `presidio-analyzer` 2.2.366 (latest on PyPI on 2026-10-31), its
+default recognizer registry for `ja`, no custom recognizer, no score threshold.
+Presidio ships no Japan-specific recognizer (its supported-entities page lists
+19 country sections, Japan is not one,
+https://presidio.dataprivacystack.org/supported_entities/, read 2026-10-31), so
+for Japanese it has its language-independent patterns (e-mail, phone numbers
+via `phonenumbers`, IBAN, IP, URL, dates and a few more) plus the spaCy model.
+Three configurations:
+
+- `ja_core_news_lg` 3.8.0 (the headline) and `ja_core_news_sm` 3.8.0: no label
+  map needed, their labels (PERSON, ORG, GPE, LOC, DATE, ...) are in Presidio's
+  default map;
+- GiNZA `ja_ginza` 5.3.0: GiNZA labels entities with the Extended Named Entity
+  hierarchy (Person, Company, Province, City, Postal_Address, Phone_Number,
+  about 200 labels), none of which Presidio's default map knows, so without a
+  map every GiNZA entity is dropped. We chained GiNZA's own ENE to OntoNotes
+  table (`ginza.ene_ontonotes_mapper.ENE_ONTONOTES_MAPPING`) into Presidio's
+  default map and sent `ID_Number` to Presidio's `ID` (GiNZA's table sends it
+  to PRODUCT, which Presidio drops). See `build_analyzer` in `presidio_run.py`.
+
+Exact environments: `requirements-ja.txt` and `requirements-ja-ginza.txt`
+(GiNZA pins an older SudachiPy than the spaCy models, hence two).
+
+**promptShield.** A development build (source of 2026-10-31, after release
+1.4.2), not a release: Japanese detection changed after 1.4.2. It runs what
+**Detect** does with default settings, country Japan, the language's default
+engine and no optional LLM layer.
+
+**Caveats.** Eight documents is a small set, and a single document can move a
+category (17 of promptShield's 63 leaked characters are in the case-conference
+deck). The documents are AI-written and fictional, with clean born-digital
+layouts and no handwriting. Presidio was run without Japanese recognizers; a
+team that writes recognizers for Japanese identifiers and addresses would do
+better, and the same labels and scorer can measure by how much.
