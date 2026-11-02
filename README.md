@@ -6,6 +6,8 @@ them. Everything needed to check the numbers is in this repository: the
 documents, the labels, both tools' output, the scorer, and the script that
 re-runs Presidio.
 
+promptShield is an offline document anonymizer for Windows: [results page](https://promptshield.ca/compare/presidio), [download](https://promptshield.ca/download).
+
 This is the 2026-10-21 revision. The first run (2026-05-27, 14 PDFs, span
 counts without an answer key) is kept unchanged in
 [`archive/2026-05-27/`](archive/2026-05-27/).
